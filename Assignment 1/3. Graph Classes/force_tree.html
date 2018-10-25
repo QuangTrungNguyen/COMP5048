@@ -1,0 +1,263 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.link {
+  stroke: #ccc;
+}
+
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+var json = {
+"nodes": [
+{"name": "tree"},
+{"name": "2-strongly regular  planar"},
+{"name": "locally connected  triangular..."},
+{"name": "bipartite  claw--free"},
+{"name": "linearly convex triangular grid graph"},
+{"name": "cubic  planar"},
+{"name": "cactus"},
+{"name": "unicyclic"},
+{"name": "planar"},
+{"name": "chordal  hamiltonian  planar"},
+{"name": "Delaunay"},
+{"name": "bipartite  maximum degree 3..."},
+{"name": "Apollonian network"},
+{"name": "2-tree  probe interval"},
+{"name": "2-subdivision  planar"},
+{"name": "probe interval  tree"},
+{"name": "H_{n,q} grid"},
+{"name": "Urquhart"},
+{"name": "planar  strongly regular"},
+{"name": "Laman  planar"},
+{"name": "planar of maximum degree 3"},
+{"name": "planar  triangle--free"},
+{"name": "2--outerplanar"},
+{"name": "binary tree  partial grid"},
+{"name": "series--parallel"},
+{"name": "partial 3--tree  planar"},
+{"name": "caterpillar"},
+{"name": "relative neighbourhood graph"},
+{"name": "chordal  planar"},
+{"name": "bipartite  planar"},
+{"name": "solid grid graph"},
+{"name": "odd-hole--free  planar"},
+{"name": "grid graph"},
+{"name": "Gabriel"},
+{"name": "K_2--free"},
+{"name": "homothetic triangle contact"},
+{"name": "bar visibility"},
+{"name": "outerplanar"},
+{"name": "binary tree"},
+{"name": "grid graph  maximum degree 3"},
+{"name": "polyhedral"},
+{"name": "median  planar"},
+{"name": "planar of maximum degree 4"},
+{"name": "2-tree"},
+{"name": "domination perfect  planar"},
+{"name": "solid triangular grid graph"},
+{"name": "strict B_1-VPG contact"},
+{"name": "5-regular  planar"},
+{"name": "(C_4,triangle)--free  planar"},
+{"name": "(C_4,C_6,C_8,K_{1,4},odd-cycle)--free..."},
+{"name": "E--free  planar"},
+{"name": "4-regular  planar"},
+{"name": "2-connected  linearly convex..."},
+{"name": "k--outerplanar"},
+{"name": "2-connected  cubic  planar"},
+{"name": "partial grid"},
+{"name": "SC 2-tree"},
+{"name": "bipartite  maximum degree 4..."},
+{"name": "triangular grid graph"},
+{"name": "tolerance  tree"},
+{"name": "unit bar visibility"},
+{"name": "grid"},
+{"name": "(C_4,C_5,K_4,diamond)--free ..."},
+{"name": "maximal planar"},
+{"name": "Halin"},
+{"name": "2-terminal series--parallel"}
+],
+"links": [
+{"source": 38, "target": 23},
+{"source": 2, "target": 52},
+{"source": 49, "target": 38},
+{"source": 57, "target": 55},
+{"source": 57, "target": 11},
+{"source": 4, "target": 52},
+{"source": 5, "target": 54},
+{"source": 37, "target": 6},
+{"source": 37, "target": 56},
+{"source": 8, "target": 58},
+{"source": 8, "target": 10},
+{"source": 8, "target": 53},
+{"source": 8, "target": 46},
+{"source": 8, "target": 33},
+{"source": 8, "target": 17},
+{"source": 8, "target": 27},
+{"source": 8, "target": 47},
+{"source": 8, "target": 18},
+{"source": 8, "target": 1},
+{"source": 8, "target": 35},
+{"source": 0, "target": 59},
+{"source": 0, "target": 38},
+{"source": 20, "target": 11},
+{"source": 20, "target": 5},
+{"source": 21, "target": 29},
+{"source": 24, "target": 65},
+{"source": 24, "target": 37},
+{"source": 24, "target": 43},
+{"source": 31, "target": 28},
+{"source": 31, "target": 29},
+{"source": 22, "target": 64},
+{"source": 25, "target": 64},
+{"source": 25, "target": 24},
+{"source": 25, "target": 28},
+{"source": 28, "target": 9},
+{"source": 28, "target": 43},
+{"source": 28, "target": 12},
+{"source": 29, "target": 57},
+{"source": 30, "target": 61},
+{"source": 32, "target": 30},
+{"source": 32, "target": 39},
+{"source": 11, "target": 49},
+{"source": 11, "target": 3},
+{"source": 26, "target": 34},
+{"source": 59, "target": 15},
+{"source": 35, "target": 25},
+{"source": 36, "target": 43},
+{"source": 36, "target": 60},
+{"source": 15, "target": 26},
+{"source": 40, "target": 64},
+{"source": 6, "target": 0},
+{"source": 6, "target": 3},
+{"source": 6, "target": 7},
+{"source": 41, "target": 0},
+{"source": 42, "target": 57},
+{"source": 42, "target": 51},
+{"source": 42, "target": 20},
+{"source": 43, "target": 56},
+{"source": 43, "target": 13},
+{"source": 44, "target": 3},
+{"source": 44, "target": 16},
+{"source": 44, "target": 14},
+{"source": 45, "target": 4},
+{"source": 46, "target": 19},
+{"source": 48, "target": 0},
+{"source": 48, "target": 16},
+{"source": 48, "target": 14},
+{"source": 48, "target": 49},
+{"source": 53, "target": 22},
+{"source": 55, "target": 3},
+{"source": 55, "target": 32},
+{"source": 58, "target": 45},
+{"source": 62, "target": 0},
+{"source": 62, "target": 16},
+{"source": 62, "target": 14},
+{"source": 62, "target": 49},
+{"source": 3, "target": 34},
+{"source": 8, "target": 36},
+{"source": 8, "target": 63},
+{"source": 8, "target": 40},
+{"source": 8, "target": 31},
+{"source": 8, "target": 44},
+{"source": 8, "target": 21},
+{"source": 8, "target": 42},
+{"source": 8, "target": 62},
+{"source": 8, "target": 50},
+{"source": 19, "target": 43},
+{"source": 20, "target": 16},
+{"source": 21, "target": 48},
+{"source": 22, "target": 37},
+{"source": 23, "target": 34},
+{"source": 28, "target": 0},
+{"source": 29, "target": 41},
+{"source": 11, "target": 39},
+{"source": 36, "target": 0},
+{"source": 40, "target": 12},
+{"source": 41, "target": 61},
+{"source": 50, "target": 3},
+{"source": 55, "target": 23},
+{"source": 58, "target": 2},
+{"source": 63, "target": 12}
+]
+};
+
+var width = 1150,
+    height = 1600
+    
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+    
+// build the arrow.
+svg.append("svg:defs").selectAll("marker")
+    .data(["end"])      // Different link/path types can be defined here
+  .enter().append("svg:marker")    // This section adds in the arrows
+    .attr("id", String)
+    .attr("viewBox", "0 -5 10 10")
+    .attr("refX", 15)
+    .attr("refY", -1.5)
+    .attr("markerWidth", 7)
+    .attr("markerHeight", 7)
+    .attr("orient", "auto")
+  .append("svg:path")
+    .attr("d", "M0,-5L10,0L0,5");
+    
+var force = d3.layout.force()
+    .gravity(0.05)
+    .distance(100)
+    .charge(-350)
+    .size([width, height]);
+
+force
+      .nodes(json.nodes)
+      .links(json.links)
+      .start();
+
+  var link = svg.selectAll(".link")
+      .data(json.links)
+    .enter().append("line")
+      .attr("class", "link")
+      .attr("marker-end", "url(#end)");
+
+  var node = svg.selectAll(".node")
+      .data(json.nodes)
+    .enter().append("g")
+      .attr("class", "node")
+      .call(force.drag);
+
+  node.append("image")
+      .attr("xlink:href", "https://www.netlify.com/img/global/favicon/favicon-32x32.png")
+      .attr("x", -8)
+      .attr("y", -8)
+      .attr("width", 16)
+      .attr("height", 16);
+
+  node.append("text")
+      .attr("dx", 12)
+      .attr("dy", ".35em")
+      .text(function(d) { return d.name })
+      .style("fill", "#FF4081");
+
+  force.on("tick", function(e) {
+      var k = 6 * e.alpha;
+    json.links.forEach(function(d, i) {
+      d.source.y -= k;
+      d.target.y += k;
+    });
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+  });
+</script>

@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <graph mode="dynamic" timeformat="date" timerepresentation="interval" defaultedgetype="undirected">
+    <attributes class="node" mode="static">
+      <attribute id="lat" title="lat" type="double"></attribute>
+      <attribute id="lng" title="lng" type="double"></attribute>
+    </attributes>
+    <nodes>
+      
+      <node id="LGA" label="LGA" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="40.7769311"></attvalue>
+    <attvalue for="lng" value="-73.876159"></attvalue>
+  </attvalues>
+</node>
+
+<node id="ATL" label="ATL" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="33.64041"></attvalue>
+    <attvalue for="lng" value="-84.41985"></attvalue>
+  </attvalues>
+</node>
+
+<node id="BDL" label="BDL" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="41.938873"></attvalue>
+    <attvalue for="lng" value="-72.68507"></attvalue>
+  </attvalues>
+</node>
+
+
+<node id="BNA" label="BNA" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="36.131687"></attvalue>
+    <attvalue for="lng" value="-86.668823"></attvalue>
+  </attvalues>
+</node>
+
+<node id="BOS" label="BOS" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="42.36697"></attvalue>
+    <attvalue for="lng" value="-71.02236"></attvalue>
+  </attvalues>
+</node>
+
+<node id="BUF" label="BUF" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="42.93406"></attvalue>
+    <attvalue for="lng" value="-78.72965"></attvalue>
+  </attvalues>
+</node>
+
+<node id="BWI" label="BWI" start="2000-05-01" end="2000-06-30" >
+  <attvalues>
+    <attvalue for="lat" value="39.19244"></attvalue>
+    <attvalue for="lng" value="-76.6943"></attvalue>
+  </attvalues>
+</node>
+
+<node id="CLE" label="CLE" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="41.41243"></attvalue>
+    <attvalue for="lng" value="-81.84799"></attvalue>
+  </attvalues>
+</node>
+
+<node id="CLT" label="CLT" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="35.214402"></attvalue>
+    <attvalue for="lng" value="-80.943799"></attvalue>
+  </attvalues>
+</node>
+
+<node id="CMH" label="CMH" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="39.99816"></attvalue>
+    <attvalue for="lng" value="-82.886443"></attvalue>
+  </attvalues>
+</node>
+
+<node id="CVG" label="CVG" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="39.05327"></attvalue>
+    <attvalue for="lng" value="-84.663017"></attvalue>
+  </attvalues>
+</node>
+
+
+<node id="DCA" label="DCA" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="38.851298"></attvalue>
+    <attvalue for="lng" value="-77.04687"></attvalue>
+  </attvalues>
+</node>
+
+<node id="DEN" label="DEN" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="39.849312"></attvalue>
+    <attvalue for="lng" value="-104.6738"></attvalue>
+  </attvalues>
+</node>
+
+<node id="DFW" label="DFW" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="32.897480"></attvalue>
+    <attvalue for="lng" value="-97.040443"></attvalue>
+  </attvalues>
+</node>
+
+<node id="DTW" label="DTW" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="42.212399"></attvalue>
+    <attvalue for="lng" value="-83.353401"></attvalue>
+  </attvalues>
+</node>
+
+<node id="EGE" label="EGE" start="2000-01-01" end="2000-04-30" >
+  <attvalues>
+    <attvalue for="lat" value="39.640148"></attvalue>
+    <attvalue for="lng" value="-106.913606"></attvalue>
+  </attvalues>
+</node>
+
+<node id="FLL" label="FLL" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="26.0724"></attvalue>
+    <attvalue for="lng" value="-80.1517"></attvalue>
+  </attvalues>
+</node>
+
+<node id="GSO" label="GSO" start="2000-01-01" end="2001-10-31" >
+  <attvalues>
+    <attvalue for="lat" value="36.1056"></attvalue>
+    <attvalue for="lng" value="-79.9368"></attvalue>
+  </attvalues>
+</node>
+
+<node id="GSP" label="GSP" start="2003-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="34.89076"></attvalue>
+    <attvalue for="lng" value="-82.216825"></attvalue>
+  </attvalues>
+</node>
+
+<node id="HOU" label="HOU" start="2001-09-01" end="2001-09-30" >
+  <attvalues>
+    <attvalue for="lat" value="29.6541074"></attvalue>
+    <attvalue for="lng" value="-95.276614"></attvalue>
+  </attvalues>
+</node>
+
+<node id="IAD" label="IAD" start="2001-09-01" end="2001-12-31" >
+  <attvalues>
+    <attvalue for="lat" value=""></attvalue>
+    <attvalue for="lng" value=""></attvalue>
+  </attvalues>
+</node>
+<node id="IAD" label="IAD" start="2002-02-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="38.959131"></attvalue>
+    <attvalue for="lng" value="-77.448114"></attvalue>
+  </attvalues>
+</node>
+
+<node id="IAH" label="IAH" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="29.70406"></attvalue>
+    <attvalue for="lng" value="-95.62036"></attvalue>
+  </attvalues>
+</node>
+
+<node id="IND" label="IND" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="39.716859"></attvalue>
+    <attvalue for="lng" value="-86.298027"></attvalue>
+  </attvalues>
+</node>
+
+<node id="JAX" label="JAX" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="30.4914"></attvalue>
+    <attvalue for="lng" value="-81.6834"></attvalue>
+  </attvalues>
+</node>
+
+<node id="JFK" label="JFK" start="2001-10-01" end="2003-01-31" >
+  <attvalues>
+    <attvalue for="lat" value="40.64749"></attvalue>
+    <attvalue for="lng" value="-73.77998"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MCI" label="MCI" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="39.3006427"></attvalue>
+    <attvalue for="lng" value="-94.7125937"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MCO" label="MCO" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="28.432"></attvalue>
+    <attvalue for="lng" value="-81.325"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MDW" label="MDW" start="2000-01-01" end="2000-09-30" >
+  <attvalues>
+    <attvalue for="lat" value="41.786775"></attvalue>
+    <attvalue for="lng" value="-87.752416"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MEM" label="MEM" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="35.040031"></attvalue>
+    <attvalue for="lng" value="-89.9819"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MHT" label="MHT" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="42.932598"></attvalue>
+    <attvalue for="lng" value="-71.435699"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MIA" label="MIA" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="25.79586"></attvalue>
+    <attvalue for="lng" value="-80.2870457"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MKE" label="MKE" start="2003-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="42.949890"></attvalue>
+    <attvalue for="lng" value="-87.900414"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MSP" label="MSP" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="44.882763"></attvalue>
+    <attvalue for="lng" value="-93.2104"></attvalue>
+  </attvalues>
+</node>
+
+<node id="MSY" label="MSY" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="29.9842"></attvalue>
+    <attvalue for="lng" value="-90.256"></attvalue>
+  </attvalues>
+</node>
+
+<node id="ORD" label="ORD" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="41.99242"></attvalue>
+    <attvalue for="lng" value="-87.88712"></attvalue>
+  </attvalues>
+</node>
+
+<node id="ORF" label="ORF" start="2000-01-01" end="2001-10-31" >
+  <attvalues>
+    <attvalue for="lat" value="36.8956837"></attvalue>
+    <attvalue for="lng" value="-76.2000160"></attvalue>
+  </attvalues>
+</node>
+
+<node id="PBI" label="PBI" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="26.68306"></attvalue>
+    <attvalue for="lng" value="-80.0955"></attvalue>
+  </attvalues>
+</node>
+
+<node id="PHL" label="PHL" start="2000-01-01" end="2000-01-31" >
+  <attvalues>
+    <attvalue for="lat" value="41.41243"></attvalue>
+    <attvalue for="lng" value="-81.84799"></attvalue>
+  </attvalues>
+</node>
+
+<node id="PIT" label="PIT" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="33.43726"></attvalue>
+    <attvalue for="lng" value="-112.00778"></attvalue>
+  </attvalues>
+</node>
+
+<node id="PVD" label="PVD" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="41.72452"></attvalue>
+    <attvalue for="lng" value="-71.43040"></attvalue>
+  </attvalues>
+</node>
+
+<node id="PWM" label="PWM" start="2001-07-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="43.6475"></attvalue>
+    <attvalue for="lng" value="-70.3102"></attvalue>
+  </attvalues>
+</node>
+
+<node id="RDU" label="RDU" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="35.880078"></attvalue>
+    <attvalue for="lng" value="-79.094672"></attvalue>
+  </attvalues>
+</node>
+
+<node id="RIC" label="RIC" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="37.509313"></attvalue>
+    <attvalue for="lng" value="-77.32081"></attvalue>
+  </attvalues>
+</node>
+
+<node id="ROC" label="ROC" start="2000-01-01" end="2000-05-31" >
+  <attvalues>
+    <attvalue for="lat" value="43.128002"></attvalue>
+    <attvalue for="lng" value="-77.66547"></attvalue>
+  </attvalues>
+</node>
+
+<node id="RSW" label="RSW" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="26.53370"></attvalue>
+    <attvalue for="lng" value="-81.7552"></attvalue>
+  </attvalues>
+</node>
+
+<node id="SDF" label="SDF" start="2000-05-01" end="2000-05-31" >
+  <attvalues>
+    <attvalue for="lat" value="38.1858"></attvalue>
+    <attvalue for="lng" value="-85.7421"></attvalue>
+  </attvalues>
+</node>
+
+<node id="SJU" label="SJU" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="18.4365"></attvalue>
+    <attvalue for="lng" value="-66.0051"></attvalue>
+  </attvalues>
+</node>
+
+<node id="STL" label="STL" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="38.741650"></attvalue>
+    <attvalue for="lng" value="-90.3657"></attvalue>
+  </attvalues>
+</node>
+
+<node id="TPA" label="TPA" start="2000-01-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="27.979168"></attvalue>
+    <attvalue for="lng" value="-82.53933"></attvalue>
+  </attvalues>
+</node>
+
+<node id="XNA" label="XNA" start="2003-05-01" end="2003-12-31" >
+  <attvalues>
+    <attvalue for="lat" value="36.278659"></attvalue>
+    <attvalue for="lng" value="-94.30429"></attvalue>
+  </attvalues>
+</node>
+
+
+      
+      
+    </nodes>
+    <edges>
+      
+
+<edge source="ATL" target="LGA" start="2000-01-01" end="2000-01-31" weight="1191" />
+<edge source="BNA" target="LGA" start="2000-01-01" end="2000-01-31" weight="164" />
+<edge source="BOS" target="LGA" start="2000-01-01" end="2000-01-31" weight="977" />
+<edge source="BUF" target="LGA" start="2000-01-01" end="2000-01-31" weight="337" />
+<edge source="BWI" target="LGA" start="2000-01-01" end="2000-01-31" weight="156" />
+<edge source="CLE" target="LGA" start="2000-01-01" end="2000-01-31" weight="339" />
+<edge source="CLT" target="LGA" start="2000-01-01" end="2000-01-31" weight="594" />
+<edge source="CMH" target="LGA" start="2000-01-01" end="2000-01-31" weight="202" />
+<edge source="CVG" target="LGA" start="2000-01-01" end="2000-01-31" weight="341" />
+<edge source="DCA" target="LGA" start="2000-01-01" end="2000-01-31" weight="933" />
+<edge source="DEN" target="LGA" start="2000-01-01" end="2000-01-31" weight="364" />
+<edge source="DFW" target="LGA" start="2000-01-01" end="2000-01-31" weight="1121" />
+<edge source="DTW" target="LGA" start="2000-01-01" end="2000-01-31" weight="492" />
+<edge source="EGE" target="LGA" start="2000-01-01" end="2000-01-31" weight="20" />
+<edge source="FLL" target="LGA" start="2000-01-01" end="2000-01-31" weight="527" />
+<edge source="GSO" target="LGA" start="2000-01-01" end="2000-01-31" weight="172" />
+<edge source="GSP" target="LGA" start="2000-01-01" end="2000-01-31" weight="52" />
+<edge source="HOU" target="LGA" start="2000-01-01" end="2000-01-31" weight="162" />
+<edge source="IAD" target="LGA" start="2000-01-01" end="2000-01-31" weight="1309" />
+<edge source="IAH" target="LGA" start="2000-01-01" end="2000-01-31" weight="548" />
+<edge source="IND" target="LGA" start="2000-01-01" end="2000-01-31" weight="146" />
+<edge source="JAX" target="LGA" start="2000-01-01" end="2000-01-31" weight="113" />
+<edge source="MCO" target="LGA" start="2000-01-01" end="2000-01-31" weight="629" />
+<edge source="MEM" target="LGA" start="2000-01-01" end="2000-01-31" weight="186" />
+<edge source="MIA" target="LGA" start="2000-01-01" end="2000-01-31" weight="651" />
+<edge source="MSP" target="LGA" start="2000-01-01" end="2000-01-31" weight="444" />
+<edge source="MSY" target="LGA" start="2000-01-01" end="2000-01-31" weight="62" />
+<edge source="ORD" target="LGA" start="2000-01-01" end="2000-01-31" weight="1868" />
+<edge source="ORF" target="LGA" start="2000-01-01" end="2000-01-31" weight="146" />
+<edge source="PBI" target="LGA" start="2000-01-01" end="2000-01-31" weight="624" />
+<edge source="PHL" target="LGA" start="2000-01-01" end="2000-01-31" weight="62" />
+<edge source="PIT" target="LGA" start="2000-01-01" end="2000-01-31" weight="512" />
+<edge source="RDU" target="LGA" start="2000-01-01" end="2000-01-31" weight="208" />
+<edge source="RIC" target="LGA" start="2000-01-01" end="2000-01-31" weight="198" />
+<edge source="ROC" target="LGA" start="2000-01-01" end="2000-01-31" weight="208" />
+<edge source="RSW" target="LGA" start="2000-01-01" end="2000-01-31" weight="62" />
+<edge source="SDF" target="LGA" start="2000-01-01" end="2000-01-31" weight="52" />
+<edge source="STL" target="LGA" start="2000-01-01" end="2000-01-31" weight="394" />
+<edge source="TPA" target="LGA" start="2000-01-01" end="2000-01-31" weight="367" />
+
+<edge source="ATL" target="LGA" start="2000-02-01" end="2000-02-29" weight="1127" />
+<edge source="BNA" target="LGA" start="2000-02-01" end="2000-02-29" weight="156" />
+<edge source="BOS" target="LGA" start="2000-02-01" end="2000-02-29" weight="930" />
+<edge source="BUF" target="LGA" start="2000-02-01" end="2000-02-29" weight="320" />
+<edge source="BWI" target="LGA" start="2000-02-01" end="2000-02-29" weight="156" />
+<edge source="CLE" target="LGA" start="2000-02-01" end="2000-02-29" weight="323" />
+<edge source="CLT" target="LGA" start="2000-02-01" end="2000-02-29" weight="557" />
+<edge source="CMH" target="LGA" start="2000-02-01" end="2000-02-29" weight="192" />
+<edge source="CVG" target="LGA" start="2000-02-01" end="2000-02-29" weight="318" />
+<edge source="DCA" target="LGA" start="2000-02-01" end="2000-02-29" weight="890" />
+<edge source="DEN" target="LGA" start="2000-02-01" end="2000-02-29" weight="344" />
+<edge source="DFW" target="LGA" start="2000-02-01" end="2000-02-29" weight="1057" />
+<edge source="DTW" target="LGA" start="2000-02-01" end="2000-02-29" weight="469" />
+<edge source="EGE" target="LGA" start="2000-02-01" end="2000-02-29" weight="16" />
+<edge source="FLL" target="LGA" start="2000-02-01" end="2000-02-29" weight="492" />
+<edge source="GSO" target="LGA" start="2000-02-01" end="2000-02-29" weight="167" />
+<edge source="GSP" target="LGA" start="2000-02-01" end="2000-02-29" weight="50" />
+<edge source="HOU" target="LGA" start="2000-02-01" end="2000-02-29" weight="151" />
+<edge source="IAD" target="LGA" start="2000-02-01" end="2000-02-29" weight="1236" />
+<edge source="IAH" target="LGA" start="2000-02-01" end="2000-02-29" weight="524" />
+<edge source="IND" target="LGA" start="2000-02-01" end="2000-02-29" weight="142" />
+<edge source="JAX" target="LGA" start="2000-02-01" end="2000-02-29" weight="108" />
+<edge source="MCO" target="LGA" start="2000-02-01" end="2000-02-29" weight="582" />
+<edge source="MEM" target="LGA" start="2000-02-01" end="2000-02-29" weight="166" />
+<edge source="MIA" target="LGA" start="2000-02-01" end="2000-02-29" weight="608" />
+<edge source="MSP" target="LGA" start="2000-02-01" end="2000-02-29" weight="419" />
+<edge source="MSY" target="LGA" start="2000-02-01" end="2000-02-29" weight="58" />
+<edge source="ORD" target="LGA" start="2000-02-01" end="2000-02-29" weight="1755" />
+<edge source="ORF" target="LGA" start="2000-02-01" end="2000-02-29" weight="142" />
+<edge source="PBI" target="LGA" start="2000-02-01" end="2000-02-29" weight="665" />
+<edge source="PHL" target="LGA" start="2000-02-01" end="2000-02-29" weight="58" />
+<edge source="PIT" target="LGA" start="2000-02-01" end="2000-02-29" weight="484" />
+<edge source="RDU" target="LGA" start="2000-02-01" end="2000-02-29" weight="200" />
+<edge source="RIC" target="LGA" start="2000-02-01" end="2000-02-29" weight="195" />
+<edge source="ROC" target="LGA" start="2000-02-01" end="2000-02-29" weight="203" />
+<edge source="RSW" target="LGA" start="2000-02-01" end="2000-02-29" weight="58" />
+<edge source="SDF" target="LGA" start="2000-02-01" end="2000-02-29" weight="50" />
+<edge source="STL" target="LGA" start="2000-02-01" end="2000-02-29" weight="372" />
+<edge source="TPA" target="LGA" start="2000-02-01" end="2000-02-29" weight="347" />
+
+<edge source="ATL" target="LGA" start="2000-03-01" end="2000-03-31" weight="1207" />
+<edge source="BNA" target="LGA" start="2000-03-01" end="2000-03-31" weight="170" />
+<edge source="BOS" target="LGA" start="2000-03-01" end="2000-03-31" weight="1002" />
+<edge source="BUF" target="LGA" start="2000-03-01" end="2000-03-31" weight="350" />
+<edge source="BWI" target="LGA" start="2000-03-01" end="2000-03-31" weight="22" />
+<edge source="CLE" target="LGA" start="2000-03-01" end="2000-03-31" weight="348" />
+<edge source="CLT" target="LGA" start="2000-03-01" end="2000-03-31" weight="626" />
+<edge source="CMH" target="LGA" start="2000-03-01" end="2000-03-31" weight="160" />
+<edge source="CVG" target="LGA" start="2000-03-01" end="2000-03-31" weight="341" />
+<edge source="DCA" target="LGA" start="2000-03-01" end="2000-03-31" weight="954" />
+<edge source="DEN" target="LGA" start="2000-03-01" end="2000-03-31" weight="372" />
+<edge source="DFW" target="LGA" start="2000-03-01" end="2000-03-31" weight="1138" />
+<edge source="DTW" target="LGA" start="2000-03-01" end="2000-03-31" weight="502" />
+<edge source="EGE" target="LGA" start="2000-03-01" end="2000-03-31" weight="16" />
+<edge source="EWR" target="LGA" start="2000-03-01" end="2000-03-31" weight="1" />
+<edge source="FLL" target="LGA" start="2000-03-01" end="2000-03-31" weight="527" />
+<edge source="GSO" target="LGA" start="2000-03-01" end="2000-03-31" weight="181" />
+<edge source="GSP" target="LGA" start="2000-03-01" end="2000-03-31" weight="54" />
+<edge source="HOU" target="LGA" start="2000-03-01" end="2000-03-31" weight="169" />
+<edge source="IAD" target="LGA" start="2000-03-01" end="2000-03-31" weight="1315" />
+<edge source="IAH" target="LGA" start="2000-03-01" end="2000-03-31" weight="564" />
+<edge source="IND" target="LGA" start="2000-03-01" end="2000-03-31" weight="110" />
+<edge source="JAX" target="LGA" start="2000-03-01" end="2000-03-31" weight="116" />
+<edge source="MCO" target="LGA" start="2000-03-01" end="2000-03-31" weight="621" />
+<edge source="MEM" target="LGA" start="2000-03-01" end="2000-03-31" weight="178" />
+<edge source="MIA" target="LGA" start="2000-03-01" end="2000-03-31" weight="651" />
+<edge source="MSP" target="LGA" start="2000-03-01" end="2000-03-31" weight="449" />
+<edge source="MSY" target="LGA" start="2000-03-01" end="2000-03-31" weight="62" />
+<edge source="ORD" target="LGA" start="2000-03-01" end="2000-03-31" weight="1893" />
+<edge source="ORF" target="LGA" start="2000-03-01" end="2000-03-31" weight="154" />
+<edge source="PBI" target="LGA" start="2000-03-01" end="2000-03-31" weight="715" />
+<edge source="PHL" target="LGA" start="2000-03-01" end="2000-03-31" weight="62" />
+<edge source="PIT" target="LGA" start="2000-03-01" end="2000-03-31" weight="530" />
+<edge source="RDU" target="LGA" start="2000-03-01" end="2000-03-31" weight="216" />
+<edge source="RIC" target="LGA" start="2000-03-01" end="2000-03-31" weight="212" />
+<edge source="ROC" target="LGA" start="2000-03-01" end="2000-03-31" weight="220" />
+<edge source="RSW" target="LGA" start="2000-03-01" end="2000-03-31" weight="62" />
+<edge source="SDF" target="LGA" start="2000-03-01" end="2000-03-31" weight="54" />
+<edge source="STL" target="LGA" start="2000-03-01" end="2000-03-31" weight="401" />
+<edge source="TPA" target="LGA" start="2000-03-01" end="2000-03-31" weight="372" />
+
+
+<edge source="ATL" target="LGA" start="2000-04-01" end="2000-04-30" weight="1158" />
+<edge source="BNA" target="LGA" start="2000-04-01" end="2000-04-30" weight="160" />
+<edge source="BOS" target="LGA" start="2000-04-01" end="2000-04-30" weight="957" />
+<edge source="BUF" target="LGA" start="2000-04-01" end="2000-04-30" weight="340" />
+<edge source="CLE" target="LGA" start="2000-04-01" end="2000-04-30" weight="330" />
+<edge source="CLT" target="LGA" start="2000-04-01" end="2000-04-30" weight="657" />
+<edge source="CMH" target="LGA" start="2000-04-01" end="2000-04-30" weight="140" />
+<edge source="CVG" target="LGA" start="2000-04-01" end="2000-04-30" weight="328" />
+<edge source="DCA" target="LGA" start="2000-04-01" end="2000-04-30" weight="916" />
+<edge source="DEN" target="LGA" start="2000-04-01" end="2000-04-30" weight="360" />
+<edge source="DFW" target="LGA" start="2000-04-01" end="2000-04-30" weight="1096" />
+<edge source="DTW" target="LGA" start="2000-04-01" end="2000-04-30" weight="505" />
+<edge source="EGE" target="LGA" start="2000-04-01" end="2000-04-30" weight="4" />
+<edge source="FLL" target="LGA" start="2000-04-01" end="2000-04-30" weight="510" />
+<edge source="GSO" target="LGA" start="2000-04-01" end="2000-04-30" weight="165" />
+<edge source="GSP" target="LGA" start="2000-04-01" end="2000-04-30" weight="50" />
+<edge source="HOU" target="LGA" start="2000-04-01" end="2000-04-30" weight="159" />
+<edge source="IAD" target="LGA" start="2000-04-01" end="2000-04-30" weight="438" />
+<edge source="IAH" target="LGA" start="2000-04-01" end="2000-04-30" weight="530" />
+<edge source="IND" target="LGA" start="2000-04-01" end="2000-04-30" weight="100" />
+<edge source="JAX" target="LGA" start="2000-04-01" end="2000-04-30" weight="105" />
+<edge source="MCO" target="LGA" start="2000-04-01" end="2000-04-30" weight="617" />
+<edge source="MEM" target="LGA" start="2000-04-01" end="2000-04-30" weight="170" />
+<edge source="MIA" target="LGA" start="2000-04-01" end="2000-04-30" weight="630" />
+<edge source="MSP" target="LGA" start="2000-04-01" end="2000-04-30" weight="455" />
+<edge source="MSY" target="LGA" start="2000-04-01" end="2000-04-30" weight="60" />
+<edge source="ORD" target="LGA" start="2000-04-01" end="2000-04-30" weight="1821" />
+<edge source="ORF" target="LGA" start="2000-04-01" end="2000-04-30" weight="140" />
+<edge source="PBI" target="LGA" start="2000-04-01" end="2000-04-30" weight="690" />
+<edge source="PHL" target="LGA" start="2000-04-01" end="2000-04-30" weight="60" />
+<edge source="PIT" target="LGA" start="2000-04-01" end="2000-04-30" weight="509" />
+<edge source="RDU" target="LGA" start="2000-04-01" end="2000-04-30" weight="190" />
+<edge source="RIC" target="LGA" start="2000-04-01" end="2000-04-30" weight="195" />
+<edge source="ROC" target="LGA" start="2000-04-01" end="2000-04-30" weight="210" />
+<edge source="RSW" target="LGA" start="2000-04-01" end="2000-04-30" weight="60" />
+<edge source="SDF" target="LGA" start="2000-04-01" end="2000-04-30" weight="50" />
+<edge source="STL" target="LGA" start="2000-04-01" end="2000-04-30" weight="400" />
+<edge source="TPA" target="LGA" start="2000-04-01" end="2000-04-30" weight="360" />
+
+<edge source="ATL" target="LGA" start="2000-05-01" end="2000-05-31" weight="1174" />
+<edge source="BNA" target="LGA" start="2000-05-01" end="2000-05-31" weight="166" />
+<edge source="BOS" target="LGA" start="2000-05-01" end="2000-05-31" weight="977" />
+<edge source="BUF" target="LGA" start="2000-05-01" end="2000-05-31" weight="356" />
+<edge source="CLE" target="LGA" start="2000-05-01" end="2000-05-31" weight="340" />
+<edge source="CLT" target="LGA" start="2000-05-01" end="2000-05-31" weight="743" />
+<edge source="CMH" target="LGA" start="2000-05-01" end="2000-05-31" weight="154" />
+<edge source="CVG" target="LGA" start="2000-05-01" end="2000-05-31" weight="336" />
+<edge source="DCA" target="LGA" start="2000-05-01" end="2000-05-31" weight="928" />
+<edge source="DEN" target="LGA" start="2000-05-01" end="2000-05-31" weight="372" />
+<edge source="DFW" target="LGA" start="2000-05-01" end="2000-05-31" weight="1114" />
+<edge source="DTW" target="LGA" start="2000-05-01" end="2000-05-31" weight="528" />
+<edge source="FLL" target="LGA" start="2000-05-01" end="2000-05-31" weight="465" />
+<edge source="GSO" target="LGA" start="2000-05-01" end="2000-05-31" weight="163" />
+<edge source="GSP" target="LGA" start="2000-05-01" end="2000-05-31" weight="54" />
+<edge source="HOU" target="LGA" start="2000-05-01" end="2000-05-31" weight="165" />
+<edge source="IAD" target="LGA" start="2000-05-01" end="2000-05-31" weight="419" />
+<edge source="IAH" target="LGA" start="2000-05-01" end="2000-05-31" weight="558" />
+<edge source="IND" target="LGA" start="2000-05-01" end="2000-05-31" weight="104" />
+<edge source="JAX" target="LGA" start="2000-05-01" end="2000-05-31" weight="112" />
+<edge source="LWB" target="LGA" start="2000-05-01" end="2000-05-31" weight="18" />
+<edge source="MCO" target="LGA" start="2000-05-01" end="2000-05-31" weight="622" />
+<edge source="MEM" target="LGA" start="2000-05-01" end="2000-05-31" weight="178" />
+<edge source="MIA" target="LGA" start="2000-05-01" end="2000-05-31" weight="648" />
+<edge source="MSP" target="LGA" start="2000-05-01" end="2000-05-31" weight="474" />
+<edge source="MSY" target="LGA" start="2000-05-01" end="2000-05-31" weight="62" />
+<edge source="ORD" target="LGA" start="2000-05-01" end="2000-05-31" weight="1904" />
+<edge source="ORF" target="LGA" start="2000-05-01" end="2000-05-31" weight="154" />
+<edge source="PBI" target="LGA" start="2000-05-01" end="2000-05-31" weight="461" />
+<edge source="PHL" target="LGA" start="2000-05-01" end="2000-05-31" weight="62" />
+<edge source="PIT" target="LGA" start="2000-05-01" end="2000-05-31" weight="593" />
+<edge source="RDU" target="LGA" start="2000-05-01" end="2000-05-31" weight="208" />
+<edge source="RIC" target="LGA" start="2000-05-01" end="2000-05-31" weight="212" />
+<edge source="ROC" target="LGA" start="2000-05-01" end="2000-05-31" weight="224" />
+<edge source="RSW" target="LGA" start="2000-05-01" end="2000-05-31" weight="62" />
+<edge source="SDF" target="LGA" start="2000-05-01" end="2000-05-31" weight="54" />
+<edge source="STL" target="LGA" start="2000-05-01" end="2000-05-31" weight="414" />
+<edge source="TPA" target="LGA" start="2000-05-01" end="2000-05-31" weight="366" />
+
+<edge source="ATL" target="LGA" start="2000-06-01" end="2000-06-30" weight="1185" />
+<edge source="BNA" target="LGA" start="2000-06-01" end="2000-06-30" weight="164" />
+<edge source="BOS" target="LGA" start="2000-06-01" end="2000-06-30" weight="971" />
+<edge source="BUF" target="LGA" start="2000-06-01" end="2000-06-30" weight="344" />
+<edge source="CLE" target="LGA" start="2000-06-01" end="2000-06-30" weight="336" />
+<edge source="CLT" target="LGA" start="2000-06-01" end="2000-06-30" weight="725" />
+<edge source="CMH" target="LGA" start="2000-06-01" end="2000-06-30" weight="151" />
+<edge source="CVG" target="LGA" start="2000-06-01" end="2000-06-30" weight="329" />
+<edge source="DCA" target="LGA" start="2000-06-01" end="2000-06-30" weight="926" />
+<edge source="DEN" target="LGA" start="2000-06-01" end="2000-06-30" weight="440" />
+<edge source="DFW" target="LGA" start="2000-06-01" end="2000-06-30" weight="1052" />
+<edge source="DTW" target="LGA" start="2000-06-01" end="2000-06-30" weight="524" />
+<edge source="FLL" target="LGA" start="2000-06-01" end="2000-06-30" weight="450" />
+<edge source="GSO" target="LGA" start="2000-06-01" end="2000-06-30" weight="164" />
+<edge source="GSP" target="LGA" start="2000-06-01" end="2000-06-30" weight="52" />
+<edge source="HOU" target="LGA" start="2000-06-01" end="2000-06-30" weight="163" />
+<edge source="IAD" target="LGA" start="2000-06-01" end="2000-06-30" weight="425" />
+<edge source="IAH" target="LGA" start="2000-06-01" end="2000-06-30" weight="500" />
+<edge source="IND" target="LGA" start="2000-06-01" end="2000-06-30" weight="100" />
+<edge source="JAX" target="LGA" start="2000-06-01" end="2000-06-30" weight="115" />
+<edge source="JFK" target="LGA" start="2000-06-01" end="2000-06-30" weight="1" />
+<edge source="LWB" target="LGA" start="2000-06-01" end="2000-06-30" weight="16" />
+<edge source="MCO" target="LGA" start="2000-06-01" end="2000-06-30" weight="642" />
+<edge source="MEM" target="LGA" start="2000-06-01" end="2000-06-30" weight="210" />
+<edge source="MIA" target="LGA" start="2000-06-01" end="2000-06-30" weight="624" />
+<edge source="MSP" target="LGA" start="2000-06-01" end="2000-06-30" weight="450" />
+<edge source="MSY" target="LGA" start="2000-06-01" end="2000-06-30" weight="60" />
+<edge source="ORD" target="LGA" start="2000-06-01" end="2000-06-30" weight="1870" />
+<edge source="ORF" target="LGA" start="2000-06-01" end="2000-06-30" weight="154" />
+<edge source="PBI" target="LGA" start="2000-06-01" end="2000-06-30" weight="450" />
+<edge source="PHL" target="LGA" start="2000-06-01" end="2000-06-30" weight="60" />
+<edge source="PIT" target="LGA" start="2000-06-01" end="2000-06-30" weight="586" />
+<edge source="RDU" target="LGA" start="2000-06-01" end="2000-06-30" weight="206" />
+<edge source="RIC" target="LGA" start="2000-06-01" end="2000-06-30" weight="206" />
+<edge source="ROC" target="LGA" start="2000-06-01" end="2000-06-30" weight="217" />
+<edge source="RSW" target="LGA" start="2000-06-01" end="2000-06-30" weight="60" />
+<edge source="SDF" target="LGA" start="2000-06-01" end="2000-06-30" weight="52" />
+<edge source="STL" target="LGA" start="2000-06-01" end="2000-06-30" weight="386" />
+<edge source="TPA" target="LGA" start="2000-06-01" end="2000-06-30" weight="356" />
+
+<edge source="ATL" target="LGA" start="2000-07-01" end="2000-07-31" weight="1189" />
+<edge source="BNA" target="LGA" start="2000-07-01" end="2000-07-31" weight="164" />
+<edge source="BOS" target="LGA" start="2000-07-01" end="2000-07-31" weight="1907" />
+<edge source="BUF" target="LGA" start="2000-07-01" end="2000-07-31" weight="350" />
+<edge source="CLE" target="LGA" start="2000-07-01" end="2000-07-31" weight="330" />
+<edge source="CLT" target="LGA" start="2000-07-01" end="2000-07-31" weight="739" />
+<edge source="CMH" target="LGA" start="2000-07-01" end="2000-07-31" weight="148" />
+<edge source="CVG" target="LGA" start="2000-07-01" end="2000-07-31" weight="338" />
+<edge source="DCA" target="LGA" start="2000-07-01" end="2000-07-31" weight="1824" />
+<edge source="DEN" target="LGA" start="2000-07-01" end="2000-07-31" weight="466" />
+<edge source="DFW" target="LGA" start="2000-07-01" end="2000-07-31" weight="1104" />
+<edge source="DTW" target="LGA" start="2000-07-01" end="2000-07-31" weight="538" />
+<edge source="FLL" target="LGA" start="2000-07-01" end="2000-07-31" weight="465" />
+<edge source="GSO" target="LGA" start="2000-07-01" end="2000-07-31" weight="164" />
+<edge source="GSP" target="LGA" start="2000-07-01" end="2000-07-31" weight="52" />
+<edge source="HOU" target="LGA" start="2000-07-01" end="2000-07-31" weight="166" />
+<edge source="IAD" target="LGA" start="2000-07-01" end="2000-07-31" weight="429" />
+<edge source="IAH" target="LGA" start="2000-07-01" end="2000-07-31" weight="498" />
+<edge source="IND" target="LGA" start="2000-07-01" end="2000-07-31" weight="99" />
+<edge source="JAX" target="LGA" start="2000-07-01" end="2000-07-31" weight="124" />
+<edge source="LWB" target="LGA" start="2000-07-01" end="2000-07-31" weight="18" />
+<edge source="MCO" target="LGA" start="2000-07-01" end="2000-07-31" weight="699" />
+<edge source="MEM" target="LGA" start="2000-07-01" end="2000-07-31" weight="217" />
+<edge source="MIA" target="LGA" start="2000-07-01" end="2000-07-31" weight="641" />
+<edge source="MSP" target="LGA" start="2000-07-01" end="2000-07-31" weight="463" />
+<edge source="MSY" target="LGA" start="2000-07-01" end="2000-07-31" weight="62" />
+<edge source="ORD" target="LGA" start="2000-07-01" end="2000-07-31" weight="1882" />
+<edge source="ORF" target="LGA" start="2000-07-01" end="2000-07-31" weight="156" />
+<edge source="PBI" target="LGA" start="2000-07-01" end="2000-07-31" weight="465" />
+<edge source="PHL" target="LGA" start="2000-07-01" end="2000-07-31" weight="62" />
+<edge source="PIT" target="LGA" start="2000-07-01" end="2000-07-31" weight="594" />
+<edge source="RDU" target="LGA" start="2000-07-01" end="2000-07-31" weight="208" />
+<edge source="RIC" target="LGA" start="2000-07-01" end="2000-07-31" weight="208" />
+<edge source="ROC" target="LGA" start="2000-07-01" end="2000-07-31" weight="218" />
+<edge source="RSW" target="LGA" start="2000-07-01" end="2000-07-31" weight="62" />
+<edge source="SDF" target="LGA" start="2000-07-01" end="2000-07-31" weight="52" />
+<edge source="STL" target="LGA" start="2000-07-01" end="2000-07-31" weight="392" />
+<edge source="TPA" target="LGA" start="2000-07-01" end="2000-07-31" weight="372" />
+
+<edge source="ATL" target="LGA" start="2000-08-01" end="2000-08-31" weight="1224" />
+<edge source="BNA" target="LGA" start="2000-08-01" end="2000-08-31" weight="170" />
+<edge source="BOS" target="LGA" start="2000-08-01" end="2000-08-31" weight="2028" />
+<edge source="BUF" target="LGA" start="2000-08-01" end="2000-08-31" weight="352" />
+<edge source="CLE" target="LGA" start="2000-08-01" end="2000-08-31" weight="348" />
+<edge source="CLT" target="LGA" start="2000-08-01" end="2000-08-31" weight="747" />
+<edge source="CMH" target="LGA" start="2000-08-01" end="2000-08-31" weight="154" />
+<edge source="CVG" target="LGA" start="2000-08-01" end="2000-08-31" weight="339" />
+<edge source="DAL" target="LGA" start="2000-08-01" end="2000-08-31" weight="5" />
+<edge source="DCA" target="LGA" start="2000-08-01" end="2000-08-31" weight="1926" />
+<edge source="DEN" target="LGA" start="2000-08-01" end="2000-08-31" weight="478" />
+<edge source="DFW" target="LGA" start="2000-08-01" end="2000-08-31" weight="1138" />
+<edge source="DTW" target="LGA" start="2000-08-01" end="2000-08-31" weight="542" />
+<edge source="FLL" target="LGA" start="2000-08-01" end="2000-08-31" weight="465" />
+<edge source="GSO" target="LGA" start="2000-08-01" end="2000-08-31" weight="171" />
+<edge source="GSP" target="LGA" start="2000-08-01" end="2000-08-31" weight="54" />
+<edge source="HOU" target="LGA" start="2000-08-01" end="2000-08-31" weight="170" />
+<edge source="IAD" target="LGA" start="2000-08-01" end="2000-08-31" weight="449" />
+<edge source="IAH" target="LGA" start="2000-08-01" end="2000-08-31" weight="517" />
+<edge source="IND" target="LGA" start="2000-08-01" end="2000-08-31" weight="104" />
+<edge source="JAX" target="LGA" start="2000-08-01" end="2000-08-31" weight="124" />
+<edge source="LWB" target="LGA" start="2000-08-01" end="2000-08-31" weight="18" />
+<edge source="MCO" target="LGA" start="2000-08-01" end="2000-08-31" weight="687" />
+<edge source="MEM" target="LGA" start="2000-08-01" end="2000-08-31" weight="217" />
+<edge source="MIA" target="LGA" start="2000-08-01" end="2000-08-31" weight="643" />
+<edge source="MSP" target="LGA" start="2000-08-01" end="2000-08-31" weight="465" />
+<edge source="MSY" target="LGA" start="2000-08-01" end="2000-08-31" weight="62" />
+<edge source="ORD" target="LGA" start="2000-08-01" end="2000-08-31" weight="1943" />
+<edge source="ORF" target="LGA" start="2000-08-01" end="2000-08-31" weight="162" />
+<edge source="PBI" target="LGA" start="2000-08-01" end="2000-08-31" weight="465" />
+<edge source="PHL" target="LGA" start="2000-08-01" end="2000-08-31" weight="62" />
+<edge source="PIT" target="LGA" start="2000-08-01" end="2000-08-31" weight="596" />
+<edge source="RDU" target="LGA" start="2000-08-01" end="2000-08-31" weight="216" />
+<edge source="RIC" target="LGA" start="2000-08-01" end="2000-08-31" weight="216" />
+<edge source="ROC" target="LGA" start="2000-08-01" end="2000-08-31" weight="224" />
+<edge source="RSW" target="LGA" start="2000-08-01" end="2000-08-31" weight="62" />
+<edge source="SDF" target="LGA" start="2000-08-01" end="2000-08-31" weight="54" />
+<edge source="STL" target="LGA" start="2000-08-01" end="2000-08-31" weight="401" />
+<edge source="TPA" target="LGA" start="2000-08-01" end="2000-08-31" weight="372" />
+
+<edge source="ATL" target="LGA" start="2000-09-01" end="2000-09-30" weight="1163" />
+<edge source="BNA" target="LGA" start="2000-09-01" end="2000-09-30" weight="158" />
+<edge source="BOS" target="LGA" start="2000-09-01" end="2000-09-30" weight="1885" />
+<edge source="BUF" target="LGA" start="2000-09-01" end="2000-09-30" weight="343" />
+<edge source="CLE" target="LGA" start="2000-09-01" end="2000-09-30" weight="320" />
+<edge source="CLT" target="LGA" start="2000-09-01" end="2000-09-30" weight="755" />
+<edge source="CMH" target="LGA" start="2000-09-01" end="2000-09-30" weight="142" />
+<edge source="CVG" target="LGA" start="2000-09-01" end="2000-09-30" weight="326" />
+<edge source="DAL" target="LGA" start="2000-09-01" end="2000-09-30" weight="151" />
+<edge source="DCA" target="LGA" start="2000-09-01" end="2000-09-30" weight="1795" />
+<edge source="DEN" target="LGA" start="2000-09-01" end="2000-09-30" weight="460" />
+<edge source="DFW" target="LGA" start="2000-09-01" end="2000-09-30" weight="1087" />
+<edge source="DTW" target="LGA" start="2000-09-01" end="2000-09-30" weight="520" />
+<edge source="FLL" target="LGA" start="2000-09-01" end="2000-09-30" weight="558" />
+<edge source="GSO" target="LGA" start="2000-09-01" end="2000-09-30" weight="159" />
+<edge source="GSP" target="LGA" start="2000-09-01" end="2000-09-30" weight="50" />
+<edge source="HOU" target="LGA" start="2000-09-01" end="2000-09-30" weight="162" />
+<edge source="IAD" target="LGA" start="2000-09-01" end="2000-09-30" weight="425" />
+<edge source="IAH" target="LGA" start="2000-09-01" end="2000-09-30" weight="494" />
+<edge source="IND" target="LGA" start="2000-09-01" end="2000-09-30" weight="96" />
+<edge source="JAX" target="LGA" start="2000-09-01" end="2000-09-30" weight="174" />
+<edge source="LWB" target="LGA" start="2000-09-01" end="2000-09-30" weight="16" />
+<edge source="MCO" target="LGA" start="2000-09-01" end="2000-09-30" weight="728" />
+<edge source="MEM" target="LGA" start="2000-09-01" end="2000-09-30" weight="210" />
+<edge source="MIA" target="LGA" start="2000-09-01" end="2000-09-30" weight="628" />
+<edge source="MSP" target="LGA" start="2000-09-01" end="2000-09-30" weight="439" />
+<edge source="MSY" target="LGA" start="2000-09-01" end="2000-09-30" weight="60" />
+<edge source="ORD" target="LGA" start="2000-09-01" end="2000-09-30" weight="1831" />
+<edge source="ORF" target="LGA" start="2000-09-01" end="2000-09-30" weight="150" />
+<edge source="PBI" target="LGA" start="2000-09-01" end="2000-09-30" weight="500" />
+<edge source="PHL" target="LGA" start="2000-09-01" end="2000-09-30" weight="60" />
+<edge source="PIT" target="LGA" start="2000-09-01" end="2000-09-30" weight="564" />
+<edge source="RDU" target="LGA" start="2000-09-01" end="2000-09-30" weight="200" />
+<edge source="RIC" target="LGA" start="2000-09-01" end="2000-09-30" weight="200" />
+<edge source="ROC" target="LGA" start="2000-09-01" end="2000-09-30" weight="218" />
+<edge source="RSW" target="LGA" start="2000-09-01" end="2000-09-30" weight="114" />
+<edge source="SDF" target="LGA" start="2000-09-01" end="2000-09-30" weight="50" />
+<edge source="STL" target="LGA" start="2000-09-01" end="2000-09-30" weight="392" />
+<edge source="TPA" target="LGA" start="2000-09-01" end="2000-09-30" weight="415" />
+
+<edge source="ATL" target="LGA" start="2000-10-01" end="2000-10-31" weight="1204" />
+<edge source="BNA" target="LGA" start="2000-10-01" end="2000-10-31" weight="168" />
+<edge source="BOS" target="LGA" start="2000-10-01" end="2000-10-31" weight="2017" />
+<edge source="BUF" target="LGA" start="2000-10-01" end="2000-10-31" weight="357" />
+<edge source="CLE" target="LGA" start="2000-10-01" end="2000-10-31" weight="338" />
+<edge source="CLT" target="LGA" start="2000-10-01" end="2000-10-31" weight="788" />
+<edge source="CMH" target="LGA" start="2000-10-01" end="2000-10-31" weight="152" />
+<edge source="CVG" target="LGA" start="2000-10-01" end="2000-10-31" weight="341" />
+<edge source="DAL" target="LGA" start="2000-10-01" end="2000-10-31" weight="168" />
+<edge source="DCA" target="LGA" start="2000-10-01" end="2000-10-31" weight="1920" />
+<edge source="DEN" target="LGA" start="2000-10-01" end="2000-10-31" weight="480" />
+<edge source="DFW" target="LGA" start="2000-10-01" end="2000-10-31" weight="1173" />
+<edge source="DTW" target="LGA" start="2000-10-01" end="2000-10-31" weight="543" />
+<edge source="FLL" target="LGA" start="2000-10-01" end="2000-10-31" weight="651" />
+<edge source="GSO" target="LGA" start="2000-10-01" end="2000-10-31" weight="171" />
+<edge source="GSP" target="LGA" start="2000-10-01" end="2000-10-31" weight="54" />
+<edge source="HOU" target="LGA" start="2000-10-01" end="2000-10-31" weight="168" />
+<edge source="IAD" target="LGA" start="2000-10-01" end="2000-10-31" weight="448" />
+<edge source="IAH" target="LGA" start="2000-10-01" end="2000-10-31" weight="516" />
+<edge source="IND" target="LGA" start="2000-10-01" end="2000-10-31" weight="103" />
+<edge source="JAX" target="LGA" start="2000-10-01" end="2000-10-31" weight="186" />
+<edge source="LWB" target="LGA" start="2000-10-01" end="2000-10-31" weight="18" />
+<edge source="MCO" target="LGA" start="2000-10-01" end="2000-10-31" weight="757" />
+<edge source="MEM" target="LGA" start="2000-10-01" end="2000-10-31" weight="220" />
+<edge source="MIA" target="LGA" start="2000-10-01" end="2000-10-31" weight="651" />
+<edge source="MSP" target="LGA" start="2000-10-01" end="2000-10-31" weight="457" />
+<edge source="MSY" target="LGA" start="2000-10-01" end="2000-10-31" weight="62" />
+<edge source="ORD" target="LGA" start="2000-10-01" end="2000-10-31" weight="1924" />
+<edge source="ORF" target="LGA" start="2000-10-01" end="2000-10-31" weight="162" />
+<edge source="PBI" target="LGA" start="2000-10-01" end="2000-10-31" weight="526" />
+<edge source="PHL" target="LGA" start="2000-10-01" end="2000-10-31" weight="62" />
+<edge source="PIT" target="LGA" start="2000-10-01" end="2000-10-31" weight="586" />
+<edge source="RDU" target="LGA" start="2000-10-01" end="2000-10-31" weight="216" />
+<edge source="RIC" target="LGA" start="2000-10-01" end="2000-10-31" weight="216" />
+<edge source="ROC" target="LGA" start="2000-10-01" end="2000-10-31" weight="232" />
+<edge source="RSW" target="LGA" start="2000-10-01" end="2000-10-31" weight="124" />
+<edge source="SDF" target="LGA" start="2000-10-01" end="2000-10-31" weight="54" />
+<edge source="STL" target="LGA" start="2000-10-01" end="2000-10-31" weight="423" />
+<edge source="TPA" target="LGA" start="2000-10-01" end="2000-10-31" weight="434" />
+
+<edge source="ATL" target="LGA" start="2000-11-01" end="2000-11-30" weight="1257" />
+<edge source="BNA" target="LGA" start="2000-11-01" end="2000-11-30" weight="172" />
+<edge source="BOS" target="LGA" start="2000-11-01" end="2000-11-30" weight="1898" />
+<edge source="BUF" target="LGA" start="2000-11-01" end="2000-11-30" weight="334" />
+<edge source="CLE" target="LGA" start="2000-11-01" end="2000-11-30" weight="316" />
+<edge source="CLT" target="LGA" start="2000-11-01" end="2000-11-30" weight="740" />
+<edge source="CMH" target="LGA" start="2000-11-01" end="2000-11-30" weight="137" />
+<edge source="CVG" target="LGA" start="2000-11-01" end="2000-11-30" weight="329" />
+<edge source="DAL" target="LGA" start="2000-11-01" end="2000-11-30" weight="159" />
+<edge source="DCA" target="LGA" start="2000-11-01" end="2000-11-30" weight="1849" />
+<edge source="DEN" target="LGA" start="2000-11-01" end="2000-11-30" weight="452" />
+<edge source="DFW" target="LGA" start="2000-11-01" end="2000-11-30" weight="1090" />
+<edge source="DTW" target="LGA" start="2000-11-01" end="2000-11-30" weight="540" />
+<edge source="FLL" target="LGA" start="2000-11-01" end="2000-11-30" weight="630" />
+<edge source="GSO" target="LGA" start="2000-11-01" end="2000-11-30" weight="176" />
+<edge source="GSP" target="LGA" start="2000-11-01" end="2000-11-30" weight="50" />
+<edge source="HOU" target="LGA" start="2000-11-01" end="2000-11-30" weight="162" />
+<edge source="IAD" target="LGA" start="2000-11-01" end="2000-11-30" weight="425" />
+<edge source="IAH" target="LGA" start="2000-11-01" end="2000-11-30" weight="492" />
+<edge source="IND" target="LGA" start="2000-11-01" end="2000-11-30" weight="98" />
+<edge source="JAX" target="LGA" start="2000-11-01" end="2000-11-30" weight="300" />
+<edge source="MCO" target="LGA" start="2000-11-01" end="2000-11-30" weight="726" />
+<edge source="MEM" target="LGA" start="2000-11-01" end="2000-11-30" weight="230" />
+<edge source="MIA" target="LGA" start="2000-11-01" end="2000-11-30" weight="606" />
+<edge source="MSP" target="LGA" start="2000-11-01" end="2000-11-30" weight="428" />
+<edge source="MSY" target="LGA" start="2000-11-01" end="2000-11-30" weight="60" />
+<edge source="ORD" target="LGA" start="2000-11-01" end="2000-11-30" weight="1851" />
+<edge source="ORF" target="LGA" start="2000-11-01" end="2000-11-30" weight="155" />
+<edge source="PBI" target="LGA" start="2000-11-01" end="2000-11-30" weight="507" />
+<edge source="PHL" target="LGA" start="2000-11-01" end="2000-11-30" weight="63" />
+<edge source="PIT" target="LGA" start="2000-11-01" end="2000-11-30" weight="597" />
+<edge source="RDU" target="LGA" start="2000-11-01" end="2000-11-30" weight="202" />
+<edge source="RIC" target="LGA" start="2000-11-01" end="2000-11-30" weight="198" />
+<edge source="ROC" target="LGA" start="2000-11-01" end="2000-11-30" weight="216" />
+<edge source="RSW" target="LGA" start="2000-11-01" end="2000-11-30" weight="120" />
+<edge source="SDF" target="LGA" start="2000-11-01" end="2000-11-30" weight="50" />
+<edge source="STL" target="LGA" start="2000-11-01" end="2000-11-30" weight="597" />
+<edge source="TPA" target="LGA" start="2000-11-01" end="2000-11-30" weight="535" />
+
+<edge source="ATL" target="LGA" start="2000-12-01" end="2000-12-31" weight="1281" />
+<edge source="BNA" target="LGA" start="2000-12-01" end="2000-12-31" weight="174" />
+<edge source="BOS" target="LGA" start="2000-12-01" end="2000-12-31" weight="1750" />
+<edge source="BUF" target="LGA" start="2000-12-01" end="2000-12-31" weight="326" />
+<edge source="CLE" target="LGA" start="2000-12-01" end="2000-12-31" weight="312" />
+<edge source="CLT" target="LGA" start="2000-12-01" end="2000-12-31" weight="770" />
+<edge source="CMH" target="LGA" start="2000-12-01" end="2000-12-31" weight="132" />
+<edge source="CVG" target="LGA" start="2000-12-01" end="2000-12-31" weight="335" />
+<edge source="DAL" target="LGA" start="2000-12-01" end="2000-12-31" weight="164" />
+<edge source="DCA" target="LGA" start="2000-12-01" end="2000-12-31" weight="1710" />
+<edge source="DEN" target="LGA" start="2000-12-01" end="2000-12-31" weight="478" />
+<edge source="DFW" target="LGA" start="2000-12-01" end="2000-12-31" weight="1128" />
+<edge source="DTW" target="LGA" start="2000-12-01" end="2000-12-31" weight="544" />
+<edge source="EGE" target="LGA" start="2000-12-01" end="2000-12-31" weight="12" />
+<edge source="FLL" target="LGA" start="2000-12-01" end="2000-12-31" weight="716" />
+<edge source="GSO" target="LGA" start="2000-12-01" end="2000-12-31" weight="165" />
+<edge source="GSP" target="LGA" start="2000-12-01" end="2000-12-31" weight="48" />
+<edge source="HOU" target="LGA" start="2000-12-01" end="2000-12-31" weight="160" />
+<edge source="IAD" target="LGA" start="2000-12-01" end="2000-12-31" weight="432" />
+<edge source="IAH" target="LGA" start="2000-12-01" end="2000-12-31" weight="521" />
+<edge source="IND" target="LGA" start="2000-12-01" end="2000-12-31" weight="92" />
+<edge source="JAX" target="LGA" start="2000-12-01" end="2000-12-31" weight="302" />
+<edge source="MCO" target="LGA" start="2000-12-01" end="2000-12-31" weight="817" />
+<edge source="MEM" target="LGA" start="2000-12-01" end="2000-12-31" weight="236" />
+<edge source="MIA" target="LGA" start="2000-12-01" end="2000-12-31" weight="647" />
+<edge source="MSP" target="LGA" start="2000-12-01" end="2000-12-31" weight="418" />
+<edge source="MSY" target="LGA" start="2000-12-01" end="2000-12-31" weight="62" />
+<edge source="ORD" target="LGA" start="2000-12-01" end="2000-12-31" weight="1865" />
+<edge source="ORF" target="LGA" start="2000-12-01" end="2000-12-31" weight="142" />
+<edge source="PBI" target="LGA" start="2000-12-01" end="2000-12-31" weight="466" />
+<edge source="PHL" target="LGA" start="2000-12-01" end="2000-12-31" weight="69" />
+<edge source="PIT" target="LGA" start="2000-12-01" end="2000-12-31" weight="623" />
+<edge source="RDU" target="LGA" start="2000-12-01" end="2000-12-31" weight="190" />
+<edge source="RIC" target="LGA" start="2000-12-01" end="2000-12-31" weight="183" />
+<edge source="ROC" target="LGA" start="2000-12-01" end="2000-12-31" weight="209" />
+<edge source="RSW" target="LGA" start="2000-12-01" end="2000-12-31" weight="124" />
+<edge source="SDF" target="LGA" start="2000-12-01" end="2000-12-31" weight="48" />
+<edge source="STL" target="LGA" start="2000-12-01" end="2000-12-31" weight="623" />
+<edge source="TPA" target="LGA" start="2000-12-01" end="2000-12-31" weight="557" />
+
+<edge source="ATL" target="LGA" start="2001-01-01" end="2001-01-31" weight="1284" />
+<edge source="BGR" target="LGA" start="2001-01-01" end="2001-01-31" weight="62" />
+<edge source="BNA" target="LGA" start="2001-01-01" end="2001-01-31" weight="178" />
+<edge source="BOS" target="LGA" start="2001-01-01" end="2001-01-31" weight="1998" />
+<edge source="BUF" target="LGA" start="2001-01-01" end="2001-01-31" weight="288" />
+<edge source="CLE" target="LGA" start="2001-01-01" end="2001-01-31" weight="542" />
+<edge source="CLT" target="LGA" start="2001-01-01" end="2001-01-31" weight="787" />
+<edge source="CMH" target="LGA" start="2001-01-01" end="2001-01-31" weight="382" />
+<edge source="CVG" target="LGA" start="2001-01-01" end="2001-01-31" weight="340" />
+<edge source="DAL" target="LGA" start="2001-01-01" end="2001-01-31" weight="169" />
+<edge source="DCA" target="LGA" start="2001-01-01" end="2001-01-31" weight="1946" />
+<edge source="DEN" target="LGA" start="2001-01-01" end="2001-01-31" weight="482" />
+<edge source="DFW" target="LGA" start="2001-01-01" end="2001-01-31" weight="1140" />
+<edge source="DTW" target="LGA" start="2001-01-01" end="2001-01-31" weight="568" />
+<edge source="EGE" target="LGA" start="2001-01-01" end="2001-01-31" weight="16" />
+<edge source="FLL" target="LGA" start="2001-01-01" end="2001-01-31" weight="775" />
+<edge source="GSO" target="LGA" start="2001-01-01" end="2001-01-31" weight="312" />
+<edge source="GSP" target="LGA" start="2001-01-01" end="2001-01-31" weight="229" />
+<edge source="HOU" target="LGA" start="2001-01-01" end="2001-01-31" weight="167" />
+<edge source="IAD" target="LGA" start="2001-01-01" end="2001-01-31" weight="435" />
+<edge source="IAH" target="LGA" start="2001-01-01" end="2001-01-31" weight="570" />
+<edge source="IND" target="LGA" start="2001-01-01" end="2001-01-31" weight="103" />
+<edge source="JAX" target="LGA" start="2001-01-01" end="2001-01-31" weight="308" />
+<edge source="MCO" target="LGA" start="2001-01-01" end="2001-01-31" weight="869" />
+<edge source="MEM" target="LGA" start="2001-01-01" end="2001-01-31" weight="239" />
+<edge source="MHT" target="LGA" start="2001-01-01" end="2001-01-31" weight="194" />
+<edge source="MIA" target="LGA" start="2001-01-01" end="2001-01-31" weight="646" />
+<edge source="MSP" target="LGA" start="2001-01-01" end="2001-01-31" weight="491" />
+<edge source="MSY" target="LGA" start="2001-01-01" end="2001-01-31" weight="62" />
+<edge source="ORD" target="LGA" start="2001-01-01" end="2001-01-31" weight="1931" />
+<edge source="ORF" target="LGA" start="2001-01-01" end="2001-01-31" weight="330" />
+<edge source="PBI" target="LGA" start="2001-01-01" end="2001-01-31" weight="527" />
+<edge source="PHL" target="LGA" start="2001-01-01" end="2001-01-31" weight="63" />
+<edge source="PIT" target="LGA" start="2001-01-01" end="2001-01-31" weight="647" />
+<edge source="PVD" target="LGA" start="2001-01-01" end="2001-01-31" weight="281" />
+<edge source="PWM" target="LGA" start="2001-01-01" end="2001-01-31" weight="288" />
+<edge source="RDU" target="LGA" start="2001-01-01" end="2001-01-31" weight="206" />
+<edge source="RIC" target="LGA" start="2001-01-01" end="2001-01-31" weight="295" />
+<edge source="ROC" target="LGA" start="2001-01-01" end="2001-01-31" weight="453" />
+<edge source="RSW" target="LGA" start="2001-01-01" end="2001-01-31" weight="124" />
+<edge source="SDF" target="LGA" start="2001-01-01" end="2001-01-31" weight="54" />
+<edge source="STL" target="LGA" start="2001-01-01" end="2001-01-31" weight="666" />
+<edge source="TPA" target="LGA" start="2001-01-01" end="2001-01-31" weight="558" />
+<edge source="XNA" target="LGA" start="2001-01-01" end="2001-01-31" weight="114" />
+
+<edge source="ATL" target="LGA" start="2001-02-01" end="2001-02-28" weight="1192" />
+<edge source="BGR" target="LGA" start="2001-02-01" end="2001-02-28" weight="56" />
+<edge source="BNA" target="LGA" start="2001-02-01" end="2001-02-28" weight="160" />
+<edge source="BOS" target="LGA" start="2001-02-01" end="2001-02-28" weight="1804" />
+<edge source="BUF" target="LGA" start="2001-02-01" end="2001-02-28" weight="305" />
+<edge source="CLE" target="LGA" start="2001-02-01" end="2001-02-28" weight="494" />
+<edge source="CLT" target="LGA" start="2001-02-01" end="2001-02-28" weight="706" />
+<edge source="CMH" target="LGA" start="2001-02-01" end="2001-02-28" weight="335" />
+<edge source="CVG" target="LGA" start="2001-02-01" end="2001-02-28" weight="308" />
+<edge source="DAL" target="LGA" start="2001-02-01" end="2001-02-28" weight="150" />
+<edge source="DCA" target="LGA" start="2001-02-01" end="2001-02-28" weight="1756" />
+<edge source="DEN" target="LGA" start="2001-02-01" end="2001-02-28" weight="442" />
+<edge source="DFW" target="LGA" start="2001-02-01" end="2001-02-28" weight="1022" />
+<edge source="DTW" target="LGA" start="2001-02-01" end="2001-02-28" weight="516" />
+<edge source="EGE" target="LGA" start="2001-02-01" end="2001-02-28" weight="16" />
+<edge source="FLL" target="LGA" start="2001-02-01" end="2001-02-28" weight="700" />
+<edge source="GSO" target="LGA" start="2001-02-01" end="2001-02-28" weight="272" />
+<edge source="GSP" target="LGA" start="2001-02-01" end="2001-02-28" weight="17" />
+<edge source="HOU" target="LGA" start="2001-02-01" end="2001-02-28" weight="148" />
+<edge source="IAD" target="LGA" start="2001-02-01" end="2001-02-28" weight="392" />
+<edge source="IAH" target="LGA" start="2001-02-01" end="2001-02-28" weight="510" />
+<edge source="IND" target="LGA" start="2001-02-01" end="2001-02-28" weight="92" />
+<edge source="JAX" target="LGA" start="2001-02-01" end="2001-02-28" weight="280" />
+<edge source="MCO" target="LGA" start="2001-02-01" end="2001-02-28" weight="772" />
+<edge source="MEM" target="LGA" start="2001-02-01" end="2001-02-28" weight="216" />
+<edge source="MHT" target="LGA" start="2001-02-01" end="2001-02-28" weight="152" />
+<edge source="MIA" target="LGA" start="2001-02-01" end="2001-02-28" weight="586" />
+<edge source="MSP" target="LGA" start="2001-02-01" end="2001-02-28" weight="444" />
+<edge source="MSY" target="LGA" start="2001-02-01" end="2001-02-28" weight="56" />
+<edge source="ORD" target="LGA" start="2001-02-01" end="2001-02-28" weight="1733" />
+<edge source="ORF" target="LGA" start="2001-02-01" end="2001-02-28" weight="242" />
+<edge source="PBI" target="LGA" start="2001-02-01" end="2001-02-28" weight="476" />
+<edge source="PHL" target="LGA" start="2001-02-01" end="2001-02-28" weight="57" />
+<edge source="PIT" target="LGA" start="2001-02-01" end="2001-02-28" weight="572" />
+<edge source="PVD" target="LGA" start="2001-02-01" end="2001-02-28" weight="280" />
+<edge source="PWM" target="LGA" start="2001-02-01" end="2001-02-28" weight="248" />
+<edge source="RDU" target="LGA" start="2001-02-01" end="2001-02-28" weight="184" />
+<edge source="RIC" target="LGA" start="2001-02-01" end="2001-02-28" weight="195" />
+<edge source="ROC" target="LGA" start="2001-02-01" end="2001-02-28" weight="393" />
+<edge source="RSW" target="LGA" start="2001-02-01" end="2001-02-28" weight="112" />
+<edge source="SDF" target="LGA" start="2001-02-01" end="2001-02-28" weight="4" />
+<edge source="STL" target="LGA" start="2001-02-01" end="2001-02-28" weight="578" />
+<edge source="TPA" target="LGA" start="2001-02-01" end="2001-02-28" weight="504" />
+<edge source="XNA" target="LGA" start="2001-02-01" end="2001-02-28" weight="79" />
+
+<edge source="ATL" target="LGA" start="2001-03-01" end="2001-03-31" weight="1315" />
+<edge source="BGR" target="LGA" start="2001-03-01" end="2001-03-31" weight="62" />
+<edge source="BNA" target="LGA" start="2001-03-01" end="2001-03-31" weight="177" />
+<edge source="BOS" target="LGA" start="2001-03-01" end="2001-03-31" weight="2017" />
+<edge source="BUF" target="LGA" start="2001-03-01" end="2001-03-31" weight="343" />
+<edge source="CLE" target="LGA" start="2001-03-01" end="2001-03-31" weight="544" />
+<edge source="CLT" target="LGA" start="2001-03-01" end="2001-03-31" weight="775" />
+<edge source="CMH" target="LGA" start="2001-03-01" end="2001-03-31" weight="366" />
+<edge source="CVG" target="LGA" start="2001-03-01" end="2001-03-31" weight="341" />
+<edge source="DAL" target="LGA" start="2001-03-01" end="2001-03-31" weight="168" />
+<edge source="DCA" target="LGA" start="2001-03-01" end="2001-03-31" weight="1966" />
+<edge source="DEN" target="LGA" start="2001-03-01" end="2001-03-31" weight="496" />
+<edge source="DFW" target="LGA" start="2001-03-01" end="2001-03-31" weight="1139" />
+<edge source="DTW" target="LGA" start="2001-03-01" end="2001-03-31" weight="772" />
+<edge source="EGE" target="LGA" start="2001-03-01" end="2001-03-31" weight="20" />
+<edge source="FLL" target="LGA" start="2001-03-01" end="2001-03-31" weight="775" />
+<edge source="GSO" target="LGA" start="2001-03-01" end="2001-03-31" weight="297" />
+<edge source="HOU" target="LGA" start="2001-03-01" end="2001-03-31" weight="168" />
+<edge source="IAD" target="LGA" start="2001-03-01" end="2001-03-31" weight="436" />
+<edge source="IAH" target="LGA" start="2001-03-01" end="2001-03-31" weight="563" />
+<edge source="IND" target="LGA" start="2001-03-01" end="2001-03-31" weight="100" />
+<edge source="JAX" target="LGA" start="2001-03-01" end="2001-03-31" weight="310" />
+<edge source="MCO" target="LGA" start="2001-03-01" end="2001-03-31" weight="873" />
+<edge source="MEM" target="LGA" start="2001-03-01" end="2001-03-31" weight="238" />
+<edge source="MHT" target="LGA" start="2001-03-01" end="2001-03-31" weight="168" />
+<edge source="MIA" target="LGA" start="2001-03-01" end="2001-03-31" weight="648" />
+<edge source="MSP" target="LGA" start="2001-03-01" end="2001-03-31" weight="491" />
+<edge source="MSY" target="LGA" start="2001-03-01" end="2001-03-31" weight="62" />
+<edge source="ORD" target="LGA" start="2001-03-01" end="2001-03-31" weight="1925" />
+<edge source="ORF" target="LGA" start="2001-03-01" end="2001-03-31" weight="313" />
+<edge source="PBI" target="LGA" start="2001-03-01" end="2001-03-31" weight="527" />
+<edge source="PHL" target="LGA" start="2001-03-01" end="2001-03-31" weight="62" />
+<edge source="PIT" target="LGA" start="2001-03-01" end="2001-03-31" weight="630" />
+<edge source="PVD" target="LGA" start="2001-03-01" end="2001-03-31" weight="309" />
+<edge source="PWM" target="LGA" start="2001-03-01" end="2001-03-31" weight="272" />
+<edge source="RDU" target="LGA" start="2001-03-01" end="2001-03-31" weight="200" />
+<edge source="RIC" target="LGA" start="2001-03-01" end="2001-03-31" weight="210" />
+<edge source="ROC" target="LGA" start="2001-03-01" end="2001-03-31" weight="370" />
+<edge source="RSW" target="LGA" start="2001-03-01" end="2001-03-31" weight="124" />
+<edge source="STL" target="LGA" start="2001-03-01" end="2001-03-31" weight="572" />
+<edge source="TPA" target="LGA" start="2001-03-01" end="2001-03-31" weight="557" />
+<edge source="XNA" target="LGA" start="2001-03-01" end="2001-03-31" weight="88" />
+
+<edge source="ATL" target="LGA" start="2001-04-01" end="2001-04-30" weight="1280" />
+<edge source="BGR" target="LGA" start="2001-04-01" end="2001-04-30" weight="59" />
+<edge source="BNA" target="LGA" start="2001-04-01" end="2001-04-30" weight="171" />
+<edge source="BOS" target="LGA" start="2001-04-01" end="2001-04-30" weight="1950" />
+<edge source="BUF" target="LGA" start="2001-04-01" end="2001-04-30" weight="335" />
+<edge source="CLE" target="LGA" start="2001-04-01" end="2001-04-30" weight="532" />
+<edge source="CLT" target="LGA" start="2001-04-01" end="2001-04-30" weight="702" />
+<edge source="CMH" target="LGA" start="2001-04-01" end="2001-04-30" weight="361" />
+<edge source="CVG" target="LGA" start="2001-04-01" end="2001-04-30" weight="329" />
+<edge source="DAL" target="LGA" start="2001-04-01" end="2001-04-30" weight="162" />
+<edge source="DCA" target="LGA" start="2001-04-01" end="2001-04-30" weight="1898" />
+<edge source="DEN" target="LGA" start="2001-04-01" end="2001-04-30" weight="467" />
+<edge source="DFW" target="LGA" start="2001-04-01" end="2001-04-30" weight="1113" />
+<edge source="DTW" target="LGA" start="2001-04-01" end="2001-04-30" weight="757" />
+<edge source="FLL" target="LGA" start="2001-04-01" end="2001-04-30" weight="750" />
+<edge source="GSO" target="LGA" start="2001-04-01" end="2001-04-30" weight="292" />
+<edge source="HOU" target="LGA" start="2001-04-01" end="2001-04-30" weight="161" />
+<edge source="IAD" target="LGA" start="2001-04-01" end="2001-04-30" weight="438" />
+<edge source="IAH" target="LGA" start="2001-04-01" end="2001-04-30" weight="549" />
+<edge source="IND" target="LGA" start="2001-04-01" end="2001-04-30" weight="99" />
+<edge source="JAX" target="LGA" start="2001-04-01" end="2001-04-30" weight="300" />
+<edge source="MCO" target="LGA" start="2001-04-01" end="2001-04-30" weight="846" />
+<edge source="MEM" target="LGA" start="2001-04-01" end="2001-04-30" weight="232" />
+<edge source="MHT" target="LGA" start="2001-04-01" end="2001-04-30" weight="174" />
+<edge source="MIA" target="LGA" start="2001-04-01" end="2001-04-30" weight="618" />
+<edge source="MSP" target="LGA" start="2001-04-01" end="2001-04-30" weight="484" />
+<edge source="MSY" target="LGA" start="2001-04-01" end="2001-04-30" weight="60" />
+<edge source="ORD" target="LGA" start="2001-04-01" end="2001-04-30" weight="1907" />
+<edge source="ORF" target="LGA" start="2001-04-01" end="2001-04-30" weight="257" />
+<edge source="PBI" target="LGA" start="2001-04-01" end="2001-04-30" weight="509" />
+<edge source="PHL" target="LGA" start="2001-04-01" end="2001-04-30" weight="60" />
+<edge source="PIT" target="LGA" start="2001-04-01" end="2001-04-30" weight="611" />
+<edge source="PVD" target="LGA" start="2001-04-01" end="2001-04-30" weight="263" />
+<edge source="PWM" target="LGA" start="2001-04-01" end="2001-04-30" weight="273" />
+<edge source="RDU" target="LGA" start="2001-04-01" end="2001-04-30" weight="198" />
+<edge source="RIC" target="LGA" start="2001-04-01" end="2001-04-30" weight="205" />
+<edge source="ROC" target="LGA" start="2001-04-01" end="2001-04-30" weight="420" />
+<edge source="RSW" target="LGA" start="2001-04-01" end="2001-04-30" weight="120" />
+<edge source="STL" target="LGA" start="2001-04-01" end="2001-04-30" weight="556" />
+<edge source="TPA" target="LGA" start="2001-04-01" end="2001-04-30" weight="540" />
+<edge source="XNA" target="LGA" start="2001-04-01" end="2001-04-30" weight="84" />
+
+
+<edge source="ATL" target="LGA" start="2001-05-01" end="2001-05-31" weight="1328" />
+<edge source="BGR" target="LGA" start="2001-05-01" end="2001-05-31" weight="62" />
+<edge source="BNA" target="LGA" start="2001-05-01" end="2001-05-31" weight="178" />
+<edge source="BOS" target="LGA" start="2001-05-01" end="2001-05-31" weight="1968" />
+<edge source="BUF" target="LGA" start="2001-05-01" end="2001-05-31" weight="348" />
+<edge source="CLE" target="LGA" start="2001-05-01" end="2001-05-31" weight="546" />
+<edge source="CLT" target="LGA" start="2001-05-01" end="2001-05-31" weight="685" />
+<edge source="CMH" target="LGA" start="2001-05-01" end="2001-05-31" weight="370" />
+<edge source="CVG" target="LGA" start="2001-05-01" end="2001-05-31" weight="335" />
+<edge source="DAL" target="LGA" start="2001-05-01" end="2001-05-31" weight="166" />
+<edge source="DCA" target="LGA" start="2001-05-01" end="2001-05-31" weight="1915" />
+<edge source="DEN" target="LGA" start="2001-05-01" end="2001-05-31" weight="478" />
+<edge source="DFW" target="LGA" start="2001-05-01" end="2001-05-31" weight="1122" />
+<edge source="DTW" target="LGA" start="2001-05-01" end="2001-05-31" weight="781" />
+<edge source="FLL" target="LGA" start="2001-05-01" end="2001-05-31" weight="705" />
+<edge source="GSO" target="LGA" start="2001-05-01" end="2001-05-31" weight="303" />
+<edge source="HOU" target="LGA" start="2001-05-01" end="2001-05-31" weight="164" />
+<edge source="IAD" target="LGA" start="2001-05-01" end="2001-05-31" weight="449" />
+<edge source="IAH" target="LGA" start="2001-05-01" end="2001-05-31" weight="555" />
+<edge source="IND" target="LGA" start="2001-05-01" end="2001-05-31" weight="104" />
+<edge source="JAX" target="LGA" start="2001-05-01" end="2001-05-31" weight="302" />
+<edge source="MCO" target="LGA" start="2001-05-01" end="2001-05-31" weight="749" />
+<edge source="MEM" target="LGA" start="2001-05-01" end="2001-05-31" weight="238" />
+<edge source="MHT" target="LGA" start="2001-05-01" end="2001-05-31" weight="178" />
+<edge source="MIA" target="LGA" start="2001-05-01" end="2001-05-31" weight="632" />
+<edge source="MSP" target="LGA" start="2001-05-01" end="2001-05-31" weight="509" />
+<edge source="MSY" target="LGA" start="2001-05-01" end="2001-05-31" weight="62" />
+<edge source="ORD" target="LGA" start="2001-05-01" end="2001-05-31" weight="1965" />
+<edge source="ORF" target="LGA" start="2001-05-01" end="2001-05-31" weight="268" />
+<edge source="PBI" target="LGA" start="2001-05-01" end="2001-05-31" weight="402" />
+<edge source="PHL" target="LGA" start="2001-05-01" end="2001-05-31" weight="62" />
+<edge source="PIT" target="LGA" start="2001-05-01" end="2001-05-31" weight="636" />
+<edge source="PVD" target="LGA" start="2001-05-01" end="2001-05-31" weight="324" />
+<edge source="PWM" target="LGA" start="2001-05-01" end="2001-05-31" weight="278" />
+<edge source="RDU" target="LGA" start="2001-05-01" end="2001-05-31" weight="208" />
+<edge source="RIC" target="LGA" start="2001-05-01" end="2001-05-31" weight="210" />
+<edge source="ROC" target="LGA" start="2001-05-01" end="2001-05-31" weight="438" />
+<edge source="RSW" target="LGA" start="2001-05-01" end="2001-05-31" weight="124" />
+<edge source="STL" target="LGA" start="2001-05-01" end="2001-05-31" weight="643" />
+<edge source="TPA" target="LGA" start="2001-05-01" end="2001-05-31" weight="502" />
+<edge source="TVC" target="LGA" start="2001-05-01" end="2001-05-31" weight="2" />
+<edge source="XNA" target="LGA" start="2001-05-01" end="2001-05-31" weight="88" />
+
+<edge source="ATL" target="LGA" start="2001-06-01" end="2001-06-30" weight="1294" />
+<edge source="BGR" target="LGA" start="2001-06-01" end="2001-06-30" weight="60" />
+<edge source="BNA" target="LGA" start="2001-06-01" end="2001-06-30" weight="171" />
+<edge source="BOS" target="LGA" start="2001-06-01" end="2001-06-30" weight="1950" />
+<edge source="BUF" target="LGA" start="2001-06-01" end="2001-06-30" weight="330" />
+<edge source="CLE" target="LGA" start="2001-06-01" end="2001-06-30" weight="480" />
+<edge source="CLT" target="LGA" start="2001-06-01" end="2001-06-30" weight="652" />
+<edge source="CMH" target="LGA" start="2001-06-01" end="2001-06-30" weight="344" />
+<edge source="CVG" target="LGA" start="2001-06-01" end="2001-06-30" weight="330" />
+<edge source="DAL" target="LGA" start="2001-06-01" end="2001-06-30" weight="162" />
+<edge source="DCA" target="LGA" start="2001-06-01" end="2001-06-30" weight="1900" />
+<edge source="DEN" target="LGA" start="2001-06-01" end="2001-06-30" weight="474" />
+<edge source="DFW" target="LGA" start="2001-06-01" end="2001-06-30" weight="1106" />
+<edge source="DTW" target="LGA" start="2001-06-01" end="2001-06-30" weight="763" />
+<edge source="FLL" target="LGA" start="2001-06-01" end="2001-06-30" weight="686" />
+<edge source="GSO" target="LGA" start="2001-06-01" end="2001-06-30" weight="287" />
+<edge source="HOU" target="LGA" start="2001-06-01" end="2001-06-30" weight="160" />
+<edge source="IAD" target="LGA" start="2001-06-01" end="2001-06-30" weight="443" />
+<edge source="IAH" target="LGA" start="2001-06-01" end="2001-06-30" weight="492" />
+<edge source="IND" target="LGA" start="2001-06-01" end="2001-06-30" weight="96" />
+<edge source="JAX" target="LGA" start="2001-06-01" end="2001-06-30" weight="180" />
+<edge source="MCO" target="LGA" start="2001-06-01" end="2001-06-30" weight="726" />
+<edge source="MEM" target="LGA" start="2001-06-01" end="2001-06-30" weight="210" />
+<edge source="MHT" target="LGA" start="2001-06-01" end="2001-06-30" weight="180" />
+<edge source="MIA" target="LGA" start="2001-06-01" end="2001-06-30" weight="617" />
+<edge source="MSP" target="LGA" start="2001-06-01" end="2001-06-30" weight="495" />
+<edge source="MSY" target="LGA" start="2001-06-01" end="2001-06-30" weight="60" />
+<edge source="ORD" target="LGA" start="2001-06-01" end="2001-06-30" weight="1913" />
+<edge source="ORF" target="LGA" start="2001-06-01" end="2001-06-30" weight="253" />
+<edge source="PBI" target="LGA" start="2001-06-01" end="2001-06-30" weight="390" />
+<edge source="PHL" target="LGA" start="2001-06-01" end="2001-06-30" weight="60" />
+<edge source="PIT" target="LGA" start="2001-06-01" end="2001-06-30" weight="603" />
+<edge source="PVD" target="LGA" start="2001-06-01" end="2001-06-30" weight="332" />
+<edge source="PWM" target="LGA" start="2001-06-01" end="2001-06-30" weight="272" />
+<edge source="RDU" target="LGA" start="2001-06-01" end="2001-06-30" weight="192" />
+<edge source="RIC" target="LGA" start="2001-06-01" end="2001-06-30" weight="202" />
+<edge source="ROC" target="LGA" start="2001-06-01" end="2001-06-30" weight="422" />
+<edge source="RSW" target="LGA" start="2001-06-01" end="2001-06-30" weight="119" />
+<edge source="STL" target="LGA" start="2001-06-01" end="2001-06-30" weight="517" />
+<edge source="TPA" target="LGA" start="2001-06-01" end="2001-06-30" weight="480" />
+<edge source="TVC" target="LGA" start="2001-06-01" end="2001-06-30" weight="9" />
+<edge source="XNA" target="LGA" start="2001-06-01" end="2001-06-30" weight="84" />
+
+<edge source="ATL" target="LGA" start="2001-07-01" end="2001-07-31" weight="1323" />
+<edge source="BGR" target="LGA" start="2001-07-01" end="2001-07-31" weight="62" />
+<edge source="BNA" target="LGA" start="2001-07-01" end="2001-07-31" weight="177" />
+<edge source="BOS" target="LGA" start="2001-07-01" end="2001-07-31" weight="1892" />
+<edge source="BUF" target="LGA" start="2001-07-01" end="2001-07-31" weight="328" />
+<edge source="CLE" target="LGA" start="2001-07-01" end="2001-07-31" weight="504" />
+<edge source="CLT" target="LGA" start="2001-07-01" end="2001-07-31" weight="653" />
+<edge source="CMH" target="LGA" start="2001-07-01" end="2001-07-31" weight="332" />
+<edge source="CVG" target="LGA" start="2001-07-01" end="2001-07-31" weight="340" />
+<edge source="DAL" target="LGA" start="2001-07-01" end="2001-07-31" weight="162" />
+<edge source="DCA" target="LGA" start="2001-07-01" end="2001-07-31" weight="1856" />
+<edge source="DEN" target="LGA" start="2001-07-01" end="2001-07-31" weight="492" />
+<edge source="DFW" target="LGA" start="2001-07-01" end="2001-07-31" weight="1136" />
+<edge source="DTW" target="LGA" start="2001-07-01" end="2001-07-31" weight="788" />
+<edge source="FLL" target="LGA" start="2001-07-01" end="2001-07-31" weight="713" />
+<edge source="GSO" target="LGA" start="2001-07-01" end="2001-07-31" weight="282" />
+<edge source="HOU" target="LGA" start="2001-07-01" end="2001-07-31" weight="164" />
+<edge source="IAD" target="LGA" start="2001-07-01" end="2001-07-31" weight="452" />
+<edge source="IAH" target="LGA" start="2001-07-01" end="2001-07-31" weight="498" />
+<edge source="IND" target="LGA" start="2001-07-01" end="2001-07-31" weight="83" />
+<edge source="JAX" target="LGA" start="2001-07-01" end="2001-07-31" weight="186" />
+<edge source="MCO" target="LGA" start="2001-07-01" end="2001-07-31" weight="748" />
+<edge source="MEM" target="LGA" start="2001-07-01" end="2001-07-31" weight="217" />
+<edge source="MHT" target="LGA" start="2001-07-01" end="2001-07-31" weight="184" />
+<edge source="MIA" target="LGA" start="2001-07-01" end="2001-07-31" weight="637" />
+<edge source="MSP" target="LGA" start="2001-07-01" end="2001-07-31" weight="513" />
+<edge source="MSY" target="LGA" start="2001-07-01" end="2001-07-31" weight="62" />
+<edge source="ORD" target="LGA" start="2001-07-01" end="2001-07-31" weight="2168" />
+<edge source="ORF" target="LGA" start="2001-07-01" end="2001-07-31" weight="241" />
+<edge source="PBI" target="LGA" start="2001-07-01" end="2001-07-31" weight="403" />
+<edge source="PHL" target="LGA" start="2001-07-01" end="2001-07-31" weight="62" />
+<edge source="PIT" target="LGA" start="2001-07-01" end="2001-07-31" weight="590" />
+<edge source="PVD" target="LGA" start="2001-07-01" end="2001-07-31" weight="355" />
+<edge source="PWM" target="LGA" start="2001-07-01" end="2001-07-31" weight="296" />
+<edge source="RDU" target="LGA" start="2001-07-01" end="2001-07-31" weight="383" />
+<edge source="RIC" target="LGA" start="2001-07-01" end="2001-07-31" weight="197" />
+<edge source="ROC" target="LGA" start="2001-07-01" end="2001-07-31" weight="199" />
+<edge source="RSW" target="LGA" start="2001-07-01" end="2001-07-31" weight="124" />
+<edge source="STL" target="LGA" start="2001-07-01" end="2001-07-31" weight="463" />
+<edge source="TPA" target="LGA" start="2001-07-01" end="2001-07-31" weight="496" />
+<edge source="TVC" target="LGA" start="2001-07-01" end="2001-07-31" weight="9" />
+<edge source="XNA" target="LGA" start="2001-07-01" end="2001-07-31" weight="79" />
+
+<edge source="ATL" target="LGA" start="2001-08-01" end="2001-08-31" weight="1337" />
+<edge source="BDL" target="LGA" start="2001-08-01" end="2001-08-31" weight="1" />
+<edge source="BGR" target="LGA" start="2001-08-01" end="2001-08-31" weight="62" />
+<edge source="BNA" target="LGA" start="2001-08-01" end="2001-08-31" weight="178" />
+<edge source="BOS" target="LGA" start="2001-08-01" end="2001-08-31" weight="2012" />
+<edge source="BUF" target="LGA" start="2001-08-01" end="2001-08-31" weight="348" />
+<edge source="CLE" target="LGA" start="2001-08-01" end="2001-08-31" weight="510" />
+<edge source="CLT" target="LGA" start="2001-08-01" end="2001-08-31" weight="685" />
+<edge source="CMH" target="LGA" start="2001-08-01" end="2001-08-31" weight="369" />
+<edge source="CVG" target="LGA" start="2001-08-01" end="2001-08-31" weight="341" />
+<edge source="DAL" target="LGA" start="2001-08-01" end="2001-08-31" weight="170" />
+<edge source="DCA" target="LGA" start="2001-08-01" end="2001-08-31" weight="1966" />
+<edge source="DEN" target="LGA" start="2001-08-01" end="2001-08-31" weight="492" />
+<edge source="DFW" target="LGA" start="2001-08-01" end="2001-08-31" weight="1138" />
+<edge source="DTW" target="LGA" start="2001-08-01" end="2001-08-31" weight="793" />
+<edge source="FLL" target="LGA" start="2001-08-01" end="2001-08-31" weight="713" />
+<edge source="GSO" target="LGA" start="2001-08-01" end="2001-08-31" weight="313" />
+<edge source="HOU" target="LGA" start="2001-08-01" end="2001-08-31" weight="169" />
+<edge source="IAD" target="LGA" start="2001-08-01" end="2001-08-31" weight="457" />
+<edge source="IAH" target="LGA" start="2001-08-01" end="2001-08-31" weight="518" />
+<edge source="IND" target="LGA" start="2001-08-01" end="2001-08-31" weight="104" />
+<edge source="JAX" target="LGA" start="2001-08-01" end="2001-08-31" weight="186" />
+<edge source="MCO" target="LGA" start="2001-08-01" end="2001-08-31" weight="745" />
+<edge source="MEM" target="LGA" start="2001-08-01" end="2001-08-31" weight="217" />
+<edge source="MHT" target="LGA" start="2001-08-01" end="2001-08-31" weight="186" />
+<edge source="MIA" target="LGA" start="2001-08-01" end="2001-08-31" weight="636" />
+<edge source="MSP" target="LGA" start="2001-08-01" end="2001-08-31" weight="515" />
+<edge source="MSY" target="LGA" start="2001-08-01" end="2001-08-31" weight="62" />
+<edge source="ORD" target="LGA" start="2001-08-01" end="2001-08-31" weight="2238" />
+<edge source="ORF" target="LGA" start="2001-08-01" end="2001-08-31" weight="270" />
+<edge source="PBI" target="LGA" start="2001-08-01" end="2001-08-31" weight="403" />
+<edge source="PHL" target="LGA" start="2001-08-01" end="2001-08-31" weight="62" />
+<edge source="PIT" target="LGA" start="2001-08-01" end="2001-08-31" weight="626" />
+<edge source="PVD" target="LGA" start="2001-08-01" end="2001-08-31" weight="364" />
+<edge source="PWM" target="LGA" start="2001-08-01" end="2001-08-31" weight="301" />
+<edge source="RDU" target="LGA" start="2001-08-01" end="2001-08-31" weight="463" />
+<edge source="RIC" target="LGA" start="2001-08-01" end="2001-08-31" weight="216" />
+<edge source="ROC" target="LGA" start="2001-08-01" end="2001-08-31" weight="224" />
+<edge source="RSW" target="LGA" start="2001-08-01" end="2001-08-31" weight="124" />
+<edge source="STL" target="LGA" start="2001-08-01" end="2001-08-31" weight="471" />
+<edge source="TPA" target="LGA" start="2001-08-01" end="2001-08-31" weight="496" />
+<edge source="TVC" target="LGA" start="2001-08-01" end="2001-08-31" weight="9" />
+<edge source="XNA" target="LGA" start="2001-08-01" end="2001-08-31" weight="92" />
+
+<edge source="ATL" target="LGA" start="2001-09-01" end="2001-09-30" weight="1171" />
+<edge source="BGR" target="LGA" start="2001-09-01" end="2001-09-30" weight="60" />
+<edge source="BNA" target="LGA" start="2001-09-01" end="2001-09-30" weight="168" />
+<edge source="BOS" target="LGA" start="2001-09-01" end="2001-09-30" weight="1720" />
+<edge source="BUF" target="LGA" start="2001-09-01" end="2001-09-30" weight="316" />
+<edge source="CLE" target="LGA" start="2001-09-01" end="2001-09-30" weight="454" />
+<edge source="CLT" target="LGA" start="2001-09-01" end="2001-09-30" weight="642" />
+<edge source="CMH" target="LGA" start="2001-09-01" end="2001-09-30" weight="237" />
+<edge source="CVG" target="LGA" start="2001-09-01" end="2001-09-30" weight="330" />
+<edge source="DAL" target="LGA" start="2001-09-01" end="2001-09-30" weight="69" />
+<edge source="DCA" target="LGA" start="2001-09-01" end="2001-09-30" weight="1581" />
+<edge source="DEN" target="LGA" start="2001-09-01" end="2001-09-30" weight="412" />
+<edge source="DFW" target="LGA" start="2001-09-01" end="2001-09-30" weight="949" />
+<edge source="DTW" target="LGA" start="2001-09-01" end="2001-09-30" weight="748" />
+<edge source="FLL" target="LGA" start="2001-09-01" end="2001-09-30" weight="639" />
+<edge source="GSO" target="LGA" start="2001-09-01" end="2001-09-30" weight="292" />
+<edge source="HOU" target="LGA" start="2001-09-01" end="2001-09-30" weight="143" />
+<edge source="IAD" target="LGA" start="2001-09-01" end="2001-09-30" weight="388" />
+<edge source="IAH" target="LGA" start="2001-09-01" end="2001-09-30" weight="469" />
+<edge source="IND" target="LGA" start="2001-09-01" end="2001-09-30" weight="21" />
+<edge source="JAX" target="LGA" start="2001-09-01" end="2001-09-30" weight="178" />
+<edge source="MCO" target="LGA" start="2001-09-01" end="2001-09-30" weight="698" />
+<edge source="MEM" target="LGA" start="2001-09-01" end="2001-09-30" weight="210" />
+<edge source="MHT" target="LGA" start="2001-09-01" end="2001-09-30" weight="178" />
+<edge source="MIA" target="LGA" start="2001-09-01" end="2001-09-30" weight="524" />
+<edge source="MSP" target="LGA" start="2001-09-01" end="2001-09-30" weight="468" />
+<edge source="MSY" target="LGA" start="2001-09-01" end="2001-09-30" weight="58" />
+<edge source="ORD" target="LGA" start="2001-09-01" end="2001-09-30" weight="1821" />
+<edge source="ORF" target="LGA" start="2001-09-01" end="2001-09-30" weight="247" />
+<edge source="PBI" target="LGA" start="2001-09-01" end="2001-09-30" weight="376" />
+<edge source="PHL" target="LGA" start="2001-09-01" end="2001-09-30" weight="60" />
+<edge source="PIT" target="LGA" start="2001-09-01" end="2001-09-30" weight="621" />
+<edge source="PVD" target="LGA" start="2001-09-01" end="2001-09-30" weight="347" />
+<edge source="PWM" target="LGA" start="2001-09-01" end="2001-09-30" weight="288" />
+<edge source="RDU" target="LGA" start="2001-09-01" end="2001-09-30" weight="457" />
+<edge source="RIC" target="LGA" start="2001-09-01" end="2001-09-30" weight="198" />
+<edge source="ROC" target="LGA" start="2001-09-01" end="2001-09-30" weight="205" />
+<edge source="RSW" target="LGA" start="2001-09-01" end="2001-09-30" weight="110" />
+<edge source="STL" target="LGA" start="2001-09-01" end="2001-09-30" weight="443" />
+<edge source="TPA" target="LGA" start="2001-09-01" end="2001-09-30" weight="449" />
+<edge source="TVC" target="LGA" start="2001-09-01" end="2001-09-30" weight="1" />
+<edge source="XNA" target="LGA" start="2001-09-01" end="2001-09-30" weight="76" />
+
+<edge source="ATL" target="LGA" start="2001-10-01" end="2001-10-31" weight="1256" />
+<edge source="BGR" target="LGA" start="2001-10-01" end="2001-10-31" weight="88" />
+<edge source="BNA" target="LGA" start="2001-10-01" end="2001-10-31" weight="178" />
+<edge source="BOS" target="LGA" start="2001-10-01" end="2001-10-31" weight="1363" />
+<edge source="BUF" target="LGA" start="2001-10-01" end="2001-10-31" weight="128" />
+<edge source="CLE" target="LGA" start="2001-10-01" end="2001-10-31" weight="390" />
+<edge source="CLT" target="LGA" start="2001-10-01" end="2001-10-31" weight="484" />
+<edge source="CMH" target="LGA" start="2001-10-01" end="2001-10-31" weight="224" />
+<edge source="CVG" target="LGA" start="2001-10-01" end="2001-10-31" weight="341" />
+<edge source="DCA" target="LGA" start="2001-10-01" end="2001-10-31" weight="1017" />
+<edge source="DEN" target="LGA" start="2001-10-01" end="2001-10-31" weight="335" />
+<edge source="DFW" target="LGA" start="2001-10-01" end="2001-10-31" weight="860" />
+<edge source="DTW" target="LGA" start="2001-10-01" end="2001-10-31" weight="829" />
+<edge source="FLL" target="LGA" start="2001-10-01" end="2001-10-31" weight="476" />
+<edge source="GSO" target="LGA" start="2001-10-01" end="2001-10-31" weight="21" />
+<edge source="HOU" target="LGA" start="2001-10-01" end="2001-10-31" weight="169" />
+<edge source="IAD" target="LGA" start="2001-10-01" end="2001-10-31" weight="425" />
+<edge source="IAH" target="LGA" start="2001-10-01" end="2001-10-31" weight="390" />
+<edge source="JAX" target="LGA" start="2001-10-01" end="2001-10-31" weight="26" />
+<edge source="MCO" target="LGA" start="2001-10-01" end="2001-10-31" weight="575" />
+<edge source="MEM" target="LGA" start="2001-10-01" end="2001-10-31" weight="186" />
+<edge source="MIA" target="LGA" start="2001-10-01" end="2001-10-31" weight="434" />
+<edge source="MSP" target="LGA" start="2001-10-01" end="2001-10-31" weight="395" />
+<edge source="ORD" target="LGA" start="2001-10-01" end="2001-10-31" weight="1714" />
+<edge source="ORF" target="LGA" start="2001-10-01" end="2001-10-31" weight="190" />
+<edge source="PBI" target="LGA" start="2001-10-01" end="2001-10-31" weight="288" />
+<edge source="PHL" target="LGA" start="2001-10-01" end="2001-10-31" weight="62" />
+<edge source="PIT" target="LGA" start="2001-10-01" end="2001-10-31" weight="624" />
+<edge source="PVD" target="LGA" start="2001-10-01" end="2001-10-31" weight="302" />
+<edge source="PWM" target="LGA" start="2001-10-01" end="2001-10-31" weight="269" />
+<edge source="RDU" target="LGA" start="2001-10-01" end="2001-10-31" weight="352" />
+<edge source="RIC" target="LGA" start="2001-10-01" end="2001-10-31" weight="128" />
+<edge source="ROC" target="LGA" start="2001-10-01" end="2001-10-31" weight="23" />
+<edge source="RSW" target="LGA" start="2001-10-01" end="2001-10-31" weight="14" />
+<edge source="STL" target="LGA" start="2001-10-01" end="2001-10-31" weight="472" />
+<edge source="TPA" target="LGA" start="2001-10-01" end="2001-10-31" weight="421" />
+<edge source="XNA" target="LGA" start="2001-10-01" end="2001-10-31" weight="92" />
+
+<edge source="ATL" target="LGA" start="2001-11-01" end="2001-11-30" weight="984" />
+<edge source="BGR" target="LGA" start="2001-11-01" end="2001-11-30" weight="60" />
+<edge source="BNA" target="LGA" start="2001-11-01" end="2001-11-30" weight="167" />
+<edge source="BOS" target="LGA" start="2001-11-01" end="2001-11-30" weight="1832" />
+<edge source="BUF" target="LGA" start="2001-11-01" end="2001-11-30" weight="55" />
+<edge source="CLE" target="LGA" start="2001-11-01" end="2001-11-30" weight="302" />
+<edge source="CLT" target="LGA" start="2001-11-01" end="2001-11-30" weight="560" />
+<edge source="CMH" target="LGA" start="2001-11-01" end="2001-11-30" weight="153" />
+<edge source="CVG" target="LGA" start="2001-11-01" end="2001-11-30" weight="319" />
+<edge source="DCA" target="LGA" start="2001-11-01" end="2001-11-30" weight="1713" />
+<edge source="DEN" target="LGA" start="2001-11-01" end="2001-11-30" weight="294" />
+<edge source="DFW" target="LGA" start="2001-11-01" end="2001-11-30" weight="815" />
+<edge source="DTW" target="LGA" start="2001-11-01" end="2001-11-30" weight="695" />
+<edge source="FLL" target="LGA" start="2001-11-01" end="2001-11-30" weight="560" />
+<edge source="GSO" target="LGA" start="2001-11-01" end="2001-11-30" weight="82" />
+<edge source="HOU" target="LGA" start="2001-11-01" end="2001-11-30" weight="99" />
+<edge source="IAH" target="LGA" start="2001-11-01" end="2001-11-30" weight="392" />
+<edge source="MCO" target="LGA" start="2001-11-01" end="2001-11-30" weight="499" />
+<edge source="MEM" target="LGA" start="2001-11-01" end="2001-11-30" weight="180" />
+<edge source="MIA" target="LGA" start="2001-11-01" end="2001-11-30" weight="424" />
+<edge source="MSP" target="LGA" start="2001-11-01" end="2001-11-30" weight="326" />
+<edge source="MSY" target="LGA" start="2001-11-01" end="2001-11-30" weight="56" />
+<edge source="ORD" target="LGA" start="2001-11-01" end="2001-11-30" weight="1575" />
+<edge source="ORF" target="LGA" start="2001-11-01" end="2001-11-30" weight="109" />
+<edge source="PBI" target="LGA" start="2001-11-01" end="2001-11-30" weight="442" />
+<edge source="PHL" target="LGA" start="2001-11-01" end="2001-11-30" weight="62" />
+<edge source="PIT" target="LGA" start="2001-11-01" end="2001-11-30" weight="614" />
+<edge source="PVD" target="LGA" start="2001-11-01" end="2001-11-30" weight="191" />
+<edge source="PWM" target="LGA" start="2001-11-01" end="2001-11-30" weight="158" />
+<edge source="RDU" target="LGA" start="2001-11-01" end="2001-11-30" weight="364" />
+<edge source="RIC" target="LGA" start="2001-11-01" end="2001-11-30" weight="44" />
+<edge source="ROC" target="LGA" start="2001-11-01" end="2001-11-30" weight="41" />
+<edge source="RSW" target="LGA" start="2001-11-01" end="2001-11-30" weight="56" />
+<edge source="STL" target="LGA" start="2001-11-01" end="2001-11-30" weight="394" />
+<edge source="TPA" target="LGA" start="2001-11-01" end="2001-11-30" weight="364" />
+<edge source="XNA" target="LGA" start="2001-11-01" end="2001-11-30" weight="79" />
+
+<edge source="ATL" target="LGA" start="2001-12-01" end="2001-12-31" weight="948" />
+<edge source="BGR" target="LGA" start="2001-12-01" end="2001-12-31" weight="61" />
+<edge source="BNA" target="LGA" start="2001-12-01" end="2001-12-31" weight="164" />
+<edge source="BOS" target="LGA" start="2001-12-01" end="2001-12-31" weight="1666" />
+<edge source="BUF" target="LGA" start="2001-12-01" end="2001-12-31" weight="121" />
+<edge source="CLE" target="LGA" start="2001-12-01" end="2001-12-31" weight="293" />
+<edge source="CLT" target="LGA" start="2001-12-01" end="2001-12-31" weight="646" />
+<edge source="CMH" target="LGA" start="2001-12-01" end="2001-12-31" weight="154" />
+<edge source="CVG" target="LGA" start="2001-12-01" end="2001-12-31" weight="331" />
+<edge source="DCA" target="LGA" start="2001-12-01" end="2001-12-31" weight="1593" />
+<edge source="DEN" target="LGA" start="2001-12-01" end="2001-12-31" weight="306" />
+<edge source="DFW" target="LGA" start="2001-12-01" end="2001-12-31" weight="794" />
+<edge source="DTW" target="LGA" start="2001-12-01" end="2001-12-31" weight="721" />
+<edge source="EGE" target="LGA" start="2001-12-01" end="2001-12-31" weight="6" />
+<edge source="FLL" target="LGA" start="2001-12-01" end="2001-12-31" weight="466" />
+<edge source="GSO" target="LGA" start="2001-12-01" end="2001-12-31" weight="84" />
+<edge source="HOU" target="LGA" start="2001-12-01" end="2001-12-31" weight="103" />
+<edge source="IAH" target="LGA" start="2001-12-01" end="2001-12-31" weight="399" />
+<edge source="MCO" target="LGA" start="2001-12-01" end="2001-12-31" weight="407" />
+<edge source="MEM" target="LGA" start="2001-12-01" end="2001-12-31" weight="186" />
+<edge source="MIA" target="LGA" start="2001-12-01" end="2001-12-31" weight="473" />
+<edge source="MSP" target="LGA" start="2001-12-01" end="2001-12-31" weight="364" />
+<edge source="MSY" target="LGA" start="2001-12-01" end="2001-12-31" weight="62" />
+<edge source="ORD" target="LGA" start="2001-12-01" end="2001-12-31" weight="1584" />
+<edge source="ORF" target="LGA" start="2001-12-01" end="2001-12-31" weight="106" />
+<edge source="PBI" target="LGA" start="2001-12-01" end="2001-12-31" weight="403" />
+<edge source="PHL" target="LGA" start="2001-12-01" end="2001-12-31" weight="63" />
+<edge source="PIT" target="LGA" start="2001-12-01" end="2001-12-31" weight="518" />
+<edge source="PVD" target="LGA" start="2001-12-01" end="2001-12-31" weight="180" />
+<edge source="PWM" target="LGA" start="2001-12-01" end="2001-12-31" weight="160" />
+<edge source="RDU" target="LGA" start="2001-12-01" end="2001-12-31" weight="404" />
+<edge source="RIC" target="LGA" start="2001-12-01" end="2001-12-31" weight="48" />
+<edge source="ROC" target="LGA" start="2001-12-01" end="2001-12-31" weight="48" />
+<edge source="RSW" target="LGA" start="2001-12-01" end="2001-12-31" weight="2" />
+<edge source="STL" target="LGA" start="2001-12-01" end="2001-12-31" weight="375" />
+<edge source="TPA" target="LGA" start="2001-12-01" end="2001-12-31" weight="370" />
+<edge source="XNA" target="LGA" start="2001-12-01" end="2001-12-31" weight="37" />
+
+<edge source="ATL" target="LGA" start="2002-01-01" end="2002-01-31" weight="974" />
+<edge source="BGR" target="LGA" start="2002-01-01" end="2002-01-31" weight="62" />
+<edge source="BNA" target="LGA" start="2002-01-01" end="2002-01-31" weight="168" />
+<edge source="BOS" target="LGA" start="2002-01-01" end="2002-01-31" weight="1908" />
+<edge source="BUF" target="LGA" start="2002-01-01" end="2002-01-31" weight="124" />
+<edge source="CLE" target="LGA" start="2002-01-01" end="2002-01-31" weight="315" />
+<edge source="CLT" target="LGA" start="2002-01-01" end="2002-01-31" weight="644" />
+<edge source="CMH" target="LGA" start="2002-01-01" end="2002-01-31" weight="162" />
+<edge source="CVG" target="LGA" start="2002-01-01" end="2002-01-31" weight="338" />
+<edge source="DCA" target="LGA" start="2002-01-01" end="2002-01-31" weight="1812" />
+<edge source="DEN" target="LGA" start="2002-01-01" end="2002-01-31" weight="310" />
+<edge source="DFW" target="LGA" start="2002-01-01" end="2002-01-31" weight="789" />
+<edge source="DTW" target="LGA" start="2002-01-01" end="2002-01-31" weight="699" />
+<edge source="EGE" target="LGA" start="2002-01-01" end="2002-01-31" weight="8" />
+<edge source="FLL" target="LGA" start="2002-01-01" end="2002-01-31" weight="465" />
+<edge source="GSO" target="LGA" start="2002-01-01" end="2002-01-31" weight="60" />
+<edge source="HOU" target="LGA" start="2002-01-01" end="2002-01-31" weight="106" />
+<edge source="IAH" target="LGA" start="2002-01-01" end="2002-01-31" weight="414" />
+<edge source="MCO" target="LGA" start="2002-01-01" end="2002-01-31" weight="403" />
+<edge source="MEM" target="LGA" start="2002-01-01" end="2002-01-31" weight="186" />
+<edge source="MIA" target="LGA" start="2002-01-01" end="2002-01-31" weight="461" />
+<edge source="MSP" target="LGA" start="2002-01-01" end="2002-01-31" weight="366" />
+<edge source="MSY" target="LGA" start="2002-01-01" end="2002-01-31" weight="62" />
+<edge source="ORD" target="LGA" start="2002-01-01" end="2002-01-31" weight="1666" />
+<edge source="ORF" target="LGA" start="2002-01-01" end="2002-01-31" weight="116" />
+<edge source="PBI" target="LGA" start="2002-01-01" end="2002-01-31" weight="403" />
+<edge source="PHL" target="LGA" start="2002-01-01" end="2002-01-31" weight="62" />
+<edge source="PIT" target="LGA" start="2002-01-01" end="2002-01-31" weight="542" />
+<edge source="PVD" target="LGA" start="2002-01-01" end="2002-01-31" weight="178" />
+<edge source="PWM" target="LGA" start="2002-01-01" end="2002-01-31" weight="168" />
+<edge source="RDU" target="LGA" start="2002-01-01" end="2002-01-31" weight="492" />
+<edge source="RIC" target="LGA" start="2002-01-01" end="2002-01-31" weight="54" />
+<edge source="ROC" target="LGA" start="2002-01-01" end="2002-01-31" weight="60" />
+<edge source="STL" target="LGA" start="2002-01-01" end="2002-01-31" weight="363" />
+<edge source="TPA" target="LGA" start="2002-01-01" end="2002-01-31" weight="372" />
+<edge source="XNA" target="LGA" start="2002-01-01" end="2002-01-31" weight="53" />
+
+<edge source="ATL" target="LGA" start="2002-02-01" end="2002-02-28" weight="876" />
+<edge source="BGR" target="LGA" start="2002-02-01" end="2002-02-28" weight="56" />
+<edge source="BNA" target="LGA" start="2002-02-01" end="2002-02-28" weight="152" />
+<edge source="BOS" target="LGA" start="2002-02-01" end="2002-02-28" weight="1730" />
+<edge source="BUF" target="LGA" start="2002-02-01" end="2002-02-28" weight="112" />
+<edge source="CLE" target="LGA" start="2002-02-01" end="2002-02-28" weight="283" />
+<edge source="CLT" target="LGA" start="2002-02-01" end="2002-02-28" weight="569" />
+<edge source="CMH" target="LGA" start="2002-02-01" end="2002-02-28" weight="148" />
+<edge source="CVG" target="LGA" start="2002-02-01" end="2002-02-28" weight="307" />
+<edge source="DCA" target="LGA" start="2002-02-01" end="2002-02-28" weight="1644" />
+<edge source="DEN" target="LGA" start="2002-02-01" end="2002-02-28" weight="284" />
+<edge source="DFW" target="LGA" start="2002-02-01" end="2002-02-28" weight="710" />
+<edge source="DTW" target="LGA" start="2002-02-01" end="2002-02-28" weight="640" />
+<edge source="EGE" target="LGA" start="2002-02-01" end="2002-02-28" weight="8" />
+<edge source="FLL" target="LGA" start="2002-02-01" end="2002-02-28" weight="426" />
+<edge source="GSO" target="LGA" start="2002-02-01" end="2002-02-28" weight="48" />
+<edge source="HOU" target="LGA" start="2002-02-01" end="2002-02-28" weight="96" />
+<edge source="IAH" target="LGA" start="2002-02-01" end="2002-02-28" weight="398" />
+<edge source="MCO" target="LGA" start="2002-02-01" end="2002-02-28" weight="363" />
+<edge source="MEM" target="LGA" start="2002-02-01" end="2002-02-28" weight="168" />
+<edge source="MIA" target="LGA" start="2002-02-01" end="2002-02-28" weight="400" />
+<edge source="MSP" target="LGA" start="2002-02-01" end="2002-02-28" weight="344" />
+<edge source="MSY" target="LGA" start="2002-02-01" end="2002-02-28" weight="56" />
+<edge source="ORD" target="LGA" start="2002-02-01" end="2002-02-28" weight="1501" />
+<edge source="ORF" target="LGA" start="2002-02-01" end="2002-02-28" weight="104" />
+<edge source="PBI" target="LGA" start="2002-02-01" end="2002-02-28" weight="310" />
+<edge source="PHL" target="LGA" start="2002-02-01" end="2002-02-28" weight="56" />
+<edge source="PIT" target="LGA" start="2002-02-01" end="2002-02-28" weight="530" />
+<edge source="PVD" target="LGA" start="2002-02-01" end="2002-02-28" weight="162" />
+<edge source="PWM" target="LGA" start="2002-02-01" end="2002-02-28" weight="152" />
+<edge source="RDU" target="LGA" start="2002-02-01" end="2002-02-28" weight="456" />
+<edge source="RIC" target="LGA" start="2002-02-01" end="2002-02-28" weight="48" />
+<edge source="ROC" target="LGA" start="2002-02-01" end="2002-02-28" weight="49" />
+<edge source="STL" target="LGA" start="2002-02-01" end="2002-02-28" weight="328" />
+<edge source="TPA" target="LGA" start="2002-02-01" end="2002-02-28" weight="336" />
+<edge source="XNA" target="LGA" start="2002-02-01" end="2002-02-28" weight="79" />
+
+<edge source="ATL" target="LGA" start="2002-03-01" end="2002-03-31" weight="971" />
+<edge source="BGR" target="LGA" start="2002-03-01" end="2002-03-31" weight="62" />
+<edge source="BNA" target="LGA" start="2002-03-01" end="2002-03-31" weight="166" />
+<edge source="BOS" target="LGA" start="2002-03-01" end="2002-03-31" weight="1906" />
+<edge source="BUF" target="LGA" start="2002-03-01" end="2002-03-31" weight="124" />
+<edge source="CLE" target="LGA" start="2002-03-01" end="2002-03-31" weight="307" />
+<edge source="CLT" target="LGA" start="2002-03-01" end="2002-03-31" weight="621" />
+<edge source="CMH" target="LGA" start="2002-03-01" end="2002-03-31" weight="161" />
+<edge source="CVG" target="LGA" start="2002-03-01" end="2002-03-31" weight="338" />
+<edge source="DCA" target="LGA" start="2002-03-01" end="2002-03-31" weight="1812" />
+<edge source="DEN" target="LGA" start="2002-03-01" end="2002-03-31" weight="310" />
+<edge source="DFW" target="LGA" start="2002-03-01" end="2002-03-31" weight="836" />
+<edge source="DTW" target="LGA" start="2002-03-01" end="2002-03-31" weight="704" />
+<edge source="EGE" target="LGA" start="2002-03-01" end="2002-03-31" weight="10" />
+<edge source="FLL" target="LGA" start="2002-03-01" end="2002-03-31" weight="475" />
+<edge source="GSO" target="LGA" start="2002-03-01" end="2002-03-31" weight="52" />
+<edge source="HOU" target="LGA" start="2002-03-01" end="2002-03-31" weight="104" />
+<edge source="IAH" target="LGA" start="2002-03-01" end="2002-03-31" weight="461" />
+<edge source="MCO" target="LGA" start="2002-03-01" end="2002-03-31" weight="463" />
+<edge source="MEM" target="LGA" start="2002-03-01" end="2002-03-31" weight="186" />
+<edge source="MIA" target="LGA" start="2002-03-01" end="2002-03-31" weight="443" />
+<edge source="MSP" target="LGA" start="2002-03-01" end="2002-03-31" weight="393" />
+<edge source="MSY" target="LGA" start="2002-03-01" end="2002-03-31" weight="62" />
+<edge source="ORD" target="LGA" start="2002-03-01" end="2002-03-31" weight="1690" />
+<edge source="ORF" target="LGA" start="2002-03-01" end="2002-03-31" weight="114" />
+<edge source="PBI" target="LGA" start="2002-03-01" end="2002-03-31" weight="341" />
+<edge source="PHL" target="LGA" start="2002-03-01" end="2002-03-31" weight="62" />
+<edge source="PIT" target="LGA" start="2002-03-01" end="2002-03-31" weight="512" />
+<edge source="PVD" target="LGA" start="2002-03-01" end="2002-03-31" weight="176" />
+<edge source="PWM" target="LGA" start="2002-03-01" end="2002-03-31" weight="216" />
+<edge source="RDU" target="LGA" start="2002-03-01" end="2002-03-31" weight="520" />
+<edge source="RIC" target="LGA" start="2002-03-01" end="2002-03-31" weight="52" />
+<edge source="ROC" target="LGA" start="2002-03-01" end="2002-03-31" weight="61" />
+<edge source="STL" target="LGA" start="2002-03-01" end="2002-03-31" weight="362" />
+<edge source="TPA" target="LGA" start="2002-03-01" end="2002-03-31" weight="431" />
+<edge source="XNA" target="LGA" start="2002-03-01" end="2002-03-31" weight="83" />
+
+<edge source="ATL" target="LGA" start="2002-04-01" end="2002-04-30" weight="941" />
+<edge source="BGR" target="LGA" start="2002-04-01" end="2002-04-30" weight="60" />
+<edge source="BNA" target="LGA" start="2002-04-01" end="2002-04-30" weight="164" />
+<edge source="BOS" target="LGA" start="2002-04-01" end="2002-04-30" weight="1868" />
+<edge source="BUF" target="LGA" start="2002-04-01" end="2002-04-30" weight="120" />
+<edge source="CLE" target="LGA" start="2002-04-01" end="2002-04-30" weight="344" />
+<edge source="CLT" target="LGA" start="2002-04-01" end="2002-04-30" weight="579" />
+<edge source="CMH" target="LGA" start="2002-04-01" end="2002-04-30" weight="159" />
+<edge source="CVG" target="LGA" start="2002-04-01" end="2002-04-30" weight="327" />
+<edge source="DCA" target="LGA" start="2002-04-01" end="2002-04-30" weight="1772" />
+<edge source="DEN" target="LGA" start="2002-04-01" end="2002-04-30" weight="324" />
+<edge source="DFW" target="LGA" start="2002-04-01" end="2002-04-30" weight="902" />
+<edge source="DTW" target="LGA" start="2002-04-01" end="2002-04-30" weight="702" />
+<edge source="EGE" target="LGA" start="2002-04-01" end="2002-04-30" weight="2" />
+<edge source="FLL" target="LGA" start="2002-04-01" end="2002-04-30" weight="450" />
+<edge source="GSO" target="LGA" start="2002-04-01" end="2002-04-30" weight="52" />
+<edge source="HOU" target="LGA" start="2002-04-01" end="2002-04-30" weight="146" />
+<edge source="IAH" target="LGA" start="2002-04-01" end="2002-04-30" weight="452" />
+<edge source="MCO" target="LGA" start="2002-04-01" end="2002-04-30" weight="450" />
+<edge source="MEM" target="LGA" start="2002-04-01" end="2002-04-30" weight="180" />
+<edge source="MIA" target="LGA" start="2002-04-01" end="2002-04-30" weight="470" />
+<edge source="MSP" target="LGA" start="2002-04-01" end="2002-04-30" weight="382" />
+<edge source="MSY" target="LGA" start="2002-04-01" end="2002-04-30" weight="60" />
+<edge source="ORD" target="LGA" start="2002-04-01" end="2002-04-30" weight="1768" />
+<edge source="ORF" target="LGA" start="2002-04-01" end="2002-04-30" weight="112" />
+<edge source="PBI" target="LGA" start="2002-04-01" end="2002-04-30" weight="329" />
+<edge source="PHL" target="LGA" start="2002-04-01" end="2002-04-30" weight="60" />
+<edge source="PIT" target="LGA" start="2002-04-01" end="2002-04-30" weight="477" />
+<edge source="PVD" target="LGA" start="2002-04-01" end="2002-04-30" weight="247" />
+<edge source="PWM" target="LGA" start="2002-04-01" end="2002-04-30" weight="180" />
+<edge source="RDU" target="LGA" start="2002-04-01" end="2002-04-30" weight="454" />
+<edge source="RIC" target="LGA" start="2002-04-01" end="2002-04-30" weight="52" />
+<edge source="ROC" target="LGA" start="2002-04-01" end="2002-04-30" weight="52" />
+<edge source="STL" target="LGA" start="2002-04-01" end="2002-04-30" weight="352" />
+<edge source="TPA" target="LGA" start="2002-04-01" end="2002-04-30" weight="420" />
+<edge source="XNA" target="LGA" start="2002-04-01" end="2002-04-30" weight="88" />
+
+<edge source="ATL" target="LGA" start="2002-05-01" end="2002-05-31" weight="964" />
+<edge source="BGR" target="LGA" start="2002-05-01" end="2002-05-31" weight="62" />
+<edge source="BNA" target="LGA" start="2002-05-01" end="2002-05-31" weight="170" />
+<edge source="BOS" target="LGA" start="2002-05-01" end="2002-05-31" weight="1841" />
+<edge source="BUF" target="LGA" start="2002-05-01" end="2002-05-31" weight="124" />
+<edge source="CLE" target="LGA" start="2002-05-01" end="2002-05-31" weight="367" />
+<edge source="CLT" target="LGA" start="2002-05-01" end="2002-05-31" weight="590" />
+<edge source="CMH" target="LGA" start="2002-05-01" end="2002-05-31" weight="217" />
+<edge source="CVG" target="LGA" start="2002-05-01" end="2002-05-31" weight="341" />
+<edge source="DCA" target="LGA" start="2002-05-01" end="2002-05-31" weight="1740" />
+<edge source="DEN" target="LGA" start="2002-05-01" end="2002-05-31" weight="337" />
+<edge source="DFW" target="LGA" start="2002-05-01" end="2002-05-31" weight="951" />
+<edge source="DTW" target="LGA" start="2002-05-01" end="2002-05-31" weight="718" />
+<edge source="FLL" target="LGA" start="2002-05-01" end="2002-05-31" weight="473" />
+<edge source="GSO" target="LGA" start="2002-05-01" end="2002-05-31" weight="52" />
+<edge source="HOU" target="LGA" start="2002-05-01" end="2002-05-31" weight="158" />
+<edge source="IAH" target="LGA" start="2002-05-01" end="2002-05-31" weight="513" />
+<edge source="MCO" target="LGA" start="2002-05-01" end="2002-05-31" weight="473" />
+<edge source="MEM" target="LGA" start="2002-05-01" end="2002-05-31" weight="186" />
+<edge source="MIA" target="LGA" start="2002-05-01" end="2002-05-31" weight="492" />
+<edge source="MSP" target="LGA" start="2002-05-01" end="2002-05-31" weight="393" />
+<edge source="MSY" target="LGA" start="2002-05-01" end="2002-05-31" weight="62" />
+<edge source="ORD" target="LGA" start="2002-05-01" end="2002-05-31" weight="1831" />
+<edge source="ORF" target="LGA" start="2002-05-01" end="2002-05-31" weight="173" />
+<edge source="PBI" target="LGA" start="2002-05-01" end="2002-05-31" weight="233" />
+<edge source="PHL" target="LGA" start="2002-05-01" end="2002-05-31" weight="63" />
+<edge source="PIT" target="LGA" start="2002-05-01" end="2002-05-31" weight="494" />
+<edge source="PVD" target="LGA" start="2002-05-01" end="2002-05-31" weight="320" />
+<edge source="PWM" target="LGA" start="2002-05-01" end="2002-05-31" weight="168" />
+<edge source="RDU" target="LGA" start="2002-05-01" end="2002-05-31" weight="447" />
+<edge source="RIC" target="LGA" start="2002-05-01" end="2002-05-31" weight="52" />
+<edge source="ROC" target="LGA" start="2002-05-01" end="2002-05-31" weight="52" />
+<edge source="STL" target="LGA" start="2002-05-01" end="2002-05-31" weight="362" />
+<edge source="TPA" target="LGA" start="2002-05-01" end="2002-05-31" weight="430" />
+<edge source="XNA" target="LGA" start="2002-05-01" end="2002-05-31" weight="85" />
+
+<edge source="ATL" target="LGA" start="2002-06-01" end="2002-06-30" weight="950" />
+<edge source="BGR" target="LGA" start="2002-06-01" end="2002-06-30" weight="120" />
+<edge source="BNA" target="LGA" start="2002-06-01" end="2002-06-30" weight="160" />
+<edge source="BOS" target="LGA" start="2002-06-01" end="2002-06-30" weight="1740" />
+<edge source="BUF" target="LGA" start="2002-06-01" end="2002-06-30" weight="120" />
+<edge source="CLE" target="LGA" start="2002-06-01" end="2002-06-30" weight="422" />
+<edge source="CLT" target="LGA" start="2002-06-01" end="2002-06-30" weight="565" />
+<edge source="CMH" target="LGA" start="2002-06-01" end="2002-06-30" weight="205" />
+<edge source="CVG" target="LGA" start="2002-06-01" end="2002-06-30" weight="330" />
+<edge source="DCA" target="LGA" start="2002-06-01" end="2002-06-30" weight="1650" />
+<edge source="DEN" target="LGA" start="2002-06-01" end="2002-06-30" weight="437" />
+<edge source="DFW" target="LGA" start="2002-06-01" end="2002-06-30" weight="917" />
+<edge source="DTW" target="LGA" start="2002-06-01" end="2002-06-30" weight="820" />
+<edge source="FLL" target="LGA" start="2002-06-01" end="2002-06-30" weight="430" />
+<edge source="GSO" target="LGA" start="2002-06-01" end="2002-06-30" weight="50" />
+<edge source="HOU" target="LGA" start="2002-06-01" end="2002-06-30" weight="147" />
+<edge source="IAH" target="LGA" start="2002-06-01" end="2002-06-30" weight="492" />
+<edge source="MCO" target="LGA" start="2002-06-01" end="2002-06-30" weight="412" />
+<edge source="MEM" target="LGA" start="2002-06-01" end="2002-06-30" weight="204" />
+<edge source="MIA" target="LGA" start="2002-06-01" end="2002-06-30" weight="509" />
+<edge source="MSP" target="LGA" start="2002-06-01" end="2002-06-30" weight="428" />
+<edge source="MSY" target="LGA" start="2002-06-01" end="2002-06-30" weight="60" />
+<edge source="ORD" target="LGA" start="2002-06-01" end="2002-06-30" weight="1788" />
+<edge source="ORF" target="LGA" start="2002-06-01" end="2002-06-30" weight="160" />
+<edge source="PBI" target="LGA" start="2002-06-01" end="2002-06-30" weight="230" />
+<edge source="PHL" target="LGA" start="2002-06-01" end="2002-06-30" weight="60" />
+<edge source="PIT" target="LGA" start="2002-06-01" end="2002-06-30" weight="473" />
+<edge source="PVD" target="LGA" start="2002-06-01" end="2002-06-30" weight="260" />
+<edge source="PWM" target="LGA" start="2002-06-01" end="2002-06-30" weight="160" />
+<edge source="RDU" target="LGA" start="2002-06-01" end="2002-06-30" weight="421" />
+<edge source="RIC" target="LGA" start="2002-06-01" end="2002-06-30" weight="50" />
+<edge source="ROC" target="LGA" start="2002-06-01" end="2002-06-30" weight="54" />
+<edge source="STL" target="LGA" start="2002-06-01" end="2002-06-30" weight="375" />
+<edge source="TPA" target="LGA" start="2002-06-01" end="2002-06-30" weight="365" />
+<edge source="TVC" target="LGA" start="2002-06-01" end="2002-06-30" weight="2" />
+<edge source="XNA" target="LGA" start="2002-06-01" end="2002-06-30" weight="81" />
+
+<edge source="ATL" target="LGA" start="2002-07-01" end="2002-07-31" weight="969" />
+<edge source="BGR" target="LGA" start="2002-07-01" end="2002-07-31" weight="122" />
+<edge source="BNA" target="LGA" start="2002-07-01" end="2002-07-31" weight="170" />
+<edge source="BOS" target="LGA" start="2002-07-01" end="2002-07-31" weight="1775" />
+<edge source="BUF" target="LGA" start="2002-07-01" end="2002-07-31" weight="124" />
+<edge source="CLE" target="LGA" start="2002-07-01" end="2002-07-31" weight="408" />
+<edge source="CLT" target="LGA" start="2002-07-01" end="2002-07-31" weight="579" />
+<edge source="CMH" target="LGA" start="2002-07-01" end="2002-07-31" weight="218" />
+<edge source="CVG" target="LGA" start="2002-07-01" end="2002-07-31" weight="336" />
+<edge source="DCA" target="LGA" start="2002-07-01" end="2002-07-31" weight="1685" />
+<edge source="DEN" target="LGA" start="2002-07-01" end="2002-07-31" weight="474" />
+<edge source="DFW" target="LGA" start="2002-07-01" end="2002-07-31" weight="950" />
+<edge source="DTW" target="LGA" start="2002-07-01" end="2002-07-31" weight="867" />
+<edge source="FLL" target="LGA" start="2002-07-01" end="2002-07-31" weight="409" />
+<edge source="GSO" target="LGA" start="2002-07-01" end="2002-07-31" weight="50" />
+<edge source="HOU" target="LGA" start="2002-07-01" end="2002-07-31" weight="160" />
+<edge source="IAH" target="LGA" start="2002-07-01" end="2002-07-31" weight="496" />
+<edge source="MCO" target="LGA" start="2002-07-01" end="2002-07-31" weight="373" />
+<edge source="MEM" target="LGA" start="2002-07-01" end="2002-07-31" weight="217" />
+<edge source="MIA" target="LGA" start="2002-07-01" end="2002-07-31" weight="556" />
+<edge source="MSP" target="LGA" start="2002-07-01" end="2002-07-31" weight="449" />
+<edge source="MSY" target="LGA" start="2002-07-01" end="2002-07-31" weight="62" />
+<edge source="ORD" target="LGA" start="2002-07-01" end="2002-07-31" weight="1858" />
+<edge source="ORF" target="LGA" start="2002-07-01" end="2002-07-31" weight="174" />
+<edge source="PBI" target="LGA" start="2002-07-01" end="2002-07-31" weight="231" />
+<edge source="PHL" target="LGA" start="2002-07-01" end="2002-07-31" weight="62" />
+<edge source="PIT" target="LGA" start="2002-07-01" end="2002-07-31" weight="476" />
+<edge source="PVD" target="LGA" start="2002-07-01" end="2002-07-31" weight="279" />
+<edge source="PWM" target="LGA" start="2002-07-01" end="2002-07-31" weight="166" />
+<edge source="RDU" target="LGA" start="2002-07-01" end="2002-07-31" weight="417" />
+<edge source="RIC" target="LGA" start="2002-07-01" end="2002-07-31" weight="50" />
+<edge source="ROC" target="LGA" start="2002-07-01" end="2002-07-31" weight="62" />
+<edge source="STL" target="LGA" start="2002-07-01" end="2002-07-31" weight="416" />
+<edge source="TPA" target="LGA" start="2002-07-01" end="2002-07-31" weight="324" />
+<edge source="TVC" target="LGA" start="2002-07-01" end="2002-07-31" weight="8" />
+<edge source="XNA" target="LGA" start="2002-07-01" end="2002-07-31" weight="82" />
+
+<edge source="ATL" target="LGA" start="2002-08-01" end="2002-08-31" weight="981" />
+<edge source="BGR" target="LGA" start="2002-08-01" end="2002-08-31" weight="124" />
+<edge source="BNA" target="LGA" start="2002-08-01" end="2002-08-31" weight="168" />
+<edge source="BOS" target="LGA" start="2002-08-01" end="2002-08-31" weight="1816" />
+<edge source="BUF" target="LGA" start="2002-08-01" end="2002-08-31" weight="124" />
+<edge source="CLE" target="LGA" start="2002-08-01" end="2002-08-31" weight="412" />
+<edge source="CLT" target="LGA" start="2002-08-01" end="2002-08-31" weight="584" />
+<edge source="CMH" target="LGA" start="2002-08-01" end="2002-08-31" weight="220" />
+<edge source="CVG" target="LGA" start="2002-08-01" end="2002-08-31" weight="341" />
+<edge source="DCA" target="LGA" start="2002-08-01" end="2002-08-31" weight="1720" />
+<edge source="DEN" target="LGA" start="2002-08-01" end="2002-08-31" weight="479" />
+<edge source="DFW" target="LGA" start="2002-08-01" end="2002-08-31" weight="944" />
+<edge source="DTW" target="LGA" start="2002-08-01" end="2002-08-31" weight="874" />
+<edge source="FLL" target="LGA" start="2002-08-01" end="2002-08-31" weight="413" />
+<edge source="GSO" target="LGA" start="2002-08-01" end="2002-08-31" weight="52" />
+<edge source="HOU" target="LGA" start="2002-08-01" end="2002-08-31" weight="110" />
+<edge source="IAH" target="LGA" start="2002-08-01" end="2002-08-31" weight="511" />
+<edge source="MCO" target="LGA" start="2002-08-01" end="2002-08-31" weight="381" />
+<edge source="MEM" target="LGA" start="2002-08-01" end="2002-08-31" weight="217" />
+<edge source="MIA" target="LGA" start="2002-08-01" end="2002-08-31" weight="555" />
+<edge source="MSP" target="LGA" start="2002-08-01" end="2002-08-31" weight="455" />
+<edge source="MSY" target="LGA" start="2002-08-01" end="2002-08-31" weight="62" />
+<edge source="ORD" target="LGA" start="2002-08-01" end="2002-08-31" weight="1861" />
+<edge source="ORF" target="LGA" start="2002-08-01" end="2002-08-31" weight="176" />
+<edge source="PBI" target="LGA" start="2002-08-01" end="2002-08-31" weight="227" />
+<edge source="PHL" target="LGA" start="2002-08-01" end="2002-08-31" weight="62" />
+<edge source="PIT" target="LGA" start="2002-08-01" end="2002-08-31" weight="481" />
+<edge source="PVD" target="LGA" start="2002-08-01" end="2002-08-31" weight="275" />
+<edge source="PWM" target="LGA" start="2002-08-01" end="2002-08-31" weight="168" />
+<edge source="RDU" target="LGA" start="2002-08-01" end="2002-08-31" weight="490" />
+<edge source="RIC" target="LGA" start="2002-08-01" end="2002-08-31" weight="52" />
+<edge source="ROC" target="LGA" start="2002-08-01" end="2002-08-31" weight="5" />
+<edge source="STL" target="LGA" start="2002-08-01" end="2002-08-31" weight="361" />
+<edge source="TPA" target="LGA" start="2002-08-01" end="2002-08-31" weight="330" />
+<edge source="TVC" target="LGA" start="2002-08-01" end="2002-08-31" weight="9" />
+<edge source="XNA" target="LGA" start="2002-08-01" end="2002-08-31" weight="85" />
+
+<edge source="ATL" target="LGA" start="2002-09-01" end="2002-09-30" weight="946" />
+<edge source="BGR" target="LGA" start="2002-09-01" end="2002-09-30" weight="65" />
+<edge source="BNA" target="LGA" start="2002-09-01" end="2002-09-30" weight="159" />
+<edge source="BOS" target="LGA" start="2002-09-01" end="2002-09-30" weight="1841" />
+<edge source="BUF" target="LGA" start="2002-09-01" end="2002-09-30" weight="28" />
+<edge source="CLE" target="LGA" start="2002-09-01" end="2002-09-30" weight="390" />
+<edge source="CLT" target="LGA" start="2002-09-01" end="2002-09-30" weight="563" />
+<edge source="CMH" target="LGA" start="2002-09-01" end="2002-09-30" weight="206" />
+<edge source="CVG" target="LGA" start="2002-09-01" end="2002-09-30" weight="318" />
+<edge source="DCA" target="LGA" start="2002-09-01" end="2002-09-30" weight="1620" />
+<edge source="DEN" target="LGA" start="2002-09-01" end="2002-09-30" weight="350" />
+<edge source="DFW" target="LGA" start="2002-09-01" end="2002-09-30" weight="885" />
+<edge source="DTW" target="LGA" start="2002-09-01" end="2002-09-30" weight="810" />
+<edge source="FLL" target="LGA" start="2002-09-01" end="2002-09-30" weight="398" />
+<edge source="GSO" target="LGA" start="2002-09-01" end="2002-09-30" weight="50" />
+<edge source="HOU" target="LGA" start="2002-09-01" end="2002-09-30" weight="106" />
+<edge source="IAH" target="LGA" start="2002-09-01" end="2002-09-30" weight="474" />
+<edge source="MCO" target="LGA" start="2002-09-01" end="2002-09-30" weight="342" />
+<edge source="MDW" target="LGA" start="2002-09-01" end="2002-09-30" weight="140" />
+<edge source="MEM" target="LGA" start="2002-09-01" end="2002-09-30" weight="208" />
+<edge source="MIA" target="LGA" start="2002-09-01" end="2002-09-30" weight="527" />
+<edge source="MSP" target="LGA" start="2002-09-01" end="2002-09-30" weight="426" />
+<edge source="MSY" target="LGA" start="2002-09-01" end="2002-09-30" weight="60" />
+<edge source="ORD" target="LGA" start="2002-09-01" end="2002-09-30" weight="1764" />
+<edge source="ORF" target="LGA" start="2002-09-01" end="2002-09-30" weight="122" />
+<edge source="PBI" target="LGA" start="2002-09-01" end="2002-09-30" weight="218" />
+<edge source="PHL" target="LGA" start="2002-09-01" end="2002-09-30" weight="60" />
+<edge source="PIT" target="LGA" start="2002-09-01" end="2002-09-30" weight="464" />
+<edge source="PVD" target="LGA" start="2002-09-01" end="2002-09-30" weight="19" />
+<edge source="PWM" target="LGA" start="2002-09-01" end="2002-09-30" weight="158" />
+<edge source="RDU" target="LGA" start="2002-09-01" end="2002-09-30" weight="447" />
+<edge source="RIC" target="LGA" start="2002-09-01" end="2002-09-30" weight="50" />
+<edge source="STL" target="LGA" start="2002-09-01" end="2002-09-30" weight="345" />
+<edge source="TPA" target="LGA" start="2002-09-01" end="2002-09-30" weight="300" />
+<edge source="TVC" target="LGA" start="2002-09-01" end="2002-09-30" weight="1" />
+<edge source="XNA" target="LGA" start="2002-09-01" end="2002-09-30" weight="75" />
+
+<edge source="ATL" target="LGA" start="2002-10-01" end="2002-10-31" weight="984" />
+<edge source="BGR" target="LGA" start="2002-10-01" end="2002-10-31" weight="62" />
+<edge source="BNA" target="LGA" start="2002-10-01" end="2002-10-31" weight="170" />
+<edge source="BOS" target="LGA" start="2002-10-01" end="2002-10-31" weight="2450" />
+<edge source="CLE" target="LGA" start="2002-10-01" end="2002-10-31" weight="424" />
+<edge source="CLT" target="LGA" start="2002-10-01" end="2002-10-31" weight="518" />
+<edge source="CMH" target="LGA" start="2002-10-01" end="2002-10-31" weight="223" />
+<edge source="CVG" target="LGA" start="2002-10-01" end="2002-10-31" weight="341" />
+<edge source="DCA" target="LGA" start="2002-10-01" end="2002-10-31" weight="2349" />
+<edge source="DEN" target="LGA" start="2002-10-01" end="2002-10-31" weight="349" />
+<edge source="DFW" target="LGA" start="2002-10-01" end="2002-10-31" weight="890" />
+<edge source="DTW" target="LGA" start="2002-10-01" end="2002-10-31" weight="865" />
+<edge source="FLL" target="LGA" start="2002-10-01" end="2002-10-31" weight="411" />
+<edge source="GSO" target="LGA" start="2002-10-01" end="2002-10-31" weight="54" />
+<edge source="HOU" target="LGA" start="2002-10-01" end="2002-10-31" weight="115" />
+<edge source="IAD" target="LGA" start="2002-10-01" end="2002-10-31" weight="2" />
+<edge source="IAH" target="LGA" start="2002-10-01" end="2002-10-31" weight="518" />
+<edge source="MCI" target="LGA" start="2002-10-01" end="2002-10-31" weight="108" />
+<edge source="MCO" target="LGA" start="2002-10-01" end="2002-10-31" weight="349" />
+<edge source="MDW" target="LGA" start="2002-10-01" end="2002-10-31" weight="170" />
+<edge source="MEM" target="LGA" start="2002-10-01" end="2002-10-31" weight="222" />
+<edge source="MIA" target="LGA" start="2002-10-01" end="2002-10-31" weight="550" />
+<edge source="MSP" target="LGA" start="2002-10-01" end="2002-10-31" weight="445" />
+<edge source="MSY" target="LGA" start="2002-10-01" end="2002-10-31" weight="124" />
+<edge source="ORD" target="LGA" start="2002-10-01" end="2002-10-31" weight="1878" />
+<edge source="ORF" target="LGA" start="2002-10-01" end="2002-10-31" weight="1" />
+<edge source="PBI" target="LGA" start="2002-10-01" end="2002-10-31" weight="225" />
+<edge source="PHL" target="LGA" start="2002-10-01" end="2002-10-31" weight="114" />
+<edge source="PIT" target="LGA" start="2002-10-01" end="2002-10-31" weight="405" />
+<edge source="PWM" target="LGA" start="2002-10-01" end="2002-10-31" weight="124" />
+<edge source="RDU" target="LGA" start="2002-10-01" end="2002-10-31" weight="406" />
+<edge source="RIC" target="LGA" start="2002-10-01" end="2002-10-31" weight="8" />
+<edge source="STL" target="LGA" start="2002-10-01" end="2002-10-31" weight="363" />
+<edge source="TPA" target="LGA" start="2002-10-01" end="2002-10-31" weight="310" />
+<edge source="XNA" target="LGA" start="2002-10-01" end="2002-10-31" weight="92" />
+
+<edge source="ATL" target="LGA" start="2002-11-01" end="2002-11-30" weight="943" />
+<edge source="BGR" target="LGA" start="2002-11-01" end="2002-11-30" weight="59" />
+<edge source="BNA" target="LGA" start="2002-11-01" end="2002-11-30" weight="160" />
+<edge source="BOS" target="LGA" start="2002-11-01" end="2002-11-30" weight="2166" />
+<edge source="CLE" target="LGA" start="2002-11-01" end="2002-11-30" weight="375" />
+<edge source="CLT" target="LGA" start="2002-11-01" end="2002-11-30" weight="509" />
+<edge source="CMH" target="LGA" start="2002-11-01" end="2002-11-30" weight="206" />
+<edge source="CVG" target="LGA" start="2002-11-01" end="2002-11-30" weight="322" />
+<edge source="DCA" target="LGA" start="2002-11-01" end="2002-11-30" weight="2106" />
+<edge source="DEN" target="LGA" start="2002-11-01" end="2002-11-30" weight="281" />
+<edge source="DFW" target="LGA" start="2002-11-01" end="2002-11-30" weight="903" />
+<edge source="DTW" target="LGA" start="2002-11-01" end="2002-11-30" weight="828" />
+<edge source="FLL" target="LGA" start="2002-11-01" end="2002-11-30" weight="460" />
+<edge source="GSO" target="LGA" start="2002-11-01" end="2002-11-30" weight="2" />
+<edge source="HOU" target="LGA" start="2002-11-01" end="2002-11-30" weight="104" />
+<edge source="IAD" target="LGA" start="2002-11-01" end="2002-11-30" weight="60" />
+<edge source="IAH" target="LGA" start="2002-11-01" end="2002-11-30" weight="513" />
+<edge source="MCI" target="LGA" start="2002-11-01" end="2002-11-30" weight="102" />
+<edge source="MCO" target="LGA" start="2002-11-01" end="2002-11-30" weight="399" />
+<edge source="MDW" target="LGA" start="2002-11-01" end="2002-11-30" weight="158" />
+<edge source="MEM" target="LGA" start="2002-11-01" end="2002-11-30" weight="228" />
+<edge source="MIA" target="LGA" start="2002-11-01" end="2002-11-30" weight="530" />
+<edge source="MSP" target="LGA" start="2002-11-01" end="2002-11-30" weight="426" />
+<edge source="MSY" target="LGA" start="2002-11-01" end="2002-11-30" weight="120" />
+<edge source="ORD" target="LGA" start="2002-11-01" end="2002-11-30" weight="1799" />
+<edge source="PBI" target="LGA" start="2002-11-01" end="2002-11-30" weight="398" />
+<edge source="PHL" target="LGA" start="2002-11-01" end="2002-11-30" weight="102" />
+<edge source="PIT" target="LGA" start="2002-11-01" end="2002-11-30" weight="346" />
+<edge source="PWM" target="LGA" start="2002-11-01" end="2002-11-30" weight="118" />
+<edge source="RDU" target="LGA" start="2002-11-01" end="2002-11-30" weight="375" />
+<edge source="STL" target="LGA" start="2002-11-01" end="2002-11-30" weight="337" />
+<edge source="TPA" target="LGA" start="2002-11-01" end="2002-11-30" weight="300" />
+<edge source="XNA" target="LGA" start="2002-11-01" end="2002-11-30" weight="63" />
+
+<edge source="ATL" target="LGA" start="2002-12-01" end="2002-12-31" weight="932" />
+<edge source="BGR" target="LGA" start="2002-12-01" end="2002-12-31" weight="62" />
+<edge source="BNA" target="LGA" start="2002-12-01" end="2002-12-31" weight="152" />
+<edge source="BOS" target="LGA" start="2002-12-01" end="2002-12-31" weight="2035" />
+<edge source="CLE" target="LGA" start="2002-12-01" end="2002-12-31" weight="385" />
+<edge source="CLT" target="LGA" start="2002-12-01" end="2002-12-31" weight="501" />
+<edge source="CMH" target="LGA" start="2002-12-01" end="2002-12-31" weight="204" />
+<edge source="CVG" target="LGA" start="2002-12-01" end="2002-12-31" weight="342" />
+<edge source="DCA" target="LGA" start="2002-12-01" end="2002-12-31" weight="1993" />
+<edge source="DEN" target="LGA" start="2002-12-01" end="2002-12-31" weight="318" />
+<edge source="DFW" target="LGA" start="2002-12-01" end="2002-12-31" weight="937" />
+<edge source="DTW" target="LGA" start="2002-12-01" end="2002-12-31" weight="802" />
+<edge source="EGE" target="LGA" start="2002-12-01" end="2002-12-31" weight="4" />
+<edge source="FLL" target="LGA" start="2002-12-01" end="2002-12-31" weight="471" />
+<edge source="HOU" target="LGA" start="2002-12-01" end="2002-12-31" weight="106" />
+<edge source="IAD" target="LGA" start="2002-12-01" end="2002-12-31" weight="63" />
+<edge source="IAH" target="LGA" start="2002-12-01" end="2002-12-31" weight="541" />
+<edge source="MCI" target="LGA" start="2002-12-01" end="2002-12-31" weight="100" />
+<edge source="MCO" target="LGA" start="2002-12-01" end="2002-12-31" weight="409" />
+<edge source="MDW" target="LGA" start="2002-12-01" end="2002-12-31" weight="138" />
+<edge source="MEM" target="LGA" start="2002-12-01" end="2002-12-31" weight="236" />
+<edge source="MIA" target="LGA" start="2002-12-01" end="2002-12-31" weight="558" />
+<edge source="MSP" target="LGA" start="2002-12-01" end="2002-12-31" weight="388" />
+<edge source="MSY" target="LGA" start="2002-12-01" end="2002-12-31" weight="120" />
+<edge source="ORD" target="LGA" start="2002-12-01" end="2002-12-31" weight="1801" />
+<edge source="PBI" target="LGA" start="2002-12-01" end="2002-12-31" weight="406" />
+<edge source="PHL" target="LGA" start="2002-12-01" end="2002-12-31" weight="106" />
+<edge source="PIT" target="LGA" start="2002-12-01" end="2002-12-31" weight="355" />
+<edge source="PWM" target="LGA" start="2002-12-01" end="2002-12-31" weight="121" />
+<edge source="RDU" target="LGA" start="2002-12-01" end="2002-12-31" weight="372" />
+<edge source="RSW" target="LGA" start="2002-12-01" end="2002-12-31" weight="8" />
+<edge source="STL" target="LGA" start="2002-12-01" end="2002-12-31" weight="348" />
+<edge source="TPA" target="LGA" start="2002-12-01" end="2002-12-31" weight="310" />
+<edge source="XNA" target="LGA" start="2002-12-01" end="2002-12-31" weight="1" />
+
+<edge source="ATL" target="LGA" start="2003-01-01" end="2003-01-31" weight="1383" />
+<edge source="BGR" target="LGA" start="2003-01-01" end="2003-01-31" weight="62" />
+<edge source="BNA" target="LGA" start="2003-01-01" end="2003-01-31" weight="204" />
+<edge source="BOS" target="LGA" start="2003-01-01" end="2003-01-31" weight="2246" />
+<edge source="CLE" target="LGA" start="2003-01-01" end="2003-01-31" weight="648" />
+<edge source="CLT" target="LGA" start="2003-01-01" end="2003-01-31" weight="483" />
+<edge source="CMH" target="LGA" start="2003-01-01" end="2003-01-31" weight="177" />
+<edge source="CVG" target="LGA" start="2003-01-01" end="2003-01-31" weight="341" />
+<edge source="DCA" target="LGA" start="2003-01-01" end="2003-01-31" weight="2194" />
+<edge source="DEN" target="LGA" start="2003-01-01" end="2003-01-31" weight="308" />
+<edge source="DFW" target="LGA" start="2003-01-01" end="2003-01-31" weight="950" />
+<edge source="DTW" target="LGA" start="2003-01-01" end="2003-01-31" weight="687" />
+<edge source="EGE" target="LGA" start="2003-01-01" end="2003-01-31" weight="8" />
+<edge source="FLL" target="LGA" start="2003-01-01" end="2003-01-31" weight="473" />
+<edge source="HOU" target="LGA" start="2003-01-01" end="2003-01-31" weight="108" />
+<edge source="IAD" target="LGA" start="2003-01-01" end="2003-01-31" weight="546" />
+<edge source="IAH" target="LGA" start="2003-01-01" end="2003-01-31" weight="546" />
+<edge source="IND" target="LGA" start="2003-01-01" end="2003-01-31" weight="107" />
+<edge source="MCI" target="LGA" start="2003-01-01" end="2003-01-31" weight="100" />
+<edge source="MCO" target="LGA" start="2003-01-01" end="2003-01-31" weight="411" />
+<edge source="MDW" target="LGA" start="2003-01-01" end="2003-01-31" weight="476" />
+<edge source="MEM" target="LGA" start="2003-01-01" end="2003-01-31" weight="196" />
+<edge source="MIA" target="LGA" start="2003-01-01" end="2003-01-31" weight="566" />
+<edge source="MSP" target="LGA" start="2003-01-01" end="2003-01-31" weight="402" />
+<edge source="MSY" target="LGA" start="2003-01-01" end="2003-01-31" weight="122" />
+<edge source="ORD" target="LGA" start="2003-01-01" end="2003-01-31" weight="1829" />
+<edge source="PBI" target="LGA" start="2003-01-01" end="2003-01-31" weight="403" />
+<edge source="PHF" target="LGA" start="2003-01-01" end="2003-01-31" weight="124" />
+<edge source="PHL" target="LGA" start="2003-01-01" end="2003-01-31" weight="115" />
+<edge source="PIT" target="LGA" start="2003-01-01" end="2003-01-31" weight="350" />
+<edge source="PWM" target="LGA" start="2003-01-01" end="2003-01-31" weight="124" />
+<edge source="RDU" target="LGA" start="2003-01-01" end="2003-01-31" weight="387" />
+<edge source="RSW" target="LGA" start="2003-01-01" end="2003-01-31" weight="16" />
+<edge source="STL" target="LGA" start="2003-01-01" end="2003-01-31" weight="341" />
+<edge source="TPA" target="LGA" start="2003-01-01" end="2003-01-31" weight="310" />
+<edge source="XNA" target="LGA" start="2003-01-01" end="2003-01-31" weight="75" />
+
+<edge source="ATL" target="LGA" start="2003-02-01" end="2003-02-28" weight="1240" />
+<edge source="BGR" target="LGA" start="2003-02-01" end="2003-02-28" weight="56" />
+<edge source="BNA" target="LGA" start="2003-02-01" end="2003-02-28" weight="199" />
+<edge source="BOS" target="LGA" start="2003-02-01" end="2003-02-28" weight="2057" />
+<edge source="CLE" target="LGA" start="2003-02-01" end="2003-02-28" weight="600" />
+<edge source="CLT" target="LGA" start="2003-02-01" end="2003-02-28" weight="467" />
+<edge source="CMH" target="LGA" start="2003-02-01" end="2003-02-28" weight="152" />
+<edge source="CVG" target="LGA" start="2003-02-01" end="2003-02-28" weight="308" />
+<edge source="DCA" target="LGA" start="2003-02-01" end="2003-02-28" weight="2038" />
+<edge source="DEN" target="LGA" start="2003-02-01" end="2003-02-28" weight="278" />
+<edge source="DFW" target="LGA" start="2003-02-01" end="2003-02-28" weight="849" />
+<edge source="DTW" target="LGA" start="2003-02-01" end="2003-02-28" weight="651" />
+<edge source="EGE" target="LGA" start="2003-02-01" end="2003-02-28" weight="8" />
+<edge source="FLL" target="LGA" start="2003-02-01" end="2003-02-28" weight="428" />
+<edge source="HOU" target="LGA" start="2003-02-01" end="2003-02-28" weight="96" />
+<edge source="IAD" target="LGA" start="2003-02-01" end="2003-02-28" weight="484" />
+<edge source="IAH" target="LGA" start="2003-02-01" end="2003-02-28" weight="470" />
+<edge source="IND" target="LGA" start="2003-02-01" end="2003-02-28" weight="96" />
+<edge source="MCI" target="LGA" start="2003-02-01" end="2003-02-28" weight="96" />
+<edge source="MCO" target="LGA" start="2003-02-01" end="2003-02-28" weight="375" />
+<edge source="MDW" target="LGA" start="2003-02-01" end="2003-02-28" weight="440" />
+<edge source="MEM" target="LGA" start="2003-02-01" end="2003-02-28" weight="196" />
+<edge source="MIA" target="LGA" start="2003-02-01" end="2003-02-28" weight="512" />
+<edge source="MSP" target="LGA" start="2003-02-01" end="2003-02-28" weight="384" />
+<edge source="MSY" target="LGA" start="2003-02-01" end="2003-02-28" weight="112" />
+<edge source="ORD" target="LGA" start="2003-02-01" end="2003-02-28" weight="1667" />
+<edge source="PBI" target="LGA" start="2003-02-01" end="2003-02-28" weight="360" />
+<edge source="PHF" target="LGA" start="2003-02-01" end="2003-02-28" weight="112" />
+<edge source="PHL" target="LGA" start="2003-02-01" end="2003-02-28" weight="101" />
+<edge source="PIT" target="LGA" start="2003-02-01" end="2003-02-28" weight="312" />
+<edge source="PWM" target="LGA" start="2003-02-01" end="2003-02-28" weight="112" />
+<edge source="RDU" target="LGA" start="2003-02-01" end="2003-02-28" weight="356" />
+<edge source="RSW" target="LGA" start="2003-02-01" end="2003-02-28" weight="16" />
+<edge source="STL" target="LGA" start="2003-02-01" end="2003-02-28" weight="304" />
+<edge source="TPA" target="LGA" start="2003-02-01" end="2003-02-28" weight="274" />
+<edge source="XNA" target="LGA" start="2003-02-01" end="2003-02-28" weight="80" />
+
+<edge source="ATL" target="LGA" start="2003-03-01" end="2003-03-31" weight="1365" />
+<edge source="BGR" target="LGA" start="2003-03-01" end="2003-03-31" weight="62" />
+<edge source="BNA" target="LGA" start="2003-03-01" end="2003-03-31" weight="226" />
+<edge source="BOS" target="LGA" start="2003-03-01" end="2003-03-31" weight="2138" />
+<edge source="CAK" target="LGA" start="2003-03-01" end="2003-03-31" weight="112" />
+<edge source="CLE" target="LGA" start="2003-03-01" end="2003-03-31" weight="668" />
+<edge source="CLT" target="LGA" start="2003-03-01" end="2003-03-31" weight="537" />
+<edge source="CMH" target="LGA" start="2003-03-01" end="2003-03-31" weight="166" />
+<edge source="CVG" target="LGA" start="2003-03-01" end="2003-03-31" weight="341" />
+<edge source="DCA" target="LGA" start="2003-03-01" end="2003-03-31" weight="2204" />
+<edge source="DEN" target="LGA" start="2003-03-01" end="2003-03-31" weight="310" />
+<edge source="DFW" target="LGA" start="2003-03-01" end="2003-03-31" weight="931" />
+<edge source="DTW" target="LGA" start="2003-03-01" end="2003-03-31" weight="773" />
+<edge source="EGE" target="LGA" start="2003-03-01" end="2003-03-31" weight="10" />
+<edge source="FLL" target="LGA" start="2003-03-01" end="2003-03-31" weight="475" />
+<edge source="HOU" target="LGA" start="2003-03-01" end="2003-03-31" weight="104" />
+<edge source="IAD" target="LGA" start="2003-03-01" end="2003-03-31" weight="520" />
+<edge source="IAH" target="LGA" start="2003-03-01" end="2003-03-31" weight="504" />
+<edge source="IND" target="LGA" start="2003-03-01" end="2003-03-31" weight="104" />
+<edge source="MCI" target="LGA" start="2003-03-01" end="2003-03-31" weight="104" />
+<edge source="MCO" target="LGA" start="2003-03-01" end="2003-03-31" weight="413" />
+<edge source="MDW" target="LGA" start="2003-03-01" end="2003-03-31" weight="468" />
+<edge source="MEM" target="LGA" start="2003-03-01" end="2003-03-31" weight="238" />
+<edge source="MIA" target="LGA" start="2003-03-01" end="2003-03-31" weight="568" />
+<edge source="MSP" target="LGA" start="2003-03-01" end="2003-03-31" weight="383" />
+<edge source="MSY" target="LGA" start="2003-03-01" end="2003-03-31" weight="124" />
+<edge source="ORD" target="LGA" start="2003-03-01" end="2003-03-31" weight="1846" />
+<edge source="PBI" target="LGA" start="2003-03-01" end="2003-03-31" weight="409" />
+<edge source="PHF" target="LGA" start="2003-03-01" end="2003-03-31" weight="124" />
+<edge source="PHL" target="LGA" start="2003-03-01" end="2003-03-31" weight="120" />
+<edge source="PIT" target="LGA" start="2003-03-01" end="2003-03-31" weight="336" />
+<edge source="PWM" target="LGA" start="2003-03-01" end="2003-03-31" weight="115" />
+<edge source="RDU" target="LGA" start="2003-03-01" end="2003-03-31" weight="381" />
+<edge source="RSW" target="LGA" start="2003-03-01" end="2003-03-31" weight="20" />
+<edge source="STL" target="LGA" start="2003-03-01" end="2003-03-31" weight="332" />
+<edge source="TPA" target="LGA" start="2003-03-01" end="2003-03-31" weight="310" />
+<edge source="XNA" target="LGA" start="2003-03-01" end="2003-03-31" weight="85" />
+
+<edge source="ATL" target="LGA" start="2003-04-01" end="2003-04-30" weight="1327" />
+<edge source="BGR" target="LGA" start="2003-04-01" end="2003-04-30" weight="60" />
+<edge source="BNA" target="LGA" start="2003-04-01" end="2003-04-30" weight="218" />
+<edge source="BOS" target="LGA" start="2003-04-01" end="2003-04-30" weight="1819" />
+<edge source="CAK" target="LGA" start="2003-04-01" end="2003-04-30" weight="120" />
+<edge source="CLE" target="LGA" start="2003-04-01" end="2003-04-30" weight="648" />
+<edge source="CLT" target="LGA" start="2003-04-01" end="2003-04-30" weight="505" />
+<edge source="CMH" target="LGA" start="2003-04-01" end="2003-04-30" weight="199" />
+<edge source="CVG" target="LGA" start="2003-04-01" end="2003-04-30" weight="280" />
+<edge source="DCA" target="LGA" start="2003-04-01" end="2003-04-30" weight="1878" />
+<edge source="DEN" target="LGA" start="2003-04-01" end="2003-04-30" weight="296" />
+<edge source="DFW" target="LGA" start="2003-04-01" end="2003-04-30" weight="917" />
+<edge source="DTW" target="LGA" start="2003-04-01" end="2003-04-30" weight="816" />
+<edge source="EGE" target="LGA" start="2003-04-01" end="2003-04-30" weight="2" />
+<edge source="FLL" target="LGA" start="2003-04-01" end="2003-04-30" weight="458" />
+<edge source="HOU" target="LGA" start="2003-04-01" end="2003-04-30" weight="104" />
+<edge source="IAD" target="LGA" start="2003-04-01" end="2003-04-30" weight="432" />
+<edge source="IAH" target="LGA" start="2003-04-01" end="2003-04-30" weight="457" />
+<edge source="IND" target="LGA" start="2003-04-01" end="2003-04-30" weight="106" />
+<edge source="MCI" target="LGA" start="2003-04-01" end="2003-04-30" weight="104" />
+<edge source="MCO" target="LGA" start="2003-04-01" end="2003-04-30" weight="399" />
+<edge source="MDW" target="LGA" start="2003-04-01" end="2003-04-30" weight="474" />
+<edge source="MEM" target="LGA" start="2003-04-01" end="2003-04-30" weight="232" />
+<edge source="MIA" target="LGA" start="2003-04-01" end="2003-04-30" weight="544" />
+<edge source="MSP" target="LGA" start="2003-04-01" end="2003-04-30" weight="376" />
+<edge source="MSY" target="LGA" start="2003-04-01" end="2003-04-30" weight="120" />
+<edge source="ORD" target="LGA" start="2003-04-01" end="2003-04-30" weight="1734" />
+<edge source="PBI" target="LGA" start="2003-04-01" end="2003-04-30" weight="398" />
+<edge source="PHF" target="LGA" start="2003-04-01" end="2003-04-30" weight="120" />
+<edge source="PHL" target="LGA" start="2003-04-01" end="2003-04-30" weight="122" />
+<edge source="PIT" target="LGA" start="2003-04-01" end="2003-04-30" weight="353" />
+<edge source="PWM" target="LGA" start="2003-04-01" end="2003-04-30" weight="112" />
+<edge source="RDU" target="LGA" start="2003-04-01" end="2003-04-30" weight="469" />
+<edge source="RSW" target="LGA" start="2003-04-01" end="2003-04-30" weight="9" />
+<edge source="STL" target="LGA" start="2003-04-01" end="2003-04-30" weight="334" />
+<edge source="TPA" target="LGA" start="2003-04-01" end="2003-04-30" weight="294" />
+<edge source="XNA" target="LGA" start="2003-04-01" end="2003-04-30" weight="88" />
+
+<edge source="ATL" target="LGA" start="2003-05-01" end="2003-05-31" weight="1372" />
+<edge source="BGR" target="LGA" start="2003-05-01" end="2003-05-31" weight="62" />
+<edge source="BNA" target="LGA" start="2003-05-01" end="2003-05-31" weight="220" />
+<edge source="BOS" target="LGA" start="2003-05-01" end="2003-05-31" weight="1857" />
+<edge source="CAK" target="LGA" start="2003-05-01" end="2003-05-31" weight="124" />
+<edge source="CLE" target="LGA" start="2003-05-01" end="2003-05-31" weight="681" />
+<edge source="CLT" target="LGA" start="2003-05-01" end="2003-05-31" weight="530" />
+<edge source="CMH" target="LGA" start="2003-05-01" end="2003-05-31" weight="209" />
+<edge source="CVG" target="LGA" start="2003-05-01" end="2003-05-31" weight="339" />
+<edge source="DCA" target="LGA" start="2003-05-01" end="2003-05-31" weight="1831" />
+<edge source="DEN" target="LGA" start="2003-05-01" end="2003-05-31" weight="309" />
+<edge source="DFW" target="LGA" start="2003-05-01" end="2003-05-31" weight="856" />
+<edge source="DTW" target="LGA" start="2003-05-01" end="2003-05-31" weight="820" />
+<edge source="FLL" target="LGA" start="2003-05-01" end="2003-05-31" weight="475" />
+<edge source="HOU" target="LGA" start="2003-05-01" end="2003-05-31" weight="106" />
+<edge source="IAD" target="LGA" start="2003-05-01" end="2003-05-31" weight="456" />
+<edge source="IAH" target="LGA" start="2003-05-01" end="2003-05-31" weight="459" />
+<edge source="IND" target="LGA" start="2003-05-01" end="2003-05-31" weight="164" />
+<edge source="MCI" target="LGA" start="2003-05-01" end="2003-05-31" weight="106" />
+<edge source="MCO" target="LGA" start="2003-05-01" end="2003-05-31" weight="599" />
+<edge source="MDW" target="LGA" start="2003-05-01" end="2003-05-31" weight="586" />
+<edge source="MEM" target="LGA" start="2003-05-01" end="2003-05-31" weight="232" />
+<edge source="MIA" target="LGA" start="2003-05-01" end="2003-05-31" weight="556" />
+<edge source="MSP" target="LGA" start="2003-05-01" end="2003-05-31" weight="388" />
+<edge source="MSY" target="LGA" start="2003-05-01" end="2003-05-31" weight="122" />
+<edge source="ORD" target="LGA" start="2003-05-01" end="2003-05-31" weight="1811" />
+<edge source="PBI" target="LGA" start="2003-05-01" end="2003-05-31" weight="227" />
+<edge source="PHF" target="LGA" start="2003-05-01" end="2003-05-31" weight="124" />
+<edge source="PHL" target="LGA" start="2003-05-01" end="2003-05-31" weight="124" />
+<edge source="PIT" target="LGA" start="2003-05-01" end="2003-05-31" weight="381" />
+<edge source="PWM" target="LGA" start="2003-05-01" end="2003-05-31" weight="115" />
+<edge source="RDU" target="LGA" start="2003-05-01" end="2003-05-31" weight="490" />
+<edge source="STL" target="LGA" start="2003-05-01" end="2003-05-31" weight="342" />
+<edge source="TPA" target="LGA" start="2003-05-01" end="2003-05-31" weight="292" />
+<edge source="XNA" target="LGA" start="2003-05-01" end="2003-05-31" weight="83" />
+
+<edge source="ATL" target="LGA" start="2003-06-01" end="2003-06-30" weight="1394" />
+<edge source="BGR" target="LGA" start="2003-06-01" end="2003-06-30" weight="60" />
+<edge source="BNA" target="LGA" start="2003-06-01" end="2003-06-30" weight="226" />
+<edge source="BOS" target="LGA" start="2003-06-01" end="2003-06-30" weight="2158" />
+<edge source="CAK" target="LGA" start="2003-06-01" end="2003-06-30" weight="120" />
+<edge source="CLE" target="LGA" start="2003-06-01" end="2003-06-30" weight="684" />
+<edge source="CLT" target="LGA" start="2003-06-01" end="2003-06-30" weight="525" />
+<edge source="CMH" target="LGA" start="2003-06-01" end="2003-06-30" weight="157" />
+<edge source="CVG" target="LGA" start="2003-06-01" end="2003-06-30" weight="322" />
+<edge source="DCA" target="LGA" start="2003-06-01" end="2003-06-30" weight="2122" />
+<edge source="DEN" target="LGA" start="2003-06-01" end="2003-06-30" weight="300" />
+<edge source="DFW" target="LGA" start="2003-06-01" end="2003-06-30" weight="863" />
+<edge source="DTW" target="LGA" start="2003-06-01" end="2003-06-30" weight="794" />
+<edge source="FLL" target="LGA" start="2003-06-01" end="2003-06-30" weight="458" />
+<edge source="HOU" target="LGA" start="2003-06-01" end="2003-06-30" weight="102" />
+<edge source="IAD" target="LGA" start="2003-06-01" end="2003-06-30" weight="406" />
+<edge source="IAH" target="LGA" start="2003-06-01" end="2003-06-30" weight="448" />
+<edge source="IND" target="LGA" start="2003-06-01" end="2003-06-30" weight="166" />
+<edge source="MCI" target="LGA" start="2003-06-01" end="2003-06-30" weight="102" />
+<edge source="MCO" target="LGA" start="2003-06-01" end="2003-06-30" weight="583" />
+<edge source="MDW" target="LGA" start="2003-06-01" end="2003-06-30" weight="587" />
+<edge source="MEM" target="LGA" start="2003-06-01" end="2003-06-30" weight="209" />
+<edge source="MIA" target="LGA" start="2003-06-01" end="2003-06-30" weight="551" />
+<edge source="MSP" target="LGA" start="2003-06-01" end="2003-06-30" weight="432" />
+<edge source="MSY" target="LGA" start="2003-06-01" end="2003-06-30" weight="114" />
+<edge source="ORD" target="LGA" start="2003-06-01" end="2003-06-30" weight="1790" />
+<edge source="PBI" target="LGA" start="2003-06-01" end="2003-06-30" weight="218" />
+<edge source="PHF" target="LGA" start="2003-06-01" end="2003-06-30" weight="120" />
+<edge source="PHL" target="LGA" start="2003-06-01" end="2003-06-30" weight="117" />
+<edge source="PIT" target="LGA" start="2003-06-01" end="2003-06-30" weight="378" />
+<edge source="PWM" target="LGA" start="2003-06-01" end="2003-06-30" weight="111" />
+<edge source="RDU" target="LGA" start="2003-06-01" end="2003-06-30" weight="471" />
+<edge source="STL" target="LGA" start="2003-06-01" end="2003-06-30" weight="340" />
+<edge source="TPA" target="LGA" start="2003-06-01" end="2003-06-30" weight="292" />
+<edge source="XNA" target="LGA" start="2003-06-01" end="2003-06-30" weight="92" />
+
+<edge source="ATL" target="LGA" start="2003-07-01" end="2003-07-31" weight="1411" />
+<edge source="BGR" target="LGA" start="2003-07-01" end="2003-07-31" weight="120" />
+<edge source="BNA" target="LGA" start="2003-07-01" end="2003-07-31" weight="236" />
+<edge source="BOS" target="LGA" start="2003-07-01" end="2003-07-31" weight="2213" />
+<edge source="CAK" target="LGA" start="2003-07-01" end="2003-07-31" weight="184" />
+<edge source="CLE" target="LGA" start="2003-07-01" end="2003-07-31" weight="647" />
+<edge source="CLT" target="LGA" start="2003-07-01" end="2003-07-31" weight="540" />
+<edge source="CMH" target="LGA" start="2003-07-01" end="2003-07-31" weight="164" />
+<edge source="CVG" target="LGA" start="2003-07-01" end="2003-07-31" weight="326" />
+<edge source="DCA" target="LGA" start="2003-07-01" end="2003-07-31" weight="2133" />
+<edge source="DEN" target="LGA" start="2003-07-01" end="2003-07-31" weight="308" />
+<edge source="DFW" target="LGA" start="2003-07-01" end="2003-07-31" weight="945" />
+<edge source="DTW" target="LGA" start="2003-07-01" end="2003-07-31" weight="817" />
+<edge source="FLL" target="LGA" start="2003-07-01" end="2003-07-31" weight="469" />
+<edge source="HOU" target="LGA" start="2003-07-01" end="2003-07-31" weight="106" />
+<edge source="IAD" target="LGA" start="2003-07-01" end="2003-07-31" weight="402" />
+<edge source="IAH" target="LGA" start="2003-07-01" end="2003-07-31" weight="462" />
+<edge source="IND" target="LGA" start="2003-07-01" end="2003-07-31" weight="174" />
+<edge source="MCI" target="LGA" start="2003-07-01" end="2003-07-31" weight="102" />
+<edge source="MCO" target="LGA" start="2003-07-01" end="2003-07-31" weight="602" />
+<edge source="MDW" target="LGA" start="2003-07-01" end="2003-07-31" weight="584" />
+<edge source="MEM" target="LGA" start="2003-07-01" end="2003-07-31" weight="215" />
+<edge source="MIA" target="LGA" start="2003-07-01" end="2003-07-31" weight="568" />
+<edge source="MKE" target="LGA" start="2003-07-01" end="2003-07-31" weight="51" />
+<edge source="MSP" target="LGA" start="2003-07-01" end="2003-07-31" weight="393" />
+<edge source="MSY" target="LGA" start="2003-07-01" end="2003-07-31" weight="114" />
+<edge source="ORD" target="LGA" start="2003-07-01" end="2003-07-31" weight="1872" />
+<edge source="PBI" target="LGA" start="2003-07-01" end="2003-07-31" weight="221" />
+<edge source="PHF" target="LGA" start="2003-07-01" end="2003-07-31" weight="184" />
+<edge source="PHL" target="LGA" start="2003-07-01" end="2003-07-31" weight="120" />
+<edge source="PIT" target="LGA" start="2003-07-01" end="2003-07-31" weight="387" />
+<edge source="PWM" target="LGA" start="2003-07-01" end="2003-07-31" weight="234" />
+<edge source="RDU" target="LGA" start="2003-07-01" end="2003-07-31" weight="490" />
+<edge source="STL" target="LGA" start="2003-07-01" end="2003-07-31" weight="354" />
+<edge source="TPA" target="LGA" start="2003-07-01" end="2003-07-31" weight="308" />
+<edge source="TVC" target="LGA" start="2003-07-01" end="2003-07-31" weight="8" />
+<edge source="XNA" target="LGA" start="2003-07-01" end="2003-07-31" weight="122" />
+<edge source="LIT" target="LGA" start="2003-07-01" end="2003-07-31" weight="1" />
+
+<edge source="ATL" target="LGA" start="2003-08-01" end="2003-08-31" weight="1434" />
+<edge source="BGR" target="LGA" start="2003-08-01" end="2003-08-31" weight="121" />
+<edge source="BNA" target="LGA" start="2003-08-01" end="2003-08-31" weight="236" />
+<edge source="BOS" target="LGA" start="2003-08-01" end="2003-08-31" weight="2225" />
+<edge source="CAK" target="LGA" start="2003-08-01" end="2003-08-31" weight="186" />
+<edge source="CLE" target="LGA" start="2003-08-01" end="2003-08-31" weight="636" />
+<edge source="CLT" target="LGA" start="2003-08-01" end="2003-08-31" weight="539" />
+<edge source="CMH" target="LGA" start="2003-08-01" end="2003-08-31" weight="161" />
+<edge source="CVG" target="LGA" start="2003-08-01" end="2003-08-31" weight="300" />
+<edge source="DCA" target="LGA" start="2003-08-01" end="2003-08-31" weight="2142" />
+<edge source="DEN" target="LGA" start="2003-08-01" end="2003-08-31" weight="308" />
+<edge source="DFW" target="LGA" start="2003-08-01" end="2003-08-31" weight="948" />
+<edge source="DTW" target="LGA" start="2003-08-01" end="2003-08-31" weight="812" />
+<edge source="FLL" target="LGA" start="2003-08-01" end="2003-08-31" weight="494" />
+<edge source="HOU" target="LGA" start="2003-08-01" end="2003-08-31" weight="103" />
+<edge source="IAD" target="LGA" start="2003-08-01" end="2003-08-31" weight="389" />
+<edge source="IAH" target="LGA" start="2003-08-01" end="2003-08-31" weight="443" />
+<edge source="IND" target="LGA" start="2003-08-01" end="2003-08-31" weight="170" />
+<edge source="MCI" target="LGA" start="2003-08-01" end="2003-08-31" weight="104" />
+<edge source="MCO" target="LGA" start="2003-08-01" end="2003-08-31" weight="639" />
+<edge source="MDW" target="LGA" start="2003-08-01" end="2003-08-31" weight="590" />
+<edge source="MEM" target="LGA" start="2003-08-01" end="2003-08-31" weight="217" />
+<edge source="MIA" target="LGA" start="2003-08-01" end="2003-08-31" weight="573" />
+<edge source="MKE" target="LGA" start="2003-08-01" end="2003-08-31" weight="51" />
+<edge source="MSP" target="LGA" start="2003-08-01" end="2003-08-31" weight="393" />
+<edge source="MSY" target="LGA" start="2003-08-01" end="2003-08-31" weight="114" />
+<edge source="ORD" target="LGA" start="2003-08-01" end="2003-08-31" weight="1839" />
+<edge source="PBI" target="LGA" start="2003-08-01" end="2003-08-31" weight="236" />
+<edge source="PHF" target="LGA" start="2003-08-01" end="2003-08-31" weight="186" />
+<edge source="PHL" target="LGA" start="2003-08-01" end="2003-08-31" weight="119" />
+<edge source="PIT" target="LGA" start="2003-08-01" end="2003-08-31" weight="379" />
+<edge source="PWM" target="LGA" start="2003-08-01" end="2003-08-31" weight="235" />
+<edge source="RDU" target="LGA" start="2003-08-01" end="2003-08-31" weight="482" />
+<edge source="RSW" target="LGA" start="2003-08-01" end="2003-08-31" weight="10" />
+<edge source="STL" target="LGA" start="2003-08-01" end="2003-08-31" weight="348" />
+<edge source="TPA" target="LGA" start="2003-08-01" end="2003-08-31" weight="310" />
+<edge source="TVC" target="LGA" start="2003-08-01" end="2003-08-31" weight="9" />
+<edge source="XNA" target="LGA" start="2003-08-01" end="2003-08-31" weight="115" />
+
+<edge source="ATL" target="LGA" start="2003-09-01" end="2003-09-30" weight="1370" />
+<edge source="BGR" target="LGA" start="2003-09-01" end="2003-09-30" weight="64" />
+<edge source="BNA" target="LGA" start="2003-09-01" end="2003-09-30" weight="222" />
+<edge source="BOS" target="LGA" start="2003-09-01" end="2003-09-30" weight="2164" />
+<edge source="CAK" target="LGA" start="2003-09-01" end="2003-09-30" weight="180" />
+<edge source="CLE" target="LGA" start="2003-09-01" end="2003-09-30" weight="604" />
+<edge source="CLT" target="LGA" start="2003-09-01" end="2003-09-30" weight="509" />
+<edge source="CMH" target="LGA" start="2003-09-01" end="2003-09-30" weight="158" />
+<edge source="CVG" target="LGA" start="2003-09-01" end="2003-09-30" weight="284" />
+<edge source="DCA" target="LGA" start="2003-09-01" end="2003-09-30" weight="2074" />
+<edge source="DEN" target="LGA" start="2003-09-01" end="2003-09-30" weight="286" />
+<edge source="DFW" target="LGA" start="2003-09-01" end="2003-09-30" weight="923" />
+<edge source="DTW" target="LGA" start="2003-09-01" end="2003-09-30" weight="734" />
+<edge source="FLL" target="LGA" start="2003-09-01" end="2003-09-30" weight="476" />
+<edge source="HOU" target="LGA" start="2003-09-01" end="2003-09-30" weight="102" />
+<edge source="IAD" target="LGA" start="2003-09-01" end="2003-09-30" weight="373" />
+<edge source="IAH" target="LGA" start="2003-09-01" end="2003-09-30" weight="431" />
+<edge source="IND" target="LGA" start="2003-09-01" end="2003-09-30" weight="170" />
+<edge source="MCI" target="LGA" start="2003-09-01" end="2003-09-30" weight="102" />
+<edge source="MCO" target="LGA" start="2003-09-01" end="2003-09-30" weight="484" />
+<edge source="MDW" target="LGA" start="2003-09-01" end="2003-09-30" weight="586" />
+<edge source="MEM" target="LGA" start="2003-09-01" end="2003-09-30" weight="181" />
+<edge source="MIA" target="LGA" start="2003-09-01" end="2003-09-30" weight="499" />
+<edge source="MKE" target="LGA" start="2003-09-01" end="2003-09-30" weight="49" />
+<edge source="MSP" target="LGA" start="2003-09-01" end="2003-09-30" weight="401" />
+<edge source="MSY" target="LGA" start="2003-09-01" end="2003-09-30" weight="118" />
+<edge source="ORD" target="LGA" start="2003-09-01" end="2003-09-30" weight="1775" />
+<edge source="PBI" target="LGA" start="2003-09-01" end="2003-09-30" weight="230" />
+<edge source="PHF" target="LGA" start="2003-09-01" end="2003-09-30" weight="180" />
+<edge source="PHL" target="LGA" start="2003-09-01" end="2003-09-30" weight="96" />
+<edge source="PIT" target="LGA" start="2003-09-01" end="2003-09-30" weight="378" />
+<edge source="PWM" target="LGA" start="2003-09-01" end="2003-09-30" weight="124" />
+<edge source="RDU" target="LGA" start="2003-09-01" end="2003-09-30" weight="470" />
+<edge source="STL" target="LGA" start="2003-09-01" end="2003-09-30" weight="324" />
+<edge source="TPA" target="LGA" start="2003-09-01" end="2003-09-30" weight="300" />
+<edge source="TVC" target="LGA" start="2003-09-01" end="2003-09-30" weight="1" />
+<edge source="XNA" target="LGA" start="2003-09-01" end="2003-09-30" weight="122" />
+
+<edge source="ATL" target="LGA" start="2003-10-01" end="2003-10-31" weight="1442" />
+<edge source="BGR" target="LGA" start="2003-10-01" end="2003-10-31" weight="63" />
+<edge source="BNA" target="LGA" start="2003-10-01" end="2003-10-31" weight="240" />
+<edge source="BOS" target="LGA" start="2003-10-01" end="2003-10-31" weight="2302" />
+<edge source="CAK" target="LGA" start="2003-10-01" end="2003-10-31" weight="186" />
+<edge source="CLE" target="LGA" start="2003-10-01" end="2003-10-31" weight="619" />
+<edge source="CLT" target="LGA" start="2003-10-01" end="2003-10-31" weight="550" />
+<edge source="CMH" target="LGA" start="2003-10-01" end="2003-10-31" weight="174" />
+<edge source="CVG" target="LGA" start="2003-10-01" end="2003-10-31" weight="302" />
+<edge source="DCA" target="LGA" start="2003-10-01" end="2003-10-31" weight="2199" />
+<edge source="DEN" target="LGA" start="2003-10-01" end="2003-10-31" weight="301" />
+<edge source="DFW" target="LGA" start="2003-10-01" end="2003-10-31" weight="960" />
+<edge source="DTW" target="LGA" start="2003-10-01" end="2003-10-31" weight="821" />
+<edge source="FLL" target="LGA" start="2003-10-01" end="2003-10-31" weight="496" />
+<edge source="HOU" target="LGA" start="2003-10-01" end="2003-10-31" weight="108" />
+<edge source="IAD" target="LGA" start="2003-10-01" end="2003-10-31" weight="394" />
+<edge source="IAH" target="LGA" start="2003-10-01" end="2003-10-31" weight="446" />
+<edge source="IND" target="LGA" start="2003-10-01" end="2003-10-31" weight="178" />
+<edge source="MCI" target="LGA" start="2003-10-01" end="2003-10-31" weight="108" />
+<edge source="MCO" target="LGA" start="2003-10-01" end="2003-10-31" weight="496" />
+<edge source="MDW" target="LGA" start="2003-10-01" end="2003-10-31" weight="616" />
+<edge source="MEM" target="LGA" start="2003-10-01" end="2003-10-31" weight="185" />
+<edge source="MIA" target="LGA" start="2003-10-01" end="2003-10-31" weight="565" />
+<edge source="MKE" target="LGA" start="2003-10-01" end="2003-10-31" weight="54" />
+<edge source="MSP" target="LGA" start="2003-10-01" end="2003-10-31" weight="420" />
+<edge source="MSY" target="LGA" start="2003-10-01" end="2003-10-31" weight="186" />
+<edge source="ORD" target="LGA" start="2003-10-01" end="2003-10-31" weight="1890" />
+<edge source="PBI" target="LGA" start="2003-10-01" end="2003-10-31" weight="240" />
+<edge source="PHF" target="LGA" start="2003-10-01" end="2003-10-31" weight="186" />
+<edge source="PHL" target="LGA" start="2003-10-01" end="2003-10-31" weight="89" />
+<edge source="PIT" target="LGA" start="2003-10-01" end="2003-10-31" weight="418" />
+<edge source="PWM" target="LGA" start="2003-10-01" end="2003-10-31" weight="124" />
+<edge source="RDU" target="LGA" start="2003-10-01" end="2003-10-31" weight="501" />
+<edge source="STL" target="LGA" start="2003-10-01" end="2003-10-31" weight="338" />
+<edge source="TPA" target="LGA" start="2003-10-01" end="2003-10-31" weight="309" />
+<edge source="XNA" target="LGA" start="2003-10-01" end="2003-10-31" weight="128" />
+
+<edge source="ATL" target="LGA" start="2003-11-01" end="2003-11-30" weight="1367" />
+<edge source="BGR" target="LGA" start="2003-11-01" end="2003-11-30" weight="60" />
+<edge source="BNA" target="LGA" start="2003-11-01" end="2003-11-30" weight="226" />
+<edge source="BOS" target="LGA" start="2003-11-01" end="2003-11-30" weight="2069" />
+<edge source="CAK" target="LGA" start="2003-11-01" end="2003-11-30" weight="170" />
+<edge source="CLE" target="LGA" start="2003-11-01" end="2003-11-30" weight="643" />
+<edge source="CLT" target="LGA" start="2003-11-01" end="2003-11-30" weight="515" />
+<edge source="CMH" target="LGA" start="2003-11-01" end="2003-11-30" weight="189" />
+<edge source="CVG" target="LGA" start="2003-11-01" end="2003-11-30" weight="289" />
+<edge source="DCA" target="LGA" start="2003-11-01" end="2003-11-30" weight="2012" />
+<edge source="DEN" target="LGA" start="2003-11-01" end="2003-11-30" weight="284" />
+<edge source="DFW" target="LGA" start="2003-11-01" end="2003-11-30" weight="922" />
+<edge source="DTW" target="LGA" start="2003-11-01" end="2003-11-30" weight="730" />
+<edge source="FLL" target="LGA" start="2003-11-01" end="2003-11-30" weight="480" />
+<edge source="HOU" target="LGA" start="2003-11-01" end="2003-11-30" weight="98" />
+<edge source="IAD" target="LGA" start="2003-11-01" end="2003-11-30" weight="393" />
+<edge source="IAH" target="LGA" start="2003-11-01" end="2003-11-30" weight="466" />
+<edge source="IND" target="LGA" start="2003-11-01" end="2003-11-30" weight="161" />
+<edge source="MCI" target="LGA" start="2003-11-01" end="2003-11-30" weight="95" />
+<edge source="MCO" target="LGA" start="2003-11-01" end="2003-11-30" weight="502" />
+<edge source="MDW" target="LGA" start="2003-11-01" end="2003-11-30" weight="551" />
+<edge source="MEM" target="LGA" start="2003-11-01" end="2003-11-30" weight="180" />
+<edge source="MIA" target="LGA" start="2003-11-01" end="2003-11-30" weight="559" />
+<edge source="MKE" target="LGA" start="2003-11-01" end="2003-11-30" weight="48" />
+<edge source="MSP" target="LGA" start="2003-11-01" end="2003-11-30" weight="394" />
+<edge source="MSY" target="LGA" start="2003-11-01" end="2003-11-30" weight="180" />
+<edge source="ORD" target="LGA" start="2003-11-01" end="2003-11-30" weight="1830" />
+<edge source="PBI" target="LGA" start="2003-11-01" end="2003-11-30" weight="300" />
+<edge source="PHF" target="LGA" start="2003-11-01" end="2003-11-30" weight="177" />
+<edge source="PHL" target="LGA" start="2003-11-01" end="2003-11-30" weight="96" />
+<edge source="PIT" target="LGA" start="2003-11-01" end="2003-11-30" weight="384" />
+<edge source="PWM" target="LGA" start="2003-11-01" end="2003-11-30" weight="108" />
+<edge source="RDU" target="LGA" start="2003-11-01" end="2003-11-30" weight="523" />
+<edge source="RSW" target="LGA" start="2003-11-01" end="2003-11-30" weight="10" />
+<edge source="STL" target="LGA" start="2003-11-01" end="2003-11-30" weight="350" />
+<edge source="TPA" target="LGA" start="2003-11-01" end="2003-11-30" weight="300" />
+<edge source="XNA" target="LGA" start="2003-11-01" end="2003-11-30" weight="100" />
+
+<edge source="ATL" target="LGA" start="2003-12-01" end="2003-12-31" weight="1448" />
+<edge source="BGR" target="LGA" start="2003-12-01" end="2003-12-31" weight="62" />
+<edge source="BNA" target="LGA" start="2003-12-01" end="2003-12-31" weight="225" />
+<edge source="BOS" target="LGA" start="2003-12-01" end="2003-12-31" weight="1982" />
+<edge source="CAK" target="LGA" start="2003-12-01" end="2003-12-31" weight="178" />
+<edge source="CLE" target="LGA" start="2003-12-01" end="2003-12-31" weight="688" />
+<edge source="CLT" target="LGA" start="2003-12-01" end="2003-12-31" weight="526" />
+<edge source="CMH" target="LGA" start="2003-12-01" end="2003-12-31" weight="194" />
+<edge source="CVG" target="LGA" start="2003-12-01" end="2003-12-31" weight="310" />
+<edge source="DCA" target="LGA" start="2003-12-01" end="2003-12-31" weight="1943" />
+<edge source="DEN" target="LGA" start="2003-12-01" end="2003-12-31" weight="302" />
+<edge source="DFW" target="LGA" start="2003-12-01" end="2003-12-31" weight="961" />
+<edge source="DTW" target="LGA" start="2003-12-01" end="2003-12-31" weight="701" />
+<edge source="EGE" target="LGA" start="2003-12-01" end="2003-12-31" weight="4" />
+<edge source="FLL" target="LGA" start="2003-12-01" end="2003-12-31" weight="483" />
+<edge source="HOU" target="LGA" start="2003-12-01" end="2003-12-31" weight="102" />
+<edge source="IAD" target="LGA" start="2003-12-01" end="2003-12-31" weight="417" />
+<edge source="IAH" target="LGA" start="2003-12-01" end="2003-12-31" weight="498" />
+<edge source="IND" target="LGA" start="2003-12-01" end="2003-12-31" weight="170" />
+<edge source="MCI" target="LGA" start="2003-12-01" end="2003-12-31" weight="100" />
+<edge source="MCO" target="LGA" start="2003-12-01" end="2003-12-31" weight="512" />
+<edge source="MDW" target="LGA" start="2003-12-01" end="2003-12-31" weight="567" />
+<edge source="MEM" target="LGA" start="2003-12-01" end="2003-12-31" weight="186" />
+<edge source="MIA" target="LGA" start="2003-12-01" end="2003-12-31" weight="573" />
+<edge source="MKE" target="LGA" start="2003-12-01" end="2003-12-31" weight="51" />
+<edge source="MSP" target="LGA" start="2003-12-01" end="2003-12-31" weight="390" />
+<edge source="MSY" target="LGA" start="2003-12-01" end="2003-12-31" weight="178" />
+<edge source="ORD" target="LGA" start="2003-12-01" end="2003-12-31" weight="1892" />
+<edge source="PBI" target="LGA" start="2003-12-01" end="2003-12-31" weight="372" />
+<edge source="PHF" target="LGA" start="2003-12-01" end="2003-12-31" weight="186" />
+<edge source="PHL" target="LGA" start="2003-12-01" end="2003-12-31" weight="97" />
+<edge source="PIT" target="LGA" start="2003-12-01" end="2003-12-31" weight="393" />
+<edge source="PWM" target="LGA" start="2003-12-01" end="2003-12-31" weight="112" />
+<edge source="RDU" target="LGA" start="2003-12-01" end="2003-12-31" weight="546" />
+<edge source="RSW" target="LGA" start="2003-12-01" end="2003-12-31" weight="8" />
+<edge source="SJU" target="LGA" start="2003-12-01" end="2003-12-31" weight="6" />
+<edge source="STL" target="LGA" start="2003-12-01" end="2003-12-31" weight="365" />
+<edge source="TPA" target="LGA" start="2003-12-01" end="2003-12-31" weight="310" />
+<edge source="XNA" target="LGA" start="2003-12-01" end="2003-12-31" weight="87" />
+
+    
+    </edges>
+  </graph>
+</gexf>

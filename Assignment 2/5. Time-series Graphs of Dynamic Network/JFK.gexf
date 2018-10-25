@@ -1,0 +1,2194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <graph mode="dynamic" timeformat="date" timerepresentation="interval" defaultedgetype="undirected">
+    <attributes class="node" mode="static">
+      <attribute id="lat" title="lat" type="double"></attribute>
+      <attribute id="lng" title="lng" type="double"></attribute>
+    </attributes>
+    <nodes>
+      <node id="JFK" label="JFK" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="40.64749"></attvalue>
+          <attvalue for="lng" value="-73.77998"></attvalue>
+        </attvalues>
+      </node>
+      <node id="ATL" label="ATL" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="33.64041"></attvalue>
+          <attvalue for="lng" value="-84.41985"></attvalue>
+        </attvalues>
+      </node>
+      <node id="BOS" label="BOS" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="42.36697"></attvalue>
+          <attvalue for="lng" value="-71.02236"></attvalue>
+        </attvalues>
+	   </node>
+      
+      <node id="BWI" label="BWI" start="2001-01-01" end="2003-04-30" >
+        <attvalues>
+          <attvalue for="lat" value="42.36697"></attvalue>
+          <attvalue for="lng" value="-71.02236"></attvalue>
+        </attvalues>
+	   </node>
+      
+      <node id="CVG" label="CVG" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="39.05327"></attvalue>
+          <attvalue for="lng" value="-84.663017"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="DFW" label="DFW" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="32.897480"></attvalue>
+          <attvalue for="lng" value="-97.040443"></attvalue>
+        </attvalues> 
+	   </node>
+      <node id="DTW" label="DTW" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="42.212399"></attvalue>
+          <attvalue for="lng" value="-83.353401"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="FLL" label="FLL" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="26.0724"></attvalue>
+          <attvalue for="lng" value="-80.1517"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="LAS" label="LAS" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="36.086010"></attvalue>
+          <attvalue for="lng" value="-115.153969"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="LAX" label="LAX" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="33.942791"></attvalue>
+          <attvalue for="lng" value="-118.410042"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="MCO" label="MCO" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="28.432"></attvalue>
+          <attvalue for="lng" value="-81.325"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="MIA" label="MIA" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="25.79586"></attvalue>
+          <attvalue for="lng" value="-80.2870457"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="PHX" label="PHX" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="33.43726"></attvalue>
+          <attvalue for="lng" value="-112.00778"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="SAN" label="SAN" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="32.732346"></attvalue>
+          <attvalue for="lng" value="-117.196053"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="SEA" label="SEA" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="47.443546"></attvalue>
+          <attvalue for="lng" value="-122.30165"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="SFO" label="SFO" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="37.615223"></attvalue>
+          <attvalue for="lng" value="-122.3899"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="SJC" label="SJC" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="37.363949"></attvalue>
+          <attvalue for="lng" value="-121.9289"></attvalue>
+        </attvalues> 
+	   </node>
+      <node id="SJU" label="SJU" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="18.4365"></attvalue>
+          <attvalue for="lng" value="-66.0051"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="STT" label="STT" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="18.336061"></attvalue>
+          <attvalue for="lng" value="-64.972273"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="TPA" label="TPA" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="27.979168"></attvalue>
+          <attvalue for="lng" value="-82.53933"></attvalue>
+        </attvalues> 
+	   </node>
+      <node id="SLC" label="SLC" start="2000-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="40.758701"></attvalue>
+          <attvalue for="lng" value="-111.876183"></attvalue>
+        </attvalues>
+	   </node>
+      
+      
+      <node id="ACY" label="ACY" start="2000-04-01" end="2003-04-30" >
+        <attvalues>
+          <attvalue for="lat" value=" 39.4512"></attvalue>
+          <attvalue for="lng" value="-74.5722"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="ALB" label="ALB" start="2001-01-01" end="2002-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="42.74871"></attvalue>
+          <attvalue for="lng" value="-73.805498"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="BDL" label="BDL" start="2000-06-01" end="2000-11-30" >
+        <attvalues>
+          <attvalue for="lat" value="41.938873"></attvalue>
+          <attvalue for="lng" value="-72.68507"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="BDL" label="BDL" start="2001-01-01" end="2003-05-31" >
+        <attvalues>
+          <attvalue for="lat" value="41.938873"></attvalue>
+          <attvalue for="lng" value="-72.68507"></attvalue>
+        </attvalues>
+	   </node>
+      
+      
+      <node id="BTV" label="BTV" start="2003-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="44.470693"></attvalue>
+          <attvalue for="lng" value="-73.151603"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="BUF" label="BUF" start="2001-01-01" end="2001-10-31" >
+        <attvalues>
+          <attvalue for="lat" value="42.93406"></attvalue>
+          <attvalue for="lng" value="-78.72965"></attvalue>
+        </attvalues>
+	   </node>
+      <node id="BUF" label="BUF" start="2003-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="42.93406"></attvalue>
+          <attvalue for="lng" value="-78.72965"></attvalue>
+        </attvalues>
+	   </node>
+      
+      <node id="BWI " label="BWI " start="2001-01-01" end="2003-04-30" >
+        <attvalues>
+          <attvalue for="lat" value="39.19244"></attvalue>
+          <attvalue for="lng" value="-76.6943"></attvalue>
+        </attvalues>
+	   </node>  
+      
+      <node id="CLE" label="CLE" start="2001-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="41.41243"></attvalue>
+          <attvalue for="lng" value="-81.84799"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="DCA" label="DCA" start="2001-01-01" end="2001-11-30" >
+        <attvalues>
+          <attvalue for="lat" value="38.851298"></attvalue>
+          <attvalue for="lng" value="-77.04687"></attvalue>
+        </attvalues>
+      </node>
+      <node id="DCA" label="DCA" start="2002-03-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="38.851298"></attvalue>
+          <attvalue for="lng" value="-77.04687"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="DEN" label="DEN" start="2000-01-01" end="2001-01-31" >
+        <attvalues>
+          <attvalue for="lat" value="39.849312"></attvalue>
+          <attvalue for="lng" value="-104.6738"></attvalue>
+        </attvalues>
+      </node>
+      <node id="DEN" label="DEN" start="2002-02-01" end="2002-02-28" >
+        <attvalues>
+          <attvalue for="lat" value="39.849312"></attvalue>
+          <attvalue for="lng" value="-104.6738"></attvalue>
+        </attvalues>
+      </node>
+      <node id="DEN" label="DEN" start="2003-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="39.849312"></attvalue>
+          <attvalue for="lng" value="-104.6738"></attvalue>
+        </attvalues>
+      </node>
+      
+
+      
+      <node id="IAD" label="IAD" start="2001-10-01" end="2001-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="38.959131"></attvalue>
+          <attvalue for="lng" value="-77.448114"></attvalue>
+        </attvalues>
+      </node>
+      <node id="IAD" label="IAD" start="2003-10-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="38.959131"></attvalue>
+          <attvalue for="lng" value="-77.448114"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="IAH" label="IAH" start="2000-01-01" end="2000-05-31" >
+        <attvalues>
+          <attvalue for="lat" value="29.70406"></attvalue>
+          <attvalue for="lng" value="-95.62036"></attvalue>
+        </attvalues>
+      </node>
+      <node id="IAH" label="IAH" start="2000-09-01" end="2001-09-30" >
+        <attvalues>
+          <attvalue for="lat" value="29.70406"></attvalue>
+          <attvalue for="lng" value="-95.62036"></attvalue>
+        </attvalues>
+      </node>
+      <node id="IAH" label="IAH" start="2002-06-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="29.70406"></attvalue>
+          <attvalue for="lng" value="-95.62036"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="LGB" label="LGB" start="2002-06-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="33.818323"></attvalue>
+          <attvalue for="lng" value="-118.14456"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="MSP" label="MSP" start="2000-05-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="44.882763"></attvalue>
+          <attvalue for="lng" value="-93.2104"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="MSY" label="MSY" start="2000-01-01" end="2000-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="29.9842"></attvalue>
+          <attvalue for="lng" value="-90.256"></attvalue>
+        </attvalues>
+      </node>
+      <node id="MSY" label="MSY" start="2001-09-01" end="2001-10-31" >
+        <attvalues>
+          <attvalue for="lat" value="29.9842"></attvalue>
+          <attvalue for="lng" value="-90.256"></attvalue>
+        </attvalues>
+      </node>
+      <node id="MSY" label="MSY" start="2003-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="29.9842"></attvalue>
+          <attvalue for="lng" value="-90.256"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="OAK" label="OAK" start="2002-03-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="37.71256"></attvalue>
+          <attvalue for="lng" value="-122.2197"></attvalue>
+        </attvalues>
+      </node>
+      <node id="ONT" label="ONT" start="2003-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="34.05597"></attvalue>
+          <attvalue for="lng" value="-117.59805"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="ORD" label="ORD" start="2000-01-01" end="2003-08-31" >
+        <attvalues>
+          <attvalue for="lat" value="41.99242"></attvalue>
+          <attvalue for="lng" value="-87.88712"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="ORH" label="ORH" start="2001-01-01" end="2001-09-30" >
+        <attvalues>
+          <attvalue for="lat" value="41.99242"></attvalue>
+          <attvalue for="lng" value="-87.88712"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="PBI" label="PBI" start="2000-01-01" end="2000-11-30" >
+        <attvalues>
+          <attvalue for="lat" value="26.68306"></attvalue>
+          <attvalue for="lng" value="-80.0955"></attvalue>
+        </attvalues>
+      </node>
+      <node id="PBI" label="PBI" start="2001-11-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="26.68306"></attvalue>
+          <attvalue for="lng" value="-80.0955"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="PDX" label="PDX" start="2000-01-01" end="2001-01-31" >
+        <attvalues>
+          <attvalue for="lat" value="45.589769"></attvalue>
+          <attvalue for="lng" value="-122.5950"></attvalue>
+        </attvalues>
+      </node>
+      <node id="PDX" label="PDX" start="2001-04-01" end="2001-10-31" >
+        <attvalues>
+          <attvalue for="lat" value="45.589769"></attvalue>
+          <attvalue for="lng" value="-122.5950"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="PHL" label="PHL" start="2000-01-01" end="2000-10-31" >
+        <attvalues>
+          <attvalue for="lat" value="41.41243"></attvalue>
+          <attvalue for="lng" value="-81.84799"></attvalue>
+        </attvalues>
+      </node>
+      <node id="PHL" label="PHL" start="2003-04-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="39.87439"></attvalue>
+          <attvalue for="lng" value="-75.24724"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="PIT" label="PIT" start="2001-01-01" end="2003-05-31" >
+        <attvalues>
+          <attvalue for="lat" value="40.49577"></attvalue>
+          <attvalue for="lng" value="-80.24131"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="PVD" label="PVD" start="2001-01-01" end="2001-10-31" >
+        <attvalues>
+          <attvalue for="lat" value="41.72452"></attvalue>
+          <attvalue for="lng" value="-71.43040"></attvalue>
+        </attvalues>
+      </node>
+      <node id="PVD" label="PVD" start="2002-02-01" end="2003-04-30" >
+        <attvalues>
+          <attvalue for="lat" value="41.72452"></attvalue>
+          <attvalue for="lng" value="-71.43040"></attvalue>
+        </attvalues>
+      </node>
+      <node id="PVD" label="PVD" start="2003-08-01" end="2003-08-31" >
+        <attvalues>
+          <attvalue for="lat" value="41.72452"></attvalue>
+          <attvalue for="lng" value="-71.43040"></attvalue>
+        </attvalues>
+      </node>
+      <node id="RDU" label="RDU" start="2001-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="35.880078"></attvalue>
+          <attvalue for="lng" value="-79.094672"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="ROC" label="ROC" start="2001-01-01" end="2001-10-31" >
+        <attvalues>
+          <attvalue for="lat" value="43.128002"></attvalue>
+          <attvalue for="lng" value="-77.66547"></attvalue>
+        </attvalues>
+      </node>
+      <node id="ROC" label="ROC" start="2003-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="43.128002"></attvalue>
+          <attvalue for="lng" value="-77.66547"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="RSW" label="RSW" start="2003-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="26.53370"></attvalue>
+          <attvalue for="lng" value="-81.7552"></attvalue>
+        </attvalues>
+      </node>
+      <node id="SAT" label="SAT" start="2000-07-01" end="2000-07-31" >
+        <attvalues>
+          <attvalue for="lat" value="29.531197"></attvalue>
+          <attvalue for="lng" value="-98.4704"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="SNA" label="SNA" start="2000-10-01" end="2001-03-31" >
+        <attvalues>
+          <attvalue for="lat" value="33.678925"></attvalue>
+          <attvalue for="lng" value="-117.86286"></attvalue>
+        </attvalues>
+      </node>
+      <node id="SNA" label="SNA" start="2003-04-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="33.678925"></attvalue>
+          <attvalue for="lng" value="-117.86286"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="STL" label="STL" start="2000-01-01" end="2003-10-31" >
+        <attvalues>
+          <attvalue for="lat" value="38.741650"></attvalue>
+          <attvalue for="lng" value="-90.3657"></attvalue>
+        </attvalues>
+      </node>
+      <node id="SWF" label="SWF" start="2003-08-01" end="2003-08-31" >
+        <attvalues>
+          <attvalue for="lat" value="41.50249799"></attvalue>
+          <attvalue for="lng" value="-74.102832922"></attvalue>
+        </attvalues>
+      </node>
+      
+      <node id="SYR" label="SYR" start="2001-01-01" end="2002-04-30" >
+        <attvalues>
+          <attvalue for="lat" value="41.41243"></attvalue>
+          <attvalue for="lng" value="-81.84799"></attvalue>
+        </attvalues>
+      </node>
+      <node id="SYR" label="SYR" start="2003-01-01" end="2003-12-31" >
+        <attvalues>
+          <attvalue for="lat" value="43.11512"></attvalue>
+          <attvalue for="lng" value="-76.11489"></attvalue>
+        </attvalues>
+      </node>
+      
+      
+    </nodes>
+    <edges>
+       <edge source="ATL" target="JFK" start="2000-01-01" end="2000-01-31" weight="119" />
+<edge source="BOS" target="JFK" start="2000-01-01" end="2000-01-31" weight="153" />
+<edge source="CVG" target="JFK" start="2000-01-01" end="2000-01-31" weight="84" />
+<edge source="DCA" target="JFK" start="2000-01-01" end="2000-01-31" weight="60" />
+<edge source="DEN" target="JFK" start="2000-01-01" end="2000-01-31" weight="31" />
+<edge source="DFW" target="JFK" start="2000-01-01" end="2000-01-31" weight="62" />
+<edge source="DTW" target="JFK" start="2000-01-01" end="2000-01-31" weight="113" />
+<edge source="FLL" target="JFK" start="2000-01-01" end="2000-01-31" weight="90" />
+<edge source="IAH" target="JFK" start="2000-01-01" end="2000-01-31" weight="31" />
+<edge source="LAS" target="JFK" start="2000-01-01" end="2000-01-31" weight="185" />
+<edge source="LAX" target="JFK" start="2000-01-01" end="2000-01-31" weight="729" />
+<edge source="MCO" target="JFK" start="2000-01-01" end="2000-01-31" weight="186" />
+<edge source="MIA" target="JFK" start="2000-01-01" end="2000-01-31" weight="282" />
+<edge source="MSY" target="JFK" start="2000-01-01" end="2000-01-31" weight="31" />
+<edge source="ORD" target="JFK" start="2000-01-01" end="2000-01-31" weight="33" />
+<edge source="PBI" target="JFK" start="2000-01-01" end="2000-01-31" weight="35" />
+<edge source="PDX" target="JFK" start="2000-01-01" end="2000-01-31" weight="31" />
+<edge source="PHL" target="JFK" start="2000-01-01" end="2000-01-31" weight="27" />
+<edge source="PHX" target="JFK" start="2000-01-01" end="2000-01-31" weight="124" />
+<edge source="SAN" target="JFK" start="2000-01-01" end="2000-01-31" weight="31" />
+<edge source="SEA" target="JFK" start="2000-01-01" end="2000-01-31" weight="62" />
+<edge source="SFO" target="JFK" start="2000-01-01" end="2000-01-31" weight="475" />
+<edge source="SJC" target="JFK" start="2000-01-01" end="2000-01-31" weight="31" />
+<edge source="SJU" target="JFK" start="2000-01-01" end="2000-01-31" weight="345" />
+<edge source="SLC" target="JFK" start="2000-01-01" end="2000-01-31" weight="62" />
+<edge source="STL" target="JFK" start="2000-01-01" end="2000-01-31" weight="92" />
+<edge source="STT" target="JFK" start="2000-01-01" end="2000-01-31" weight="31" />
+<edge source="TPA" target="JFK" start="2000-01-01" end="2000-01-31" weight="62" />     
+    
+<edge source="ATL" target="JFK" start="2000-02-01" end="2000-02-29" weight="112" />
+<edge source="BOS" target="JFK" start="2000-02-01" end="2000-02-29" weight="143" />
+<edge source="CVG" target="JFK" start="2000-02-01" end="2000-02-29" weight="78" />
+<edge source="DCA" target="JFK" start="2000-02-01" end="2000-02-29" weight="57" />
+<edge source="DEN" target="JFK" start="2000-02-01" end="2000-02-29" weight="29" />
+<edge source="DFW" target="JFK" start="2000-02-01" end="2000-02-29" weight="58" />
+<edge source="DTW" target="JFK" start="2000-02-01" end="2000-02-29" weight="112" />
+<edge source="FLL" target="JFK" start="2000-02-01" end="2000-02-29" weight="85" />
+<edge source="IAH" target="JFK" start="2000-02-01" end="2000-02-29" weight="29" />
+<edge source="LAS" target="JFK" start="2000-02-01" end="2000-02-29" weight="174" />
+<edge source="LAX" target="JFK" start="2000-02-01" end="2000-02-29" weight="690" />
+<edge source="MCO" target="JFK" start="2000-02-01" end="2000-02-29" weight="174" />
+<edge source="MIA" target="JFK" start="2000-02-01" end="2000-02-29" weight="263" />
+<edge source="MSY" target="JFK" start="2000-02-01" end="2000-02-29" weight="29" />
+<edge source="ORD" target="JFK" start="2000-02-01" end="2000-02-29" weight="30" />
+<edge source="PBI" target="JFK" start="2000-02-01" end="2000-02-29" weight="29" />
+<edge source="PDX" target="JFK" start="2000-02-01" end="2000-02-29" weight="29" />
+<edge source="PHL" target="JFK" start="2000-02-01" end="2000-02-29" weight="25" />
+<edge source="PHX" target="JFK" start="2000-02-01" end="2000-02-29" weight="116" />
+<edge source="SAN" target="JFK" start="2000-02-01" end="2000-02-29" weight="29" />
+<edge source="SEA" target="JFK" start="2000-02-01" end="2000-02-29" weight="58" />
+<edge source="SFO" target="JFK" start="2000-02-01" end="2000-02-29" weight="452" />
+<edge source="SJC" target="JFK" start="2000-02-01" end="2000-02-29" weight="29" />
+<edge source="SJU" target="JFK" start="2000-02-01" end="2000-02-29" weight="322" />
+<edge source="SLC" target="JFK" start="2000-02-01" end="2000-02-29" weight="58" />
+<edge source="STL" target="JFK" start="2000-02-01" end="2000-02-29" weight="112" />
+<edge source="STT" target="JFK" start="2000-02-01" end="2000-02-29" weight="29" />
+<edge source="TPA" target="JFK" start="2000-02-01" end="2000-02-29" weight="55" />
+
+<edge source="ATL" target="JFK" start="2000-03-01" end="2000-03-31" weight="124"/>
+<edge source="BOS" target="JFK" start="2000-03-01" end="2000-03-31" weight="151"/>
+<edge source="CVG" target="JFK" start="2000-03-01" end="2000-03-31" weight="93"/>
+<edge source="DCA" target="JFK" start="2000-03-01" end="2000-03-31" weight="59"/>
+<edge source="DEN" target="JFK" start="2000-03-01" end="2000-03-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2000-03-01" end="2000-03-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2000-03-01" end="2000-03-31" weight="120"/>
+<edge source="FLL" target="JFK" start="2000-03-01" end="2000-03-31" weight="91"/>
+<edge source="IAH" target="JFK" start="2000-03-01" end="2000-03-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2000-03-01" end="2000-03-31" weight="217"/>
+<edge source="LAX" target="JFK" start="2000-03-01" end="2000-03-31" weight="770"/>
+<edge source="MCO" target="JFK" start="2000-03-01" end="2000-03-31" weight="186"/>
+<edge source="MIA" target="JFK" start="2000-03-01" end="2000-03-31" weight="282"/>
+<edge source="MSY" target="JFK" start="2000-03-01" end="2000-03-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2000-03-01" end="2000-03-31" weight="34"/>
+<edge source="PBI" target="JFK" start="2000-03-01" end="2000-03-31" weight="31"/>
+<edge source="PDX" target="JFK" start="2000-03-01" end="2000-03-31" weight="31"/>
+<edge source="PHL" target="JFK" start="2000-03-01" end="2000-03-31" weight="30"/>
+<edge source="PHX" target="JFK" start="2000-03-01" end="2000-03-31" weight="124"/>
+<edge source="SAN" target="JFK" start="2000-03-01" end="2000-03-31" weight="31"/>
+<edge source="SEA" target="JFK" start="2000-03-01" end="2000-03-31" weight="62"/>
+<edge source="SFO" target="JFK" start="2000-03-01" end="2000-03-31" weight="492"/>
+<edge source="SJC" target="JFK" start="2000-03-01" end="2000-03-31" weight="31"/>
+<edge source="SJU" target="JFK" start="2000-03-01" end="2000-03-31" weight="348"/>
+<edge source="SLC" target="JFK" start="2000-03-01" end="2000-03-31" weight="62"/>
+<edge source="STL" target="JFK" start="2000-03-01" end="2000-03-31" weight="125"/>
+<edge source="STT" target="JFK" start="2000-03-01" end="2000-03-31" weight="31"/>
+<edge source="TPA" target="JFK" start="2000-03-01" end="2000-03-31" weight="58"/>
+
+<edge source="ATL" target="JFK" start="2000-04-01" end="2000-04-30" weight="119"/>
+<edge source="BOS" target="JFK" start="2000-04-01" end="2000-04-30" weight="147"/>
+<edge source="CVG" target="JFK" start="2000-04-01" end="2000-04-30" weight="90"/>
+<edge source="DCA" target="JFK" start="2000-04-01" end="2000-04-30" weight="57"/>
+<edge source="DEN" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="DFW" target="JFK" start="2000-04-01" end="2000-04-30" weight="60"/>
+<edge source="DTW" target="JFK" start="2000-04-01" end="2000-04-30" weight="115"/>
+<edge source="FLL" target="JFK" start="2000-04-01" end="2000-04-30" weight="90"/>
+<edge source="IAH" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="LAS" target="JFK" start="2000-04-01" end="2000-04-30" weight="209"/>
+<edge source="LAX" target="JFK" start="2000-04-01" end="2000-04-30" weight="734"/>
+<edge source="MCO" target="JFK" start="2000-04-01" end="2000-04-30" weight="180"/>
+<edge source="MIA" target="JFK" start="2000-04-01" end="2000-04-30" weight="268"/>
+<edge source="MSY" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="ORD" target="JFK" start="2000-04-01" end="2000-04-30" weight="31"/>
+<edge source="PBI" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="PDX" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="PHL" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2000-04-01" end="2000-04-30" weight="120"/>
+<edge source="SAN" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="SEA" target="JFK" start="2000-04-01" end="2000-04-30" weight="60"/>
+<edge source="SFO" target="JFK" start="2000-04-01" end="2000-04-30" weight="465"/>
+<edge source="SJC" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="SJU" target="JFK" start="2000-04-01" end="2000-04-30" weight="340"/>
+<edge source="SLC" target="JFK" start="2000-04-01" end="2000-04-30" weight="60"/>
+<edge source="STL" target="JFK" start="2000-04-01" end="2000-04-30" weight="122"/>
+<edge source="STT" target="JFK" start="2000-04-01" end="2000-04-30" weight="30"/>
+<edge source="TPA" target="JFK" start="2000-04-01" end="2000-04-30" weight="56"/>
+
+<edge source="ATL" target="JFK" start="2000-05-01" end="2000-05-31" weight="92"/>
+<edge source="BOS" target="JFK" start="2000-05-01" end="2000-05-31" weight="182"/>
+<edge source="CVG" target="JFK" start="2000-05-01" end="2000-05-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2000-05-01" end="2000-05-31" weight="59"/>
+<edge source="DEN" target="JFK" start="2000-05-01" end="2000-05-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2000-05-01" end="2000-05-31" weight="61"/>
+<edge source="DTW" target="JFK" start="2000-05-01" end="2000-05-31" weight="120"/>
+<edge source="FLL" target="JFK" start="2000-05-01" end="2000-05-31" weight="93"/>
+<edge source="IAH" target="JFK" start="2000-05-01" end="2000-05-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2000-05-01" end="2000-05-31" weight="216"/>
+<edge source="LAX" target="JFK" start="2000-05-01" end="2000-05-31" weight="755"/>
+<edge source="MCO" target="JFK" start="2000-05-01" end="2000-05-31" weight="185"/>
+<edge source="MIA" target="JFK" start="2000-05-01" end="2000-05-31" weight="272"/>
+<edge source="MSP" target="JFK" start="2000-05-01" end="2000-05-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2000-05-01" end="2000-05-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2000-05-01" end="2000-05-31" weight="29"/>
+<edge source="PBI" target="JFK" start="2000-05-01" end="2000-05-31" weight="30"/>
+<edge source="PDX" target="JFK" start="2000-05-01" end="2000-05-31" weight="31"/>
+<edge source="PHL" target="JFK" start="2000-05-01" end="2000-05-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2000-05-01" end="2000-05-31" weight="122"/>
+<edge source="SAN" target="JFK" start="2000-05-01" end="2000-05-31" weight="93"/>
+<edge source="SEA" target="JFK" start="2000-05-01" end="2000-05-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2000-05-01" end="2000-05-31" weight="493"/>
+<edge source="SJC" target="JFK" start="2000-05-01" end="2000-05-31" weight="61"/>
+<edge source="SJU" target="JFK" start="2000-05-01" end="2000-05-31" weight="336"/>
+<edge source="SLC" target="JFK" start="2000-05-01" end="2000-05-31" weight="92"/>
+<edge source="STL" target="JFK" start="2000-05-01" end="2000-05-31" weight="124"/>
+<edge source="STT" target="JFK" start="2000-05-01" end="2000-05-31" weight="31"/>
+<edge source="TPA" target="JFK" start="2000-05-01" end="2000-05-31" weight="57"/>  
+    
+<edge source="ATL" target="JFK" start="2000-06-01" end="2000-06-30" weight="90"/>
+<edge source="BDL" target="JFK" start="2000-06-01" end="2000-06-30" weight="30"/>
+<edge source="BOS" target="JFK" start="2000-06-01" end="2000-06-30" weight="180"/>
+<edge source="CVG" target="JFK" start="2000-06-01" end="2000-06-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2000-06-01" end="2000-06-30" weight="58"/>
+<edge source="DEN" target="JFK" start="2000-06-01" end="2000-06-30" weight="30"/>
+<edge source="DFW" target="JFK" start="2000-06-01" end="2000-06-30" weight="60"/>
+<edge source="DTW" target="JFK" start="2000-06-01" end="2000-06-30" weight="120"/>
+<edge source="FLL" target="JFK" start="2000-06-01" end="2000-06-30" weight="120"/>
+<edge source="LAS" target="JFK" start="2000-06-01" end="2000-06-30" weight="180"/>
+<edge source="LAX" target="JFK" start="2000-06-01" end="2000-06-30" weight="761"/>
+<edge source="MCO" target="JFK" start="2000-06-01" end="2000-06-30" weight="168"/>
+<edge source="MIA" target="JFK" start="2000-06-01" end="2000-06-30" weight="264"/>
+<edge source="MSP" target="JFK" start="2000-06-01" end="2000-06-30" weight="30"/>
+<edge source="MSY" target="JFK" start="2000-06-01" end="2000-06-30" weight="30"/>
+<edge source="ORD" target="JFK" start="2000-06-01" end="2000-06-30" weight="27"/>
+<edge source="PBI" target="JFK" start="2000-06-01" end="2000-06-30" weight="30"/>
+<edge source="PDX" target="JFK" start="2000-06-01" end="2000-06-30" weight="30"/>
+<edge source="PHL" target="JFK" start="2000-06-01" end="2000-06-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2000-06-01" end="2000-06-30" weight="120"/>
+<edge source="SAN" target="JFK" start="2000-06-01" end="2000-06-30" weight="90"/>
+<edge source="SEA" target="JFK" start="2000-06-01" end="2000-06-30" weight="90"/>
+<edge source="SFO" target="JFK" start="2000-06-01" end="2000-06-30" weight="500"/>
+<edge source="SJC" target="JFK" start="2000-06-01" end="2000-06-30" weight="74"/>
+<edge source="SJU" target="JFK" start="2000-06-01" end="2000-06-30" weight="341"/>
+<edge source="SLC" target="JFK" start="2000-06-01" end="2000-06-30" weight="90"/>
+<edge source="STL" target="JFK" start="2000-06-01" end="2000-06-30" weight="137"/>
+<edge source="STT" target="JFK" start="2000-06-01" end="2000-06-30" weight="30"/>
+<edge source="TPA" target="JFK" start="2000-06-01" end="2000-06-30" weight="56"/>
+
+<edge source="ATL" target="JFK" start="2000-07-01" end="2000-07-31" weight="93"/>
+<edge source="BDL" target="JFK" start="2000-07-01" end="2000-07-31" weight="28"/>
+<edge source="BOS" target="JFK" start="2000-07-01" end="2000-07-31" weight="186"/>
+<edge source="CVG" target="JFK" start="2000-07-01" end="2000-07-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2000-07-01" end="2000-07-31" weight="60"/>
+<edge source="DEN" target="JFK" start="2000-07-01" end="2000-07-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2000-07-01" end="2000-07-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2000-07-01" end="2000-07-31" weight="124"/>
+<edge source="FLL" target="JFK" start="2000-07-01" end="2000-07-31" weight="124"/>
+<edge source="LAS" target="JFK" start="2000-07-01" end="2000-07-31" weight="186"/>
+<edge source="LAX" target="JFK" start="2000-07-01" end="2000-07-31" weight="791"/>
+<edge source="MCO" target="JFK" start="2000-07-01" end="2000-07-31" weight="182"/>
+<edge source="MIA" target="JFK" start="2000-07-01" end="2000-07-31" weight="275"/>
+<edge source="MSP" target="JFK" start="2000-07-01" end="2000-07-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2000-07-01" end="2000-07-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2000-07-01" end="2000-07-31" weight="31"/>
+<edge source="PBI" target="JFK" start="2000-07-01" end="2000-07-31" weight="29"/>
+<edge source="PDX" target="JFK" start="2000-07-01" end="2000-07-31" weight="31"/>
+<edge source="PHL" target="JFK" start="2000-07-01" end="2000-07-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2000-07-01" end="2000-07-31" weight="123"/>
+<edge source="SAN" target="JFK" start="2000-07-01" end="2000-07-31" weight="93"/>
+<edge source="SAT" target="JFK" start="2000-07-01" end="2000-07-31" weight="1"/>
+<edge source="SEA" target="JFK" start="2000-07-01" end="2000-07-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2000-07-01" end="2000-07-31" weight="510"/>
+<edge source="SJC" target="JFK" start="2000-07-01" end="2000-07-31" weight="85"/>
+<edge source="SJU" target="JFK" start="2000-07-01" end="2000-07-31" weight="368"/>
+<edge source="SLC" target="JFK" start="2000-07-01" end="2000-07-31" weight="93"/>
+<edge source="STL" target="JFK" start="2000-07-01" end="2000-07-31" weight="142"/>
+<edge source="STT" target="JFK" start="2000-07-01" end="2000-07-31" weight="18"/>
+<edge source="TPA" target="JFK" start="2000-07-01" end="2000-07-31" weight="61"/>
+
+   <edge source="ATL" target="JFK" start="2000-08-01" end="2000-08-31" weight="93"/>
+<edge source="BDL" target="JFK" start="2000-08-01" end="2000-08-31" weight="31"/>
+<edge source="BOS" target="JFK" start="2000-08-01" end="2000-08-31" weight="186"/>
+<edge source="CVG" target="JFK" start="2000-08-01" end="2000-08-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2000-08-01" end="2000-08-31" weight="58"/>
+<edge source="DEN" target="JFK" start="2000-08-01" end="2000-08-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2000-08-01" end="2000-08-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2000-08-01" end="2000-08-31" weight="124"/>
+<edge source="FLL" target="JFK" start="2000-08-01" end="2000-08-31" weight="124"/>
+<edge source="LAS" target="JFK" start="2000-08-01" end="2000-08-31" weight="186"/>
+<edge source="LAX" target="JFK" start="2000-08-01" end="2000-08-31" weight="824"/>
+<edge source="MCO" target="JFK" start="2000-08-01" end="2000-08-31" weight="186"/>
+<edge source="MIA" target="JFK" start="2000-08-01" end="2000-08-31" weight="275"/>
+<edge source="MSP" target="JFK" start="2000-08-01" end="2000-08-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2000-08-01" end="2000-08-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2000-08-01" end="2000-08-31" weight="31"/>
+<edge source="PBI" target="JFK" start="2000-08-01" end="2000-08-31" weight="30"/>
+<edge source="PDX" target="JFK" start="2000-08-01" end="2000-08-31" weight="31"/>
+<edge source="PHL" target="JFK" start="2000-08-01" end="2000-08-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2000-08-01" end="2000-08-31" weight="124"/>
+<edge source="SAN" target="JFK" start="2000-08-01" end="2000-08-31" weight="93"/>
+<edge source="SEA" target="JFK" start="2000-08-01" end="2000-08-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2000-08-01" end="2000-08-31" weight="504"/>
+<edge source="SJC" target="JFK" start="2000-08-01" end="2000-08-31" weight="89"/>
+<edge source="SJU" target="JFK" start="2000-08-01" end="2000-08-31" weight="356"/>
+<edge source="SLC" target="JFK" start="2000-08-01" end="2000-08-31" weight="93"/>
+<edge source="STL" target="JFK" start="2000-08-01" end="2000-08-31" weight="142"/>
+<edge source="STT" target="JFK" start="2000-08-01" end="2000-08-31" weight="18"/>
+<edge source="TPA" target="JFK" start="2000-08-01" end="2000-08-31" weight="60"/>
+
+<edge source="ATL" target="JFK" start="2000-09-01" end="2000-09-30" weight="90"/>
+<edge source="BDL" target="JFK" start="2000-09-01" end="2000-09-30" weight="28"/>
+<edge source="BOS" target="JFK" start="2000-09-01" end="2000-09-30" weight="181"/>
+<edge source="CVG" target="JFK" start="2000-09-01" end="2000-09-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2000-09-01" end="2000-09-30" weight="60"/>
+<edge source="DEN" target="JFK" start="2000-09-01" end="2000-09-30" weight="30"/>
+<edge source="DFW" target="JFK" start="2000-09-01" end="2000-09-30" weight="60"/>
+<edge source="DTW" target="JFK" start="2000-09-01" end="2000-09-30" weight="116"/>
+<edge source="FLL" target="JFK" start="2000-09-01" end="2000-09-30" weight="120"/>
+<edge source="IAH" target="JFK" start="2000-09-01" end="2000-09-30" weight="44"/>
+<edge source="LAS" target="JFK" start="2000-09-01" end="2000-09-30" weight="180"/>
+<edge source="LAX" target="JFK" start="2000-09-01" end="2000-09-30" weight="786"/>
+<edge source="MCO" target="JFK" start="2000-09-01" end="2000-09-30" weight="180"/>
+<edge source="MIA" target="JFK" start="2000-09-01" end="2000-09-30" weight="269"/>
+<edge source="MSP" target="JFK" start="2000-09-01" end="2000-09-30" weight="30"/>
+<edge source="MSY" target="JFK" start="2000-09-01" end="2000-09-30" weight="30"/>
+<edge source="ORD" target="JFK" start="2000-09-01" end="2000-09-30" weight="34"/>
+<edge source="PBI" target="JFK" start="2000-09-01" end="2000-09-30" weight="30"/>
+<edge source="PDX" target="JFK" start="2000-09-01" end="2000-09-30" weight="30"/>
+<edge source="PHL" target="JFK" start="2000-09-01" end="2000-09-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2000-09-01" end="2000-09-30" weight="119"/>
+<edge source="SAN" target="JFK" start="2000-09-01" end="2000-09-30" weight="90"/>
+<edge source="SEA" target="JFK" start="2000-09-01" end="2000-09-30" weight="90"/>
+<edge source="SFO" target="JFK" start="2000-09-01" end="2000-09-30" weight="468"/>
+<edge source="SJC" target="JFK" start="2000-09-01" end="2000-09-30" weight="85"/>
+<edge source="SJU" target="JFK" start="2000-09-01" end="2000-09-30" weight="285"/>
+<edge source="SLC" target="JFK" start="2000-09-01" end="2000-09-30" weight="90"/>
+<edge source="STL" target="JFK" start="2000-09-01" end="2000-09-30" weight="124"/>
+<edge source="STT" target="JFK" start="2000-09-01" end="2000-09-30" weight="17"/>
+<edge source="TPA" target="JFK" start="2000-09-01" end="2000-09-30" weight="59"/>
+
+<edge source="ATL" target="JFK" start="2000-10-01" end="2000-10-31" weight="92"/>
+<edge source="BDL" target="JFK" start="2000-10-01" end="2000-10-31" weight="31"/>
+<edge source="BOS" target="JFK" start="2000-10-01" end="2000-10-31" weight="186"/>
+<edge source="CVG" target="JFK" start="2000-10-01" end="2000-10-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2000-10-01" end="2000-10-31" weight="60"/>
+<edge source="DEN" target="JFK" start="2000-10-01" end="2000-10-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2000-10-01" end="2000-10-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2000-10-01" end="2000-10-31" weight="119"/>
+<edge source="FLL" target="JFK" start="2000-10-01" end="2000-10-31" weight="121"/>
+<edge source="IAH" target="JFK" start="2000-10-01" end="2000-10-31" weight="58"/>
+<edge source="LAS" target="JFK" start="2000-10-01" end="2000-10-31" weight="185"/>
+<edge source="LAX" target="JFK" start="2000-10-01" end="2000-10-31" weight="827"/>
+<edge source="MCO" target="JFK" start="2000-10-01" end="2000-10-31" weight="247"/>
+<edge source="MIA" target="JFK" start="2000-10-01" end="2000-10-31" weight="276"/>
+<edge source="MSP" target="JFK" start="2000-10-01" end="2000-10-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2000-10-01" end="2000-10-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2000-10-01" end="2000-10-31" weight="33"/>
+<edge source="PBI" target="JFK" start="2000-10-01" end="2000-10-31" weight="29"/>
+<edge source="PDX" target="JFK" start="2000-10-01" end="2000-10-31" weight="31"/>
+<edge source="PHL" target="JFK" start="2000-10-01" end="2000-10-31" weight="30"/>
+<edge source="PHX" target="JFK" start="2000-10-01" end="2000-10-31" weight="124"/>
+<edge source="SAN" target="JFK" start="2000-10-01" end="2000-10-31" weight="93"/>
+<edge source="SEA" target="JFK" start="2000-10-01" end="2000-10-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2000-10-01" end="2000-10-31" weight="522"/>
+<edge source="SJC" target="JFK" start="2000-10-01" end="2000-10-31" weight="89"/>
+<edge source="SJU" target="JFK" start="2000-10-01" end="2000-10-31" weight="285"/>
+<edge source="SLC" target="JFK" start="2000-10-01" end="2000-10-31" weight="93"/>
+<edge source="SNA" target="JFK" start="2000-10-01" end="2000-10-31" weight="3"/>
+<edge source="STL" target="JFK" start="2000-10-01" end="2000-10-31" weight="123"/>
+<edge source="STT" target="JFK" start="2000-10-01" end="2000-10-31" weight="18"/>
+<edge source="TPA" target="JFK" start="2000-10-01" end="2000-10-31" weight="58"/>
+    
+<edge source="ATL" target="JFK" start="2000-11-01" end="2000-11-30" weight="88"/>
+<edge source="BDL" target="JFK" start="2000-11-01" end="2000-11-30" weight="27"/>
+<edge source="BOS" target="JFK" start="2000-11-01" end="2000-11-30" weight="150"/>
+<edge source="CVG" target="JFK" start="2000-11-01" end="2000-11-30" weight="58"/>
+<edge source="DCA" target="JFK" start="2000-11-01" end="2000-11-30" weight="54"/>
+<edge source="DEN" target="JFK" start="2000-11-01" end="2000-11-30" weight="29"/>
+<edge source="DFW" target="JFK" start="2000-11-01" end="2000-11-30" weight="60"/>
+<edge source="DTW" target="JFK" start="2000-11-01" end="2000-11-30" weight="113"/>
+<edge source="FLL" target="JFK" start="2000-11-01" end="2000-11-30" weight="90"/>
+<edge source="IAH" target="JFK" start="2000-11-01" end="2000-11-30" weight="53"/>
+<edge source="LAS" target="JFK" start="2000-11-01" end="2000-11-30" weight="179"/>
+<edge source="LAX" target="JFK" start="2000-11-01" end="2000-11-30" weight="806"/>
+<edge source="MCO" target="JFK" start="2000-11-01" end="2000-11-30" weight="240"/>
+<edge source="MIA" target="JFK" start="2000-11-01" end="2000-11-30" weight="268"/>
+<edge source="MSP" target="JFK" start="2000-11-01" end="2000-11-30" weight="30"/>
+<edge source="MSY" target="JFK" start="2000-11-01" end="2000-11-30" weight="30"/>
+<edge source="ORD" target="JFK" start="2000-11-01" end="2000-11-30" weight="4"/>
+<edge source="PBI" target="JFK" start="2000-11-01" end="2000-11-30" weight="30"/>
+<edge source="PDX" target="JFK" start="2000-11-01" end="2000-11-30" weight="28"/>
+<edge source="PHX" target="JFK" start="2000-11-01" end="2000-11-30" weight="118"/>
+<edge source="SAN" target="JFK" start="2000-11-01" end="2000-11-30" weight="90"/>
+<edge source="SEA" target="JFK" start="2000-11-01" end="2000-11-30" weight="60"/>
+<edge source="SFO" target="JFK" start="2000-11-01" end="2000-11-30" weight="524"/>
+<edge source="SJC" target="JFK" start="2000-11-01" end="2000-11-30" weight="84"/>
+<edge source="SJU" target="JFK" start="2000-11-01" end="2000-11-30" weight="300"/>
+<edge source="SLC" target="JFK" start="2000-11-01" end="2000-11-30" weight="88"/>
+<edge source="SNA" target="JFK" start="2000-11-01" end="2000-11-30" weight="28"/>
+<edge source="STL" target="JFK" start="2000-11-01" end="2000-11-30" weight="116"/>
+<edge source="STT" target="JFK" start="2000-11-01" end="2000-11-30" weight="30"/>
+<edge source="TPA" target="JFK" start="2000-11-01" end="2000-11-30" weight="58"/>
+    
+<edge source="ATL" target="JFK" start="2000-12-01" end="2000-12-31" weight="93"/>
+<edge source="BOS" target="JFK" start="2000-12-01" end="2000-12-31" weight="152"/>
+<edge source="CVG" target="JFK" start="2000-12-01" end="2000-12-31" weight="59"/>
+<edge source="DCA" target="JFK" start="2000-12-01" end="2000-12-31" weight="61"/>
+<edge source="DEN" target="JFK" start="2000-12-01" end="2000-12-31" weight="30"/>
+<edge source="DFW" target="JFK" start="2000-12-01" end="2000-12-31" weight="61"/>
+<edge source="DTW" target="JFK" start="2000-12-01" end="2000-12-31" weight="117"/>
+<edge source="FLL" target="JFK" start="2000-12-01" end="2000-12-31" weight="93"/>
+<edge source="IAH" target="JFK" start="2000-12-01" end="2000-12-31" weight="53"/>
+<edge source="LAS" target="JFK" start="2000-12-01" end="2000-12-31" weight="185"/>
+<edge source="LAX" target="JFK" start="2000-12-01" end="2000-12-31" weight="798"/>
+<edge source="MCO" target="JFK" start="2000-12-01" end="2000-12-31" weight="215"/>
+<edge source="MIA" target="JFK" start="2000-12-01" end="2000-12-31" weight="277"/>
+<edge source="MSP" target="JFK" start="2000-12-01" end="2000-12-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2000-12-01" end="2000-12-31" weight="16"/>
+<edge source="ORD" target="JFK" start="2000-12-01" end="2000-12-31" weight="6"/>
+<edge source="PDX" target="JFK" start="2000-12-01" end="2000-12-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2000-12-01" end="2000-12-31" weight="122"/>
+<edge source="SAN" target="JFK" start="2000-12-01" end="2000-12-31" weight="93"/>
+<edge source="SEA" target="JFK" start="2000-12-01" end="2000-12-31" weight="62"/>
+<edge source="SFO" target="JFK" start="2000-12-01" end="2000-12-31" weight="524"/>
+<edge source="SJC" target="JFK" start="2000-12-01" end="2000-12-31" weight="74"/>
+<edge source="SJU" target="JFK" start="2000-12-01" end="2000-12-31" weight="333"/>
+<edge source="SLC" target="JFK" start="2000-12-01" end="2000-12-31" weight="92"/>
+<edge source="SNA" target="JFK" start="2000-12-01" end="2000-12-31" weight="29"/>
+<edge source="STL" target="JFK" start="2000-12-01" end="2000-12-31" weight="124"/>
+<edge source="STT" target="JFK" start="2000-12-01" end="2000-12-31" weight="31"/>
+<edge source="TPA" target="JFK" start="2000-12-01" end="2000-12-31" weight="62"/>    
+    
+<edge source="ALB" target="JFK" start="2001-01-01" end="2001-01-31" weight="124"/>
+<edge source="ATL" target="JFK" start="2001-01-01" end="2001-01-31" weight="93"/>
+<edge source="BDL" target="JFK" start="2001-01-01" end="2001-01-31" weight="124"/>
+<edge source="BOS" target="JFK" start="2001-01-01" end="2001-01-31" weight="340"/>
+<edge source="BUF" target="JFK" start="2001-01-01" end="2001-01-31" weight="155"/>
+<edge source="BWI" target="JFK" start="2001-01-01" end="2001-01-31" weight="155"/>
+<edge source="CLE" target="JFK" start="2001-01-01" end="2001-01-31" weight="62"/>
+<edge source="CVG" target="JFK" start="2001-01-01" end="2001-01-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2001-01-01" end="2001-01-31" weight="302"/>
+<edge source="DEN" target="JFK" start="2001-01-01" end="2001-01-31" weight="30"/>
+<edge source="DFW" target="JFK" start="2001-01-01" end="2001-01-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2001-01-01" end="2001-01-31" weight="95"/>
+<edge source="FLL" target="JFK" start="2001-01-01" end="2001-01-31" weight="94"/>
+<edge source="IAH" target="JFK" start="2001-01-01" end="2001-01-31" weight="58"/>
+<edge source="LAS" target="JFK" start="2001-01-01" end="2001-01-31" weight="156"/>
+<edge source="LAX" target="JFK" start="2001-01-01" end="2001-01-31" weight="819"/>
+<edge source="MCO" target="JFK" start="2001-01-01" end="2001-01-31" weight="217"/>
+<edge source="MIA" target="JFK" start="2001-01-01" end="2001-01-31" weight="278"/>
+<edge source="MSP" target="JFK" start="2001-01-01" end="2001-01-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2001-01-01" end="2001-01-31" weight="4"/>
+<edge source="ORH" target="JFK" start="2001-01-01" end="2001-01-31" weight="93"/>
+<edge source="PDX" target="JFK" start="2001-01-01" end="2001-01-31" weight="30"/>
+<edge source="PHX" target="JFK" start="2001-01-01" end="2001-01-31" weight="124"/>
+<edge source="PIT" target="JFK" start="2001-01-01" end="2001-01-31" weight="152"/>
+<edge source="PVD" target="JFK" start="2001-01-01" end="2001-01-31" weight="121"/>
+<edge source="RDU" target="JFK" start="2001-01-01" end="2001-01-31" weight="124"/>
+<edge source="ROC" target="JFK" start="2001-01-01" end="2001-01-31" weight="155"/>
+<edge source="SAN" target="JFK" start="2001-01-01" end="2001-01-31" weight="92"/>
+<edge source="SEA" target="JFK" start="2001-01-01" end="2001-01-31" weight="62"/>
+<edge source="SFO" target="JFK" start="2001-01-01" end="2001-01-31" weight="523"/>
+<edge source="SJC" target="JFK" start="2001-01-01" end="2001-01-31" weight="63"/>
+<edge source="SJU" target="JFK" start="2001-01-01" end="2001-01-31" weight="344"/>
+<edge source="SLC" target="JFK" start="2001-01-01" end="2001-01-31" weight="93"/>
+<edge source="SNA" target="JFK" start="2001-01-01" end="2001-01-31" weight="31"/>
+<edge source="STL" target="JFK" start="2001-01-01" end="2001-01-31" weight="117"/>
+<edge source="STT" target="JFK" start="2001-01-01" end="2001-01-31" weight="31"/>
+<edge source="SYR" target="JFK" start="2001-01-01" end="2001-01-31" weight="93"/>
+<edge source="TPA" target="JFK" start="2001-01-01" end="2001-01-31" weight="62"/>
+
+ <edge source="ALB" target="JFK" start="2001-02-01" end="2001-02-28" weight="112"/>
+<edge source="ATL" target="JFK" start="2001-02-01" end="2001-02-28" weight="84"/>
+<edge source="BDL" target="JFK" start="2001-02-01" end="2001-02-28" weight="112"/>
+<edge source="BOS" target="JFK" start="2001-02-01" end="2001-02-28" weight="279"/>
+<edge source="BUF" target="JFK" start="2001-02-01" end="2001-02-28" weight="140"/>
+<edge source="BWI" target="JFK" start="2001-02-01" end="2001-02-28" weight="140"/>
+<edge source="CLE" target="JFK" start="2001-02-01" end="2001-02-28" weight="56"/>
+<edge source="CVG" target="JFK" start="2001-02-01" end="2001-02-28" weight="56"/>
+<edge source="DCA" target="JFK" start="2001-02-01" end="2001-02-28" weight="252"/>
+<edge source="DFW" target="JFK" start="2001-02-01" end="2001-02-28" weight="56"/>
+<edge source="DTW" target="JFK" start="2001-02-01" end="2001-02-28" weight="84"/>
+<edge source="FLL" target="JFK" start="2001-02-01" end="2001-02-28" weight="112"/>
+<edge source="IAH" target="JFK" start="2001-02-01" end="2001-02-28" weight="52"/>
+<edge source="LAS" target="JFK" start="2001-02-01" end="2001-02-28" weight="140"/>
+<edge source="LAX" target="JFK" start="2001-02-01" end="2001-02-28" weight="705"/>
+<edge source="MCO" target="JFK" start="2001-02-01" end="2001-02-28" weight="196"/>
+<edge source="MIA" target="JFK" start="2001-02-01" end="2001-02-28" weight="276"/>
+<edge source="MSP" target="JFK" start="2001-02-01" end="2001-02-28" weight="28"/>
+<edge source="ORD" target="JFK" start="2001-02-01" end="2001-02-28" weight="4"/>
+<edge source="ORH" target="JFK" start="2001-02-01" end="2001-02-28" weight="84"/>
+<edge source="PHX" target="JFK" start="2001-02-01" end="2001-02-28" weight="112"/>
+<edge source="PIT" target="JFK" start="2001-02-01" end="2001-02-28" weight="140"/>
+<edge source="PVD" target="JFK" start="2001-02-01" end="2001-02-28" weight="112"/>
+<edge source="RDU" target="JFK" start="2001-02-01" end="2001-02-28" weight="112"/>
+<edge source="ROC" target="JFK" start="2001-02-01" end="2001-02-28" weight="140"/>
+<edge source="SAN" target="JFK" start="2001-02-01" end="2001-02-28" weight="84"/>
+<edge source="SEA" target="JFK" start="2001-02-01" end="2001-02-28" weight="56"/>
+<edge source="SFO" target="JFK" start="2001-02-01" end="2001-02-28" weight="472"/>
+<edge source="SJC" target="JFK" start="2001-02-01" end="2001-02-28" weight="78"/>
+<edge source="SJU" target="JFK" start="2001-02-01" end="2001-02-28" weight="316"/>
+<edge source="SLC" target="JFK" start="2001-02-01" end="2001-02-28" weight="84"/>
+<edge source="SNA" target="JFK" start="2001-02-01" end="2001-02-28" weight="28"/>
+<edge source="STL" target="JFK" start="2001-02-01" end="2001-02-28" weight="112"/>
+<edge source="STT" target="JFK" start="2001-02-01" end="2001-02-28" weight="28"/>
+<edge source="SYR" target="JFK" start="2001-02-01" end="2001-02-28" weight="84"/>
+<edge source="TPA" target="JFK" start="2001-02-01" end="2001-02-28" weight="56"/>
+
+<edge source="ALB" target="JFK" start="2001-03-01" end="2001-03-31" weight="123"/>
+<edge source="ATL" target="JFK" start="2001-03-01" end="2001-03-31" weight="92"/>
+<edge source="BDL" target="JFK" start="2001-03-01" end="2001-03-31" weight="124"/>
+<edge source="BOS" target="JFK" start="2001-03-01" end="2001-03-31" weight="369"/>
+<edge source="BUF" target="JFK" start="2001-03-01" end="2001-03-31" weight="155"/>
+<edge source="BWI" target="JFK" start="2001-03-01" end="2001-03-31" weight="155"/>
+<edge source="CLE" target="JFK" start="2001-03-01" end="2001-03-31" weight="62"/>
+<edge source="CVG" target="JFK" start="2001-03-01" end="2001-03-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2001-03-01" end="2001-03-31" weight="301"/>
+<edge source="DFW" target="JFK" start="2001-03-01" end="2001-03-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2001-03-01" end="2001-03-31" weight="93"/>
+<edge source="FLL" target="JFK" start="2001-03-01" end="2001-03-31" weight="124"/>
+<edge source="IAH" target="JFK" start="2001-03-01" end="2001-03-31" weight="57"/>
+<edge source="LAS" target="JFK" start="2001-03-01" end="2001-03-31" weight="154"/>
+<edge source="LAX" target="JFK" start="2001-03-01" end="2001-03-31" weight="780"/>
+<edge source="MCO" target="JFK" start="2001-03-01" end="2001-03-31" weight="217"/>
+<edge source="MIA" target="JFK" start="2001-03-01" end="2001-03-31" weight="304"/>
+<edge source="MSP" target="JFK" start="2001-03-01" end="2001-03-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2001-03-01" end="2001-03-31" weight="5"/>
+<edge source="ORH" target="JFK" start="2001-03-01" end="2001-03-31" weight="93"/>
+<edge source="PHX" target="JFK" start="2001-03-01" end="2001-03-31" weight="123"/>
+<edge source="PIT" target="JFK" start="2001-03-01" end="2001-03-31" weight="154"/>
+<edge source="PVD" target="JFK" start="2001-03-01" end="2001-03-31" weight="124"/>
+<edge source="RDU" target="JFK" start="2001-03-01" end="2001-03-31" weight="124"/>
+<edge source="ROC" target="JFK" start="2001-03-01" end="2001-03-31" weight="155"/>
+<edge source="SAN" target="JFK" start="2001-03-01" end="2001-03-31" weight="93"/>
+<edge source="SEA" target="JFK" start="2001-03-01" end="2001-03-31" weight="62"/>
+<edge source="SFO" target="JFK" start="2001-03-01" end="2001-03-31" weight="528"/>
+<edge source="SJC" target="JFK" start="2001-03-01" end="2001-03-31" weight="88"/>
+<edge source="SJU" target="JFK" start="2001-03-01" end="2001-03-31" weight="350"/>
+<edge source="SLC" target="JFK" start="2001-03-01" end="2001-03-31" weight="93"/>
+<edge source="SNA" target="JFK" start="2001-03-01" end="2001-03-31" weight="1"/>
+<edge source="STL" target="JFK" start="2001-03-01" end="2001-03-31" weight="123"/>
+<edge source="STT" target="JFK" start="2001-03-01" end="2001-03-31" weight="31"/>
+<edge source="SYR" target="JFK" start="2001-03-01" end="2001-03-31" weight="93"/>
+<edge source="TPA" target="JFK" start="2001-03-01" end="2001-03-31" weight="62"/>
+
+<edge source="ACY" target="JFK" start="2001-04-01" end="2001-04-30" weight="1"/>
+<edge source="ALB" target="JFK" start="2001-04-01" end="2001-04-30" weight="120"/>
+<edge source="ATL" target="JFK" start="2001-04-01" end="2001-04-30" weight="90"/>
+<edge source="BDL" target="JFK" start="2001-04-01" end="2001-04-30" weight="120"/>
+<edge source="BOS" target="JFK" start="2001-04-01" end="2001-04-30" weight="339"/>
+<edge source="BUF" target="JFK" start="2001-04-01" end="2001-04-30" weight="150"/>
+<edge source="BWI" target="JFK" start="2001-04-01" end="2001-04-30" weight="149"/>
+<edge source="CLE" target="JFK" start="2001-04-01" end="2001-04-30" weight="90"/>
+<edge source="CVG" target="JFK" start="2001-04-01" end="2001-04-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2001-04-01" end="2001-04-30" weight="331"/>
+<edge source="DFW" target="JFK" start="2001-04-01" end="2001-04-30" weight="60"/>
+<edge source="DTW" target="JFK" start="2001-04-01" end="2001-04-30" weight="90"/>
+<edge source="FLL" target="JFK" start="2001-04-01" end="2001-04-30" weight="120"/>
+<edge source="IAH" target="JFK" start="2001-04-01" end="2001-04-30" weight="56"/>
+<edge source="LAS" target="JFK" start="2001-04-01" end="2001-04-30" weight="150"/>
+<edge source="LAX" target="JFK" start="2001-04-01" end="2001-04-30" weight="762"/>
+<edge source="MCO" target="JFK" start="2001-04-01" end="2001-04-30" weight="210"/>
+<edge source="MIA" target="JFK" start="2001-04-01" end="2001-04-30" weight="295"/>
+<edge source="MSP" target="JFK" start="2001-04-01" end="2001-04-30" weight="30"/>
+<edge source="ORD" target="JFK" start="2001-04-01" end="2001-04-30" weight="4"/>
+<edge source="ORH" target="JFK" start="2001-04-01" end="2001-04-30" weight="90"/>
+<edge source="PDX" target="JFK" start="2001-04-01" end="2001-04-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2001-04-01" end="2001-04-30" weight="120"/>
+<edge source="PIT" target="JFK" start="2001-04-01" end="2001-04-30" weight="120"/>
+<edge source="PVD" target="JFK" start="2001-04-01" end="2001-04-30" weight="122"/>
+<edge source="RDU" target="JFK" start="2001-04-01" end="2001-04-30" weight="149"/>
+<edge source="ROC" target="JFK" start="2001-04-01" end="2001-04-30" weight="150"/>
+<edge source="SAN" target="JFK" start="2001-04-01" end="2001-04-30" weight="90"/>
+<edge source="SEA" target="JFK" start="2001-04-01" end="2001-04-30" weight="60"/>
+<edge source="SFO" target="JFK" start="2001-04-01" end="2001-04-30" weight="507"/>
+<edge source="SJC" target="JFK" start="2001-04-01" end="2001-04-30" weight="85"/>
+<edge source="SJU" target="JFK" start="2001-04-01" end="2001-04-30" weight="339"/>
+<edge source="SLC" target="JFK" start="2001-04-01" end="2001-04-30" weight="89"/>
+<edge source="STL" target="JFK" start="2001-04-01" end="2001-04-30" weight="119"/>
+<edge source="STT" target="JFK" start="2001-04-01" end="2001-04-30" weight="30"/>
+<edge source="SYR" target="JFK" start="2001-04-01" end="2001-04-30" weight="90"/>
+<edge source="TPA" target="JFK" start="2001-04-01" end="2001-04-30" weight="60"/>
+
+<edge source="ALB" target="JFK" start="2001-05-01" end="2001-05-31" weight="123"/>
+<edge source="ATL" target="JFK" start="2001-05-01" end="2001-05-31" weight="93"/>
+<edge source="BDL" target="JFK" start="2001-05-01" end="2001-05-31" weight="124"/>
+<edge source="BOS" target="JFK" start="2001-05-01" end="2001-05-31" weight="379"/>
+<edge source="BUF" target="JFK" start="2001-05-01" end="2001-05-31" weight="186"/>
+<edge source="BWI" target="JFK" start="2001-05-01" end="2001-05-31" weight="155"/>
+<edge source="CLE" target="JFK" start="2001-05-01" end="2001-05-31" weight="93"/>
+<edge source="CVG" target="JFK" start="2001-05-01" end="2001-05-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2001-05-01" end="2001-05-31" weight="361"/>
+<edge source="DFW" target="JFK" start="2001-05-01" end="2001-05-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2001-05-01" end="2001-05-31" weight="93"/>
+<edge source="FLL" target="JFK" start="2001-05-01" end="2001-05-31" weight="123"/>
+<edge source="IAH" target="JFK" start="2001-05-01" end="2001-05-31" weight="57"/>
+<edge source="LAS" target="JFK" start="2001-05-01" end="2001-05-31" weight="155"/>
+<edge source="LAX" target="JFK" start="2001-05-01" end="2001-05-31" weight="783"/>
+<edge source="MCO" target="JFK" start="2001-05-01" end="2001-05-31" weight="216"/>
+<edge source="MIA" target="JFK" start="2001-05-01" end="2001-05-31" weight="279"/>
+<edge source="MSP" target="JFK" start="2001-05-01" end="2001-05-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2001-05-01" end="2001-05-31" weight="4"/>
+<edge source="ORH" target="JFK" start="2001-05-01" end="2001-05-31" weight="90"/>
+<edge source="PDX" target="JFK" start="2001-05-01" end="2001-05-31" weight="29"/>
+<edge source="PHX" target="JFK" start="2001-05-01" end="2001-05-31" weight="124"/>
+<edge source="PIT" target="JFK" start="2001-05-01" end="2001-05-31" weight="124"/>
+<edge source="PVD" target="JFK" start="2001-05-01" end="2001-05-31" weight="152"/>
+<edge source="RDU" target="JFK" start="2001-05-01" end="2001-05-31" weight="185"/>
+<edge source="ROC" target="JFK" start="2001-05-01" end="2001-05-31" weight="155"/>
+<edge source="SAN" target="JFK" start="2001-05-01" end="2001-05-31" weight="93"/>
+<edge source="SEA" target="JFK" start="2001-05-01" end="2001-05-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2001-05-01" end="2001-05-31" weight="517"/>
+<edge source="SJC" target="JFK" start="2001-05-01" end="2001-05-31" weight="88"/>
+<edge source="SJU" target="JFK" start="2001-05-01" end="2001-05-31" weight="349"/>
+<edge source="SLC" target="JFK" start="2001-05-01" end="2001-05-31" weight="93"/>
+<edge source="STL" target="JFK" start="2001-05-01" end="2001-05-31" weight="120"/>
+<edge source="STT" target="JFK" start="2001-05-01" end="2001-05-31" weight="31"/>
+<edge source="SYR" target="JFK" start="2001-05-01" end="2001-05-31" weight="93"/>
+<edge source="TPA" target="JFK" start="2001-05-01" end="2001-05-31" weight="62"/>
+
+<edge source="ALB" target="JFK" start="2001-06-01" end="2001-06-30" weight="119"/>
+<edge source="ATL" target="JFK" start="2001-06-01" end="2001-06-30" weight="90"/>
+<edge source="BDL" target="JFK" start="2001-06-01" end="2001-06-30" weight="119"/>
+<edge source="BOS" target="JFK" start="2001-06-01" end="2001-06-30" weight="369"/>
+<edge source="BUF" target="JFK" start="2001-06-01" end="2001-06-30" weight="180"/>
+<edge source="BWI" target="JFK" start="2001-06-01" end="2001-06-30" weight="150"/>
+<edge source="CLE" target="JFK" start="2001-06-01" end="2001-06-30" weight="90"/>
+<edge source="CVG" target="JFK" start="2001-06-01" end="2001-06-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2001-06-01" end="2001-06-30" weight="360"/>
+<edge source="DFW" target="JFK" start="2001-06-01" end="2001-06-30" weight="60"/>
+<edge source="DTW" target="JFK" start="2001-06-01" end="2001-06-30" weight="90"/>
+<edge source="FLL" target="JFK" start="2001-06-01" end="2001-06-30" weight="120"/>
+<edge source="IAH" target="JFK" start="2001-06-01" end="2001-06-30" weight="58"/>
+<edge source="LAS" target="JFK" start="2001-06-01" end="2001-06-30" weight="150"/>
+<edge source="LAX" target="JFK" start="2001-06-01" end="2001-06-30" weight="797"/>
+<edge source="MCO" target="JFK" start="2001-06-01" end="2001-06-30" weight="210"/>
+<edge source="MIA" target="JFK" start="2001-06-01" end="2001-06-30" weight="267"/>
+<edge source="MSP" target="JFK" start="2001-06-01" end="2001-06-30" weight="60"/>
+<edge source="ORD" target="JFK" start="2001-06-01" end="2001-06-30" weight="5"/>
+<edge source="ORH" target="JFK" start="2001-06-01" end="2001-06-30" weight="90"/>
+<edge source="PDX" target="JFK" start="2001-06-01" end="2001-06-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2001-06-01" end="2001-06-30" weight="120"/>
+<edge source="PIT" target="JFK" start="2001-06-01" end="2001-06-30" weight="120"/>
+<edge source="PVD" target="JFK" start="2001-06-01" end="2001-06-30" weight="150"/>
+<edge source="RDU" target="JFK" start="2001-06-01" end="2001-06-30" weight="180"/>
+<edge source="ROC" target="JFK" start="2001-06-01" end="2001-06-30" weight="150"/>
+<edge source="SAN" target="JFK" start="2001-06-01" end="2001-06-30" weight="90"/>
+<edge source="SEA" target="JFK" start="2001-06-01" end="2001-06-30" weight="115"/>
+<edge source="SFO" target="JFK" start="2001-06-01" end="2001-06-30" weight="540"/>
+<edge source="SJC" target="JFK" start="2001-06-01" end="2001-06-30" weight="88"/>
+<edge source="SJU" target="JFK" start="2001-06-01" end="2001-06-30" weight="339"/>
+<edge source="SLC" target="JFK" start="2001-06-01" end="2001-06-30" weight="90"/>
+<edge source="STL" target="JFK" start="2001-06-01" end="2001-06-30" weight="131"/>
+<edge source="STT" target="JFK" start="2001-06-01" end="2001-06-30" weight="23"/>
+<edge source="SYR" target="JFK" start="2001-06-01" end="2001-06-30" weight="90"/>
+<edge source="TPA" target="JFK" start="2001-06-01" end="2001-06-30" weight="60"/>
+
+
+<edge source="ALB" target="JFK" start="2001-07-01" end="2001-07-31" weight="124"/>
+<edge source="ATL" target="JFK" start="2001-07-01" end="2001-07-31" weight="93"/>
+<edge source="BDL" target="JFK" start="2001-07-01" end="2001-07-31" weight="124"/>
+<edge source="BOS" target="JFK" start="2001-07-01" end="2001-07-31" weight="417"/>
+<edge source="BUF" target="JFK" start="2001-07-01" end="2001-07-31" weight="185"/>
+<edge source="BWI" target="JFK" start="2001-07-01" end="2001-07-31" weight="184"/>
+<edge source="CLE" target="JFK" start="2001-07-01" end="2001-07-31" weight="93"/>
+<edge source="CVG" target="JFK" start="2001-07-01" end="2001-07-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2001-07-01" end="2001-07-31" weight="372"/>
+<edge source="DFW" target="JFK" start="2001-07-01" end="2001-07-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2001-07-01" end="2001-07-31" weight="93"/>
+<edge source="FLL" target="JFK" start="2001-07-01" end="2001-07-31" weight="124"/>
+<edge source="IAH" target="JFK" start="2001-07-01" end="2001-07-31" weight="59"/>
+<edge source="LAS" target="JFK" start="2001-07-01" end="2001-07-31" weight="186"/>
+<edge source="LAX" target="JFK" start="2001-07-01" end="2001-07-31" weight="815"/>
+<edge source="MCO" target="JFK" start="2001-07-01" end="2001-07-31" weight="217"/>
+<edge source="MIA" target="JFK" start="2001-07-01" end="2001-07-31" weight="277"/>
+<edge source="MSP" target="JFK" start="2001-07-01" end="2001-07-31" weight="62"/>
+<edge source="ORD" target="JFK" start="2001-07-01" end="2001-07-31" weight="4"/>
+<edge source="ORH" target="JFK" start="2001-07-01" end="2001-07-31" weight="34"/>
+<edge source="PDX" target="JFK" start="2001-07-01" end="2001-07-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2001-07-01" end="2001-07-31" weight="123"/>
+<edge source="PIT" target="JFK" start="2001-07-01" end="2001-07-31" weight="124"/>
+<edge source="PVD" target="JFK" start="2001-07-01" end="2001-07-31" weight="155"/>
+<edge source="RDU" target="JFK" start="2001-07-01" end="2001-07-31" weight="185"/>
+<edge source="ROC" target="JFK" start="2001-07-01" end="2001-07-31" weight="154"/>
+<edge source="SAN" target="JFK" start="2001-07-01" end="2001-07-31" weight="118"/>
+<edge source="SEA" target="JFK" start="2001-07-01" end="2001-07-31" weight="124"/>
+<edge source="SFO" target="JFK" start="2001-07-01" end="2001-07-31" weight="555"/>
+<edge source="SJC" target="JFK" start="2001-07-01" end="2001-07-31" weight="93"/>
+<edge source="SJU" target="JFK" start="2001-07-01" end="2001-07-31" weight="319"/>
+<edge source="SLC" target="JFK" start="2001-07-01" end="2001-07-31" weight="93"/>
+<edge source="STL" target="JFK" start="2001-07-01" end="2001-07-31" weight="155"/>
+<edge source="STT" target="JFK" start="2001-07-01" end="2001-07-31" weight="18"/>
+<edge source="SYR" target="JFK" start="2001-07-01" end="2001-07-31" weight="93"/>
+<edge source="TPA" target="JFK" start="2001-07-01" end="2001-07-31" weight="62"/>
+
+
+<edge source="ALB" target="JFK" start="2001-08-01" end="2001-08-31" weight="123"/>
+<edge source="ATL" target="JFK" start="2001-08-01" end="2001-08-31" weight="93"/>
+<edge source="BDL" target="JFK" start="2001-08-01" end="2001-08-31" weight="124"/>
+<edge source="BOS" target="JFK" start="2001-08-01" end="2001-08-31" weight="423"/>
+<edge source="BUF" target="JFK" start="2001-08-01" end="2001-08-31" weight="184"/>
+<edge source="BWI" target="JFK" start="2001-08-01" end="2001-08-31" weight="186"/>
+<edge source="CLE" target="JFK" start="2001-08-01" end="2001-08-31" weight="93"/>
+<edge source="CVG" target="JFK" start="2001-08-01" end="2001-08-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2001-08-01" end="2001-08-31" weight="372"/>
+<edge source="DFW" target="JFK" start="2001-08-01" end="2001-08-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2001-08-01" end="2001-08-31" weight="93"/>
+<edge source="FLL" target="JFK" start="2001-08-01" end="2001-08-31" weight="124"/>
+<edge source="IAH" target="JFK" start="2001-08-01" end="2001-08-31" weight="62"/>
+<edge source="LAS" target="JFK" start="2001-08-01" end="2001-08-31" weight="186"/>
+<edge source="LAX" target="JFK" start="2001-08-01" end="2001-08-31" weight="819"/>
+<edge source="MCO" target="JFK" start="2001-08-01" end="2001-08-31" weight="217"/>
+<edge source="MIA" target="JFK" start="2001-08-01" end="2001-08-31" weight="278"/>
+<edge source="MSP" target="JFK" start="2001-08-01" end="2001-08-31" weight="62"/>
+<edge source="ORD" target="JFK" start="2001-08-01" end="2001-08-31" weight="5"/>
+<edge source="ORH" target="JFK" start="2001-08-01" end="2001-08-31" weight="31"/>
+<edge source="PDX" target="JFK" start="2001-08-01" end="2001-08-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2001-08-01" end="2001-08-31" weight="124"/>
+<edge source="PIT" target="JFK" start="2001-08-01" end="2001-08-31" weight="124"/>
+<edge source="PVD" target="JFK" start="2001-08-01" end="2001-08-31" weight="155"/>
+<edge source="RDU" target="JFK" start="2001-08-01" end="2001-08-31" weight="186"/>
+<edge source="ROC" target="JFK" start="2001-08-01" end="2001-08-31" weight="155"/>
+<edge source="SAN" target="JFK" start="2001-08-01" end="2001-08-31" weight="120"/>
+<edge source="SEA" target="JFK" start="2001-08-01" end="2001-08-31" weight="124"/>
+<edge source="SFO" target="JFK" start="2001-08-01" end="2001-08-31" weight="588"/>
+<edge source="SJC" target="JFK" start="2001-08-01" end="2001-08-31" weight="93"/>
+<edge source="SJU" target="JFK" start="2001-08-01" end="2001-08-31" weight="318"/>
+<edge source="SLC" target="JFK" start="2001-08-01" end="2001-08-31" weight="93"/>
+<edge source="STL" target="JFK" start="2001-08-01" end="2001-08-31" weight="155"/>
+<edge source="STT" target="JFK" start="2001-08-01" end="2001-08-31" weight="17"/>
+<edge source="SYR" target="JFK" start="2001-08-01" end="2001-08-31" weight="93"/>
+<edge source="TPA" target="JFK" start="2001-08-01" end="2001-08-31" weight="62"/>
+
+
+<edge source="ALB" target="JFK" start="2001-09-01" end="2001-09-30" weight="120"/>
+<edge source="ATL" target="JFK" start="2001-09-01" end="2001-09-30" weight="90"/>
+<edge source="BDL" target="JFK" start="2001-09-01" end="2001-09-30" weight="120"/>
+<edge source="BOS" target="JFK" start="2001-09-01" end="2001-09-30" weight="377"/>
+<edge source="BUF" target="JFK" start="2001-09-01" end="2001-09-30" weight="102"/>
+<edge source="BWI" target="JFK" start="2001-09-01" end="2001-09-30" weight="180"/>
+<edge source="CLE" target="JFK" start="2001-09-01" end="2001-09-30" weight="90"/>
+<edge source="CVG" target="JFK" start="2001-09-01" end="2001-09-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2001-09-01" end="2001-09-30" weight="310"/>
+<edge source="DFW" target="JFK" start="2001-09-01" end="2001-09-30" weight="60"/>
+<edge source="DTW" target="JFK" start="2001-09-01" end="2001-09-30" weight="78"/>
+<edge source="FLL" target="JFK" start="2001-09-01" end="2001-09-30" weight="120"/>
+<edge source="IAH" target="JFK" start="2001-09-01" end="2001-09-30" weight="41"/>
+<edge source="LAS" target="JFK" start="2001-09-01" end="2001-09-30" weight="186"/>
+<edge source="LAX" target="JFK" start="2001-09-01" end="2001-09-30" weight="635"/>
+<edge source="MCO" target="JFK" start="2001-09-01" end="2001-09-30" weight="210"/>
+<edge source="MIA" target="JFK" start="2001-09-01" end="2001-09-30" weight="208"/>
+<edge source="MSP" target="JFK" start="2001-09-01" end="2001-09-30" weight="60"/>
+<edge source="MSY" target="JFK" start="2001-09-01" end="2001-09-30" weight="58"/>
+<edge source="ORD" target="JFK" start="2001-09-01" end="2001-09-30" weight="3"/>
+<edge source="ORH" target="JFK" start="2001-09-01" end="2001-09-30" weight="30"/>
+<edge source="PDX" target="JFK" start="2001-09-01" end="2001-09-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2001-09-01" end="2001-09-30" weight="113"/>
+<edge source="PIT" target="JFK" start="2001-09-01" end="2001-09-30" weight="94"/>
+<edge source="PVD" target="JFK" start="2001-09-01" end="2001-09-30" weight="150"/>
+<edge source="RDU" target="JFK" start="2001-09-01" end="2001-09-30" weight="155"/>
+<edge source="ROC" target="JFK" start="2001-09-01" end="2001-09-30" weight="98"/>
+<edge source="SAN" target="JFK" start="2001-09-01" end="2001-09-30" weight="90"/>
+<edge source="SEA" target="JFK" start="2001-09-01" end="2001-09-30" weight="94"/>
+<edge source="SFO" target="JFK" start="2001-09-01" end="2001-09-30" weight="487"/>
+<edge source="SJC" target="JFK" start="2001-09-01" end="2001-09-30" weight="72"/>
+<edge source="SJU" target="JFK" start="2001-09-01" end="2001-09-30" weight="219"/>
+<edge source="SLC" target="JFK" start="2001-09-01" end="2001-09-30" weight="90"/>
+<edge source="STL" target="JFK" start="2001-09-01" end="2001-09-30" weight="124"/>
+<edge source="STT" target="JFK" start="2001-09-01" end="2001-09-30" weight="17"/>
+<edge source="SYR" target="JFK" start="2001-09-01" end="2001-09-30" weight="90"/>
+<edge source="TPA" target="JFK" start="2001-09-01" end="2001-09-30" weight="60"/>
+
+<edge source="ALB" target="JFK" start="2001-10-01" end="2001-10-31" weight="123"/>
+<edge source="ATL" target="JFK" start="2001-10-01" end="2001-10-31" weight="93"/>
+<edge source="BDL" target="JFK" start="2001-10-01" end="2001-10-31" weight="124"/>
+<edge source="BOS" target="JFK" start="2001-10-01" end="2001-10-31" weight="309"/>
+<edge source="BUF" target="JFK" start="2001-10-01" end="2001-10-31" weight="44"/>
+<edge source="BWI" target="JFK" start="2001-10-01" end="2001-10-31" weight="186"/>
+<edge source="CLE" target="JFK" start="2001-10-01" end="2001-10-31" weight="88"/>
+<edge source="CVG" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2001-10-01" end="2001-10-31" weight="50"/>
+<edge source="DFW" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2001-10-01" end="2001-10-31" weight="186"/>
+<edge source="IAD" target="JFK" start="2001-10-01" end="2001-10-31" weight="78"/>
+<edge source="LAS" target="JFK" start="2001-10-01" end="2001-10-31" weight="120"/>
+<edge source="LAX" target="JFK" start="2001-10-01" end="2001-10-31" weight="434"/>
+<edge source="MCO" target="JFK" start="2001-10-01" end="2001-10-31" weight="216"/>
+<edge source="MIA" target="JFK" start="2001-10-01" end="2001-10-31" weight="186"/>
+<edge source="MSP" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="MSY" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="PDX" target="JFK" start="2001-10-01" end="2001-10-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2001-10-01" end="2001-10-31" weight="93"/>
+<edge source="PIT" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="PVD" target="JFK" start="2001-10-01" end="2001-10-31" weight="110"/>
+<edge source="RDU" target="JFK" start="2001-10-01" end="2001-10-31" weight="155"/>
+<edge source="ROC" target="JFK" start="2001-10-01" end="2001-10-31" weight="60"/>
+<edge source="SAN" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="SEA" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="SFO" target="JFK" start="2001-10-01" end="2001-10-31" weight="372"/>
+<edge source="SJC" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+<edge source="SJU" target="JFK" start="2001-10-01" end="2001-10-31" weight="194"/>
+<edge source="SLC" target="JFK" start="2001-10-01" end="2001-10-31" weight="93"/>
+<edge source="STL" target="JFK" start="2001-10-01" end="2001-10-31" weight="97"/>
+<edge source="STT" target="JFK" start="2001-10-01" end="2001-10-31" weight="17"/>
+<edge source="SYR" target="JFK" start="2001-10-01" end="2001-10-31" weight="63"/>
+<edge source="TPA" target="JFK" start="2001-10-01" end="2001-10-31" weight="62"/>
+
+<edge source="ALB" target="JFK" start="2001-11-01" end="2001-11-30" weight="87"/>
+<edge source="ATL" target="JFK" start="2001-11-01" end="2001-11-30" weight="59"/>
+<edge source="BDL" target="JFK" start="2001-11-01" end="2001-11-30" weight="90"/>
+<edge source="BOS" target="JFK" start="2001-11-01" end="2001-11-30" weight="210"/>
+<edge source="BWI" target="JFK" start="2001-11-01" end="2001-11-30" weight="150"/>
+<edge source="CLE" target="JFK" start="2001-11-01" end="2001-11-30" weight="90"/>
+<edge source="CVG" target="JFK" start="2001-11-01" end="2001-11-30" weight="58"/>
+<edge source="DCA" target="JFK" start="2001-11-01" end="2001-11-30" weight="7"/>
+<edge source="DFW" target="JFK" start="2001-11-01" end="2001-11-30" weight="59"/>
+<edge source="DTW" target="JFK" start="2001-11-01" end="2001-11-30" weight="60"/>
+<edge source="FLL" target="JFK" start="2001-11-01" end="2001-11-30" weight="119"/>
+<edge source="IAD" target="JFK" start="2001-11-01" end="2001-11-30" weight="122"/>
+<edge source="LAS" target="JFK" start="2001-11-01" end="2001-11-30" weight="90"/>
+<edge source="LAX" target="JFK" start="2001-11-01" end="2001-11-30" weight="435"/>
+<edge source="MCO" target="JFK" start="2001-11-01" end="2001-11-30" weight="150"/>
+<edge source="MIA" target="JFK" start="2001-11-01" end="2001-11-30" weight="180"/>
+<edge source="MSP" target="JFK" start="2001-11-01" end="2001-11-30" weight="60"/>
+<edge source="ORD" target="JFK" start="2001-11-01" end="2001-11-30" weight="5"/>
+<edge source="PBI" target="JFK" start="2001-11-01" end="2001-11-30" weight="60"/>
+<edge source="PHX" target="JFK" start="2001-11-01" end="2001-11-30" weight="84"/>
+<edge source="PIT" target="JFK" start="2001-11-01" end="2001-11-30" weight="60"/>
+<edge source="RDU" target="JFK" start="2001-11-01" end="2001-11-30" weight="120"/>
+<edge source="SAN" target="JFK" start="2001-11-01" end="2001-11-30" weight="60"/>
+<edge source="SEA" target="JFK" start="2001-11-01" end="2001-11-30" weight="59"/>
+<edge source="SFO" target="JFK" start="2001-11-01" end="2001-11-30" weight="378"/>
+<edge source="SJC" target="JFK" start="2001-11-01" end="2001-11-30" weight="59"/>
+<edge source="SJU" target="JFK" start="2001-11-01" end="2001-11-30" weight="247"/>
+<edge source="SLC" target="JFK" start="2001-11-01" end="2001-11-30" weight="87"/>
+<edge source="STL" target="JFK" start="2001-11-01" end="2001-11-30" weight="90"/>
+<edge source="STT" target="JFK" start="2001-11-01" end="2001-11-30" weight="30"/>
+<edge source="SYR" target="JFK" start="2001-11-01" end="2001-11-30" weight="58"/>
+<edge source="TPA" target="JFK" start="2001-11-01" end="2001-11-30" weight="60"/>
+
+<edge source="ALB" target="JFK" start="2001-12-01" end="2001-12-31" weight="87"/>
+<edge source="ATL" target="JFK" start="2001-12-01" end="2001-12-31" weight="60"/>
+<edge source="BDL" target="JFK" start="2001-12-01" end="2001-12-31" weight="66"/>
+<edge source="BOS" target="JFK" start="2001-12-01" end="2001-12-31" weight="295"/>
+<edge source="BWI" target="JFK" start="2001-12-01" end="2001-12-31" weight="153"/>
+<edge source="CLE" target="JFK" start="2001-12-01" end="2001-12-31" weight="63"/>
+<edge source="CVG" target="JFK" start="2001-12-01" end="2001-12-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2001-12-01" end="2001-12-31" weight="77"/>
+<edge source="DTW" target="JFK" start="2001-12-01" end="2001-12-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2001-12-01" end="2001-12-31" weight="123"/>
+<edge source="IAD" target="JFK" start="2001-12-01" end="2001-12-31" weight="153"/>
+<edge source="LAS" target="JFK" start="2001-12-01" end="2001-12-31" weight="93"/>
+<edge source="LAX" target="JFK" start="2001-12-01" end="2001-12-31" weight="450"/>
+<edge source="MCO" target="JFK" start="2001-12-01" end="2001-12-31" weight="155"/>
+<edge source="MIA" target="JFK" start="2001-12-01" end="2001-12-31" weight="171"/>
+<edge source="MSP" target="JFK" start="2001-12-01" end="2001-12-31" weight="62"/>
+<edge source="ORD" target="JFK" start="2001-12-01" end="2001-12-31" weight="4"/>
+<edge source="PBI" target="JFK" start="2001-12-01" end="2001-12-31" weight="62"/>
+<edge source="PHX" target="JFK" start="2001-12-01" end="2001-12-31" weight="92"/>
+<edge source="PIT" target="JFK" start="2001-12-01" end="2001-12-31" weight="62"/>
+<edge source="RDU" target="JFK" start="2001-12-01" end="2001-12-31" weight="63"/>
+<edge source="SAN" target="JFK" start="2001-12-01" end="2001-12-31" weight="62"/>
+<edge source="SEA" target="JFK" start="2001-12-01" end="2001-12-31" weight="61"/>
+<edge source="SFO" target="JFK" start="2001-12-01" end="2001-12-31" weight="378"/>
+<edge source="SJC" target="JFK" start="2001-12-01" end="2001-12-31" weight="62"/>
+<edge source="SJU" target="JFK" start="2001-12-01" end="2001-12-31" weight="259"/>
+<edge source="SLC" target="JFK" start="2001-12-01" end="2001-12-31" weight="92"/>
+<edge source="STL" target="JFK" start="2001-12-01" end="2001-12-31" weight="93"/>
+<edge source="STT" target="JFK" start="2001-12-01" end="2001-12-31" weight="31"/>
+<edge source="SYR" target="JFK" start="2001-12-01" end="2001-12-31" weight="62"/>
+<edge source="TPA" target="JFK" start="2001-12-01" end="2001-12-31" weight="62"/>
+
+<edge source="ALB" target="JFK" start="2002-01-01" end="2002-01-31" weight="89"/>
+<edge source="ATL" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="BDL" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="BOS" target="JFK" start="2002-01-01" end="2002-01-31" weight="310"/>
+<edge source="BWI" target="JFK" start="2002-01-01" end="2002-01-31" weight="155"/>
+<edge source="CLE" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="CVG" target="JFK" start="2002-01-01" end="2002-01-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2002-01-01" end="2002-01-31" weight="93"/>
+<edge source="DTW" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2002-01-01" end="2002-01-31" weight="124"/>
+<edge source="IAD" target="JFK" start="2002-01-01" end="2002-01-31" weight="155"/>
+<edge source="LAS" target="JFK" start="2002-01-01" end="2002-01-31" weight="93"/>
+<edge source="LAX" target="JFK" start="2002-01-01" end="2002-01-31" weight="489"/>
+<edge source="MCO" target="JFK" start="2002-01-01" end="2002-01-31" weight="155"/>
+<edge source="MIA" target="JFK" start="2002-01-01" end="2002-01-31" weight="181"/>
+<edge source="MSP" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="ORD" target="JFK" start="2002-01-01" end="2002-01-31" weight="4"/>
+<edge source="PBI" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="PHX" target="JFK" start="2002-01-01" end="2002-01-31" weight="93"/>
+<edge source="PIT" target="JFK" start="2002-01-01" end="2002-01-31" weight="60"/>
+<edge source="RDU" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="SAN" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="SEA" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="SFO" target="JFK" start="2002-01-01" end="2002-01-31" weight="391"/>
+<edge source="SJC" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="SJU" target="JFK" start="2002-01-01" end="2002-01-31" weight="248"/>
+<edge source="SLC" target="JFK" start="2002-01-01" end="2002-01-31" weight="93"/>
+<edge source="STL" target="JFK" start="2002-01-01" end="2002-01-31" weight="93"/>
+<edge source="STT" target="JFK" start="2002-01-01" end="2002-01-31" weight="31"/>
+<edge source="SYR" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+<edge source="TPA" target="JFK" start="2002-01-01" end="2002-01-31" weight="62"/>
+
+<edge source="ALB" target="JFK" start="2002-02-01" end="2002-02-28" weight="80"/>
+<edge source="ATL" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="BDL" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="BOS" target="JFK" start="2002-02-01" end="2002-02-28" weight="307"/>
+<edge source="BWI" target="JFK" start="2002-02-01" end="2002-02-28" weight="140"/>
+<edge source="CLE" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="CVG" target="JFK" start="2002-02-01" end="2002-02-28" weight="28"/>
+<edge source="DEN" target="JFK" start="2002-02-01" end="2002-02-28" weight="2"/>
+<edge source="DFW" target="JFK" start="2002-02-01" end="2002-02-28" weight="80"/>
+<edge source="DTW" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="FLL" target="JFK" start="2002-02-01" end="2002-02-28" weight="112"/>
+<edge source="IAD" target="JFK" start="2002-02-01" end="2002-02-28" weight="140"/>
+<edge source="LAS" target="JFK" start="2002-02-01" end="2002-02-28" weight="86"/>
+<edge source="LAX" target="JFK" start="2002-02-01" end="2002-02-28" weight="440"/>
+<edge source="MCO" target="JFK" start="2002-02-01" end="2002-02-28" weight="140"/>
+<edge source="MIA" target="JFK" start="2002-02-01" end="2002-02-28" weight="168"/>
+<edge source="MSP" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="ORD" target="JFK" start="2002-02-01" end="2002-02-28" weight="4"/>
+<edge source="PBI" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="PHX" target="JFK" start="2002-02-01" end="2002-02-28" weight="86"/>
+<edge source="PIT" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="PVD" target="JFK" start="2002-02-01" end="2002-02-28" weight="28"/>
+<edge source="RDU" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="SAN" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="SEA" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="SFO" target="JFK" start="2002-02-01" end="2002-02-28" weight="355"/>
+<edge source="SJC" target="JFK" start="2002-02-01" end="2002-02-28" weight="53"/>
+<edge source="SJU" target="JFK" start="2002-02-01" end="2002-02-28" weight="218"/>
+<edge source="SLC" target="JFK" start="2002-02-01" end="2002-02-28" weight="83"/>
+<edge source="STL" target="JFK" start="2002-02-01" end="2002-02-28" weight="84"/>
+<edge source="STT" target="JFK" start="2002-02-01" end="2002-02-28" weight="40"/>
+<edge source="SYR" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+<edge source="TPA" target="JFK" start="2002-02-01" end="2002-02-28" weight="56"/>
+
+<edge source="ALB" target="JFK" start="2002-03-01" end="2002-03-31" weight="88"/>
+<edge source="ATL" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="BDL" target="JFK" start="2002-03-01" end="2002-03-31" weight="61"/>
+<edge source="BOS" target="JFK" start="2002-03-01" end="2002-03-31" weight="340"/>
+<edge source="BWI" target="JFK" start="2002-03-01" end="2002-03-31" weight="155"/>
+<edge source="CLE" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="CVG" target="JFK" start="2002-03-01" end="2002-03-31" weight="31"/>
+<edge source="DCA" target="JFK" start="2002-03-01" end="2002-03-31" weight="179"/>
+<edge source="DFW" target="JFK" start="2002-03-01" end="2002-03-31" weight="87"/>
+<edge source="DTW" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2002-03-01" end="2002-03-31" weight="124"/>
+<edge source="IAD" target="JFK" start="2002-03-01" end="2002-03-31" weight="65"/>
+<edge source="LAS" target="JFK" start="2002-03-01" end="2002-03-31" weight="124"/>
+<edge source="LAX" target="JFK" start="2002-03-01" end="2002-03-31" weight="489"/>
+<edge source="MCO" target="JFK" start="2002-03-01" end="2002-03-31" weight="155"/>
+<edge source="MIA" target="JFK" start="2002-03-01" end="2002-03-31" weight="194"/>
+<edge source="MSP" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="OAK" target="JFK" start="2002-03-01" end="2002-03-31" weight="60"/>
+<edge source="ORD" target="JFK" start="2002-03-01" end="2002-03-31" weight="5"/>
+<edge source="PBI" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="PHX" target="JFK" start="2002-03-01" end="2002-03-31" weight="124"/>
+<edge source="PIT" target="JFK" start="2002-03-01" end="2002-03-31" weight="60"/>
+<edge source="PVD" target="JFK" start="2002-03-01" end="2002-03-31" weight="31"/>
+<edge source="RDU" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="SAN" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="SEA" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="SFO" target="JFK" start="2002-03-01" end="2002-03-31" weight="421"/>
+<edge source="SJC" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+<edge source="SJU" target="JFK" start="2002-03-01" end="2002-03-31" weight="246"/>
+<edge source="SLC" target="JFK" start="2002-03-01" end="2002-03-31" weight="92"/>
+<edge source="STL" target="JFK" start="2002-03-01" end="2002-03-31" weight="93"/>
+<edge source="STT" target="JFK" start="2002-03-01" end="2002-03-31" weight="45"/>
+<edge source="SYR" target="JFK" start="2002-03-01" end="2002-03-31" weight="61"/>
+<edge source="TPA" target="JFK" start="2002-03-01" end="2002-03-31" weight="62"/>
+
+<edge source="ALB" target="JFK" start="2002-04-01" end="2002-04-30" weight="110"/>
+<edge source="ATL" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="BDL" target="JFK" start="2002-04-01" end="2002-04-30" weight="89"/>
+<edge source="BOS" target="JFK" start="2002-04-01" end="2002-04-30" weight="378"/>
+<edge source="BWI" target="JFK" start="2002-04-01" end="2002-04-30" weight="204"/>
+<edge source="CLE" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="CVG" target="JFK" start="2002-04-01" end="2002-04-30" weight="54"/>
+<edge source="DCA" target="JFK" start="2002-04-01" end="2002-04-30" weight="150"/>
+<edge source="DFW" target="JFK" start="2002-04-01" end="2002-04-30" weight="89"/>
+<edge source="DTW" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="FLL" target="JFK" start="2002-04-01" end="2002-04-30" weight="120"/>
+<edge source="IAD" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="LAS" target="JFK" start="2002-04-01" end="2002-04-30" weight="144"/>
+<edge source="LAX" target="JFK" start="2002-04-01" end="2002-04-30" weight="499"/>
+<edge source="MCO" target="JFK" start="2002-04-01" end="2002-04-30" weight="150"/>
+<edge source="MIA" target="JFK" start="2002-04-01" end="2002-04-30" weight="180"/>
+<edge source="MSP" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="OAK" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="ORD" target="JFK" start="2002-04-01" end="2002-04-30" weight="4"/>
+<edge source="PBI" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="PHX" target="JFK" start="2002-04-01" end="2002-04-30" weight="120"/>
+<edge source="PIT" target="JFK" start="2002-04-01" end="2002-04-30" weight="89"/>
+<edge source="PVD" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="RDU" target="JFK" start="2002-04-01" end="2002-04-30" weight="106"/>
+<edge source="SAN" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="SEA" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="SFO" target="JFK" start="2002-04-01" end="2002-04-30" weight="412"/>
+<edge source="SJC" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+<edge source="SJU" target="JFK" start="2002-04-01" end="2002-04-30" weight="235"/>
+<edge source="SLC" target="JFK" start="2002-04-01" end="2002-04-30" weight="90"/>
+<edge source="STL" target="JFK" start="2002-04-01" end="2002-04-30" weight="90"/>
+<edge source="STT" target="JFK" start="2002-04-01" end="2002-04-30" weight="43"/>
+<edge source="SYR" target="JFK" start="2002-04-01" end="2002-04-30" weight="1"/>
+<edge source="TPA" target="JFK" start="2002-04-01" end="2002-04-30" weight="60"/>
+
+<edge source="ALB" target="JFK" start="2002-05-01" end="2002-05-31" weight="118"/>
+<edge source="ATL" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="BDL" target="JFK" start="2002-05-01" end="2002-05-31" weight="93"/>
+<edge source="BOS" target="JFK" start="2002-05-01" end="2002-05-31" weight="403"/>
+<edge source="BWI" target="JFK" start="2002-05-01" end="2002-05-31" weight="154"/>
+<edge source="CLE" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="CVG" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2002-05-01" end="2002-05-31" weight="186"/>
+<edge source="DFW" target="JFK" start="2002-05-01" end="2002-05-31" weight="92"/>
+<edge source="DTW" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2002-05-01" end="2002-05-31" weight="124"/>
+<edge source="IAD" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="LAS" target="JFK" start="2002-05-01" end="2002-05-31" weight="154"/>
+<edge source="LAX" target="JFK" start="2002-05-01" end="2002-05-31" weight="579"/>
+<edge source="MCO" target="JFK" start="2002-05-01" end="2002-05-31" weight="155"/>
+<edge source="MIA" target="JFK" start="2002-05-01" end="2002-05-31" weight="186"/>
+<edge source="MSP" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="OAK" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="ORD" target="JFK" start="2002-05-01" end="2002-05-31" weight="5"/>
+<edge source="PBI" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="PHX" target="JFK" start="2002-05-01" end="2002-05-31" weight="124"/>
+<edge source="PIT" target="JFK" start="2002-05-01" end="2002-05-31" weight="93"/>
+<edge source="PVD" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="RDU" target="JFK" start="2002-05-01" end="2002-05-31" weight="154"/>
+<edge source="SAN" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="SEA" target="JFK" start="2002-05-01" end="2002-05-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2002-05-01" end="2002-05-31" weight="421"/>
+<edge source="SJC" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+<edge source="SJU" target="JFK" start="2002-05-01" end="2002-05-31" weight="241"/>
+<edge source="SLC" target="JFK" start="2002-05-01" end="2002-05-31" weight="93"/>
+<edge source="STL" target="JFK" start="2002-05-01" end="2002-05-31" weight="93"/>
+<edge source="STT" target="JFK" start="2002-05-01" end="2002-05-31" weight="31"/>
+<edge source="TPA" target="JFK" start="2002-05-01" end="2002-05-31" weight="62"/>
+
+<edge source="ALB" target="JFK" start="2002-06-01" end="2002-06-30" weight="115"/>
+<edge source="ATL" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="BDL" target="JFK" start="2002-06-01" end="2002-06-30" weight="90"/>
+<edge source="BOS" target="JFK" start="2002-06-01" end="2002-06-30" weight="338"/>
+<edge source="BWI" target="JFK" start="2002-06-01" end="2002-06-30" weight="150"/>
+<edge source="CLE" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="CVG" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2002-06-01" end="2002-06-30" weight="180"/>
+<edge source="DFW" target="JFK" start="2002-06-01" end="2002-06-30" weight="90"/>
+<edge source="DTW" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="FLL" target="JFK" start="2002-06-01" end="2002-06-30" weight="180"/>
+<edge source="IAD" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="IAH" target="JFK" start="2002-06-01" end="2002-06-30" weight="33"/>
+<edge source="LAS" target="JFK" start="2002-06-01" end="2002-06-30" weight="150"/>
+<edge source="LAX" target="JFK" start="2002-06-01" end="2002-06-30" weight="614"/>
+<edge source="LGB" target="JFK" start="2002-06-01" end="2002-06-30" weight="29"/>
+<edge source="MCO" target="JFK" start="2002-06-01" end="2002-06-30" weight="179"/>
+<edge source="MIA" target="JFK" start="2002-06-01" end="2002-06-30" weight="180"/>
+<edge source="MSP" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="OAK" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="ORD" target="JFK" start="2002-06-01" end="2002-06-30" weight="4"/>
+<edge source="PBI" target="JFK" start="2002-06-01" end="2002-06-30" weight="52"/>
+<edge source="PHX" target="JFK" start="2002-06-01" end="2002-06-30" weight="150"/>
+<edge source="PIT" target="JFK" start="2002-06-01" end="2002-06-30" weight="90"/>
+<edge source="PVD" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="RDU" target="JFK" start="2002-06-01" end="2002-06-30" weight="150"/>
+<edge source="SAN" target="JFK" start="2002-06-01" end="2002-06-30" weight="60"/>
+<edge source="SEA" target="JFK" start="2002-06-01" end="2002-06-30" weight="106"/>
+<edge source="SFO" target="JFK" start="2002-06-01" end="2002-06-30" weight="409"/>
+<edge source="SJC" target="JFK" start="2002-06-01" end="2002-06-30" weight="57"/>
+<edge source="SJU" target="JFK" start="2002-06-01" end="2002-06-30" weight="244"/>
+<edge source="SLC" target="JFK" start="2002-06-01" end="2002-06-30" weight="90"/>
+<edge source="STL" target="JFK" start="2002-06-01" end="2002-06-30" weight="90"/>
+<edge source="STT" target="JFK" start="2002-06-01" end="2002-06-30" weight="23"/>
+<edge source="TPA" target="JFK" start="2002-06-01" end="2002-06-30" weight="90"/>
+
+<edge source="ALB" target="JFK" start="2002-07-01" end="2002-07-31" weight="120"/>
+<edge source="ATL" target="JFK" start="2002-07-01" end="2002-07-31" weight="62"/>
+<edge source="BDL" target="JFK" start="2002-07-01" end="2002-07-31" weight="93"/>
+<edge source="BOS" target="JFK" start="2002-07-01" end="2002-07-31" weight="387"/>
+<edge source="BWI" target="JFK" start="2002-07-01" end="2002-07-31" weight="155"/>
+<edge source="CLE" target="JFK" start="2002-07-01" end="2002-07-31" weight="62"/>
+<edge source="CVG" target="JFK" start="2002-07-01" end="2002-07-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2002-07-01" end="2002-07-31" weight="186"/>
+<edge source="DFW" target="JFK" start="2002-07-01" end="2002-07-31" weight="93"/>
+<edge source="DTW" target="JFK" start="2002-07-01" end="2002-07-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2002-07-01" end="2002-07-31" weight="186"/>
+<edge source="IAD" target="JFK" start="2002-07-01" end="2002-07-31" weight="62"/>
+<edge source="IAH" target="JFK" start="2002-07-01" end="2002-07-31" weight="57"/>
+<edge source="LAS" target="JFK" start="2002-07-01" end="2002-07-31" weight="153"/>
+<edge source="LAX" target="JFK" start="2002-07-01" end="2002-07-31" weight="637"/>
+<edge source="LGB" target="JFK" start="2002-07-01" end="2002-07-31" weight="58"/>
+<edge source="MCO" target="JFK" start="2002-07-01" end="2002-07-31" weight="215"/>
+<edge source="MIA" target="JFK" start="2002-07-01" end="2002-07-31" weight="185"/>
+<edge source="MSP" target="JFK" start="2002-07-01" end="2002-07-31" weight="62"/>
+<edge source="OAK" target="JFK" start="2002-07-01" end="2002-07-31" weight="92"/>
+<edge source="ORD" target="JFK" start="2002-07-01" end="2002-07-31" weight="4"/>
+<edge source="PBI" target="JFK" start="2002-07-01" end="2002-07-31" weight="51"/>
+<edge source="PHX" target="JFK" start="2002-07-01" end="2002-07-31" weight="150"/>
+<edge source="PIT" target="JFK" start="2002-07-01" end="2002-07-31" weight="93"/>
+<edge source="PVD" target="JFK" start="2002-07-01" end="2002-07-31" weight="62"/>
+<edge source="RDU" target="JFK" start="2002-07-01" end="2002-07-31" weight="163"/>
+<edge source="SAN" target="JFK" start="2002-07-01" end="2002-07-31" weight="62"/>
+<edge source="SEA" target="JFK" start="2002-07-01" end="2002-07-31" weight="124"/>
+<edge source="SFO" target="JFK" start="2002-07-01" end="2002-07-31" weight="426"/>
+<edge source="SJC" target="JFK" start="2002-07-01" end="2002-07-31" weight="58"/>
+<edge source="SJU" target="JFK" start="2002-07-01" end="2002-07-31" weight="255"/>
+<edge source="SLC" target="JFK" start="2002-07-01" end="2002-07-31" weight="93"/>
+<edge source="STL" target="JFK" start="2002-07-01" end="2002-07-31" weight="93"/>
+<edge source="STT" target="JFK" start="2002-07-01" end="2002-07-31" weight="18"/>
+<edge source="TPA" target="JFK" start="2002-07-01" end="2002-07-31" weight="92"/>
+
+<edge source="ALB" target="JFK" start="2002-08-01" end="2002-08-31" weight="119"/>
+<edge source="ATL" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="BDL" target="JFK" start="2002-08-01" end="2002-08-31" weight="93"/>
+<edge source="BOS" target="JFK" start="2002-08-01" end="2002-08-31" weight="351"/>
+<edge source="BWI" target="JFK" start="2002-08-01" end="2002-08-31" weight="155"/>
+<edge source="CLE" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="CVG" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2002-08-01" end="2002-08-31" weight="186"/>
+<edge source="DFW" target="JFK" start="2002-08-01" end="2002-08-31" weight="93"/>
+<edge source="DTW" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2002-08-01" end="2002-08-31" weight="186"/>
+<edge source="IAD" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="IAH" target="JFK" start="2002-08-01" end="2002-08-31" weight="57"/>
+<edge source="LAS" target="JFK" start="2002-08-01" end="2002-08-31" weight="155"/>
+<edge source="LAX" target="JFK" start="2002-08-01" end="2002-08-31" weight="640"/>
+<edge source="LGB" target="JFK" start="2002-08-01" end="2002-08-31" weight="57"/>
+<edge source="MCO" target="JFK" start="2002-08-01" end="2002-08-31" weight="217"/>
+<edge source="MIA" target="JFK" start="2002-08-01" end="2002-08-31" weight="186"/>
+<edge source="MSP" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="OAK" target="JFK" start="2002-08-01" end="2002-08-31" weight="93"/>
+<edge source="ORD" target="JFK" start="2002-08-01" end="2002-08-31" weight="5"/>
+<edge source="PBI" target="JFK" start="2002-08-01" end="2002-08-31" weight="53"/>
+<edge source="PHX" target="JFK" start="2002-08-01" end="2002-08-31" weight="154"/>
+<edge source="PIT" target="JFK" start="2002-08-01" end="2002-08-31" weight="92"/>
+<edge source="PVD" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="RDU" target="JFK" start="2002-08-01" end="2002-08-31" weight="155"/>
+<edge source="SAN" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="SEA" target="JFK" start="2002-08-01" end="2002-08-31" weight="124"/>
+<edge source="SFO" target="JFK" start="2002-08-01" end="2002-08-31" weight="427"/>
+<edge source="SJC" target="JFK" start="2002-08-01" end="2002-08-31" weight="57"/>
+<edge source="SJU" target="JFK" start="2002-08-01" end="2002-08-31" weight="257"/>
+<edge source="SLC" target="JFK" start="2002-08-01" end="2002-08-31" weight="93"/>
+<edge source="STL" target="JFK" start="2002-08-01" end="2002-08-31" weight="62"/>
+<edge source="STT" target="JFK" start="2002-08-01" end="2002-08-31" weight="18"/>
+<edge source="TPA" target="JFK" start="2002-08-01" end="2002-08-31" weight="93"/>
+
+<edge source="ALB" target="JFK" start="2002-09-01" end="2002-09-30" weight="118"/>
+<edge source="ATL" target="JFK" start="2002-09-01" end="2002-09-30" weight="59"/>
+<edge source="BDL" target="JFK" start="2002-09-01" end="2002-09-30" weight="88"/>
+<edge source="BOS" target="JFK" start="2002-09-01" end="2002-09-30" weight="284"/>
+<edge source="BWI" target="JFK" start="2002-09-01" end="2002-09-30" weight="149"/>
+<edge source="CLE" target="JFK" start="2002-09-01" end="2002-09-30" weight="60"/>
+<edge source="CVG" target="JFK" start="2002-09-01" end="2002-09-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2002-09-01" end="2002-09-30" weight="180"/>
+<edge source="DFW" target="JFK" start="2002-09-01" end="2002-09-30" weight="89"/>
+<edge source="DTW" target="JFK" start="2002-09-01" end="2002-09-30" weight="60"/>
+<edge source="FLL" target="JFK" start="2002-09-01" end="2002-09-30" weight="177"/>
+<edge source="IAD" target="JFK" start="2002-09-01" end="2002-09-30" weight="60"/>
+<edge source="IAH" target="JFK" start="2002-09-01" end="2002-09-30" weight="55"/>
+<edge source="LAS" target="JFK" start="2002-09-01" end="2002-09-30" weight="150"/>
+<edge source="LAX" target="JFK" start="2002-09-01" end="2002-09-30" weight="602"/>
+<edge source="LGB" target="JFK" start="2002-09-01" end="2002-09-30" weight="55"/>
+<edge source="MCO" target="JFK" start="2002-09-01" end="2002-09-30" weight="206"/>
+<edge source="MIA" target="JFK" start="2002-09-01" end="2002-09-30" weight="180"/>
+<edge source="MSP" target="JFK" start="2002-09-01" end="2002-09-30" weight="58"/>
+<edge source="OAK" target="JFK" start="2002-09-01" end="2002-09-30" weight="89"/>
+<edge source="ORD" target="JFK" start="2002-09-01" end="2002-09-30" weight="1"/>
+<edge source="PBI" target="JFK" start="2002-09-01" end="2002-09-30" weight="56"/>
+<edge source="PHX" target="JFK" start="2002-09-01" end="2002-09-30" weight="150"/>
+<edge source="PIT" target="JFK" start="2002-09-01" end="2002-09-30" weight="90"/>
+<edge source="PVD" target="JFK" start="2002-09-01" end="2002-09-30" weight="87"/>
+<edge source="RDU" target="JFK" start="2002-09-01" end="2002-09-30" weight="123"/>
+<edge source="SAN" target="JFK" start="2002-09-01" end="2002-09-30" weight="59"/>
+<edge source="SEA" target="JFK" start="2002-09-01" end="2002-09-30" weight="120"/>
+<edge source="SFO" target="JFK" start="2002-09-01" end="2002-09-30" weight="375"/>
+<edge source="SJC" target="JFK" start="2002-09-01" end="2002-09-30" weight="58"/>
+<edge source="SJU" target="JFK" start="2002-09-01" end="2002-09-30" weight="213"/>
+<edge source="SLC" target="JFK" start="2002-09-01" end="2002-09-30" weight="90"/>
+<edge source="STL" target="JFK" start="2002-09-01" end="2002-09-30" weight="59"/>
+<edge source="STT" target="JFK" start="2002-09-01" end="2002-09-30" weight="17"/>
+<edge source="TPA" target="JFK" start="2002-09-01" end="2002-09-30" weight="85"/>
+
+<edge source="ALB" target="JFK" start="2002-10-01" end="2002-10-31" weight="124"/>
+<edge source="ATL" target="JFK" start="2002-10-01" end="2002-10-31" weight="62"/>
+<edge source="BDL" target="JFK" start="2002-10-01" end="2002-10-31" weight="93"/>
+<edge source="BOS" target="JFK" start="2002-10-01" end="2002-10-31" weight="226"/>
+<edge source="BWI" target="JFK" start="2002-10-01" end="2002-10-31" weight="155"/>
+<edge source="CLE" target="JFK" start="2002-10-01" end="2002-10-31" weight="62"/>
+<edge source="CVG" target="JFK" start="2002-10-01" end="2002-10-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2002-10-01" end="2002-10-31" weight="217"/>
+<edge source="DFW" target="JFK" start="2002-10-01" end="2002-10-31" weight="93"/>
+<edge source="DTW" target="JFK" start="2002-10-01" end="2002-10-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2002-10-01" end="2002-10-31" weight="186"/>
+<edge source="IAD" target="JFK" start="2002-10-01" end="2002-10-31" weight="62"/>
+<edge source="IAH" target="JFK" start="2002-10-01" end="2002-10-31" weight="58"/>
+<edge source="LAS" target="JFK" start="2002-10-01" end="2002-10-31" weight="149"/>
+<edge source="LAX" target="JFK" start="2002-10-01" end="2002-10-31" weight="662"/>
+<edge source="LGB" target="JFK" start="2002-10-01" end="2002-10-31" weight="58"/>
+<edge source="MCO" target="JFK" start="2002-10-01" end="2002-10-31" weight="217"/>
+<edge source="MIA" target="JFK" start="2002-10-01" end="2002-10-31" weight="184"/>
+<edge source="MSP" target="JFK" start="2002-10-01" end="2002-10-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2002-10-01" end="2002-10-31" weight="93"/>
+<edge source="PBI" target="JFK" start="2002-10-01" end="2002-10-31" weight="62"/>
+<edge source="PHX" target="JFK" start="2002-10-01" end="2002-10-31" weight="155"/>
+<edge source="PIT" target="JFK" start="2002-10-01" end="2002-10-31" weight="93"/>
+<edge source="PVD" target="JFK" start="2002-10-01" end="2002-10-31" weight="93"/>
+<edge source="RDU" target="JFK" start="2002-10-01" end="2002-10-31" weight="124"/>
+<edge source="SAN" target="JFK" start="2002-10-01" end="2002-10-31" weight="62"/>
+<edge source="SEA" target="JFK" start="2002-10-01" end="2002-10-31" weight="124"/>
+<edge source="SFO" target="JFK" start="2002-10-01" end="2002-10-31" weight="388"/>
+<edge source="SJC" target="JFK" start="2002-10-01" end="2002-10-31" weight="31"/>
+<edge source="SJU" target="JFK" start="2002-10-01" end="2002-10-31" weight="217"/>
+<edge source="SLC" target="JFK" start="2002-10-01" end="2002-10-31" weight="93"/>
+<edge source="STL" target="JFK" start="2002-10-01" end="2002-10-31" weight="61"/>
+<edge source="STT" target="JFK" start="2002-10-01" end="2002-10-31" weight="17"/>
+<edge source="TPA" target="JFK" start="2002-10-01" end="2002-10-31" weight="93"/>
+
+<edge source="ALB" target="JFK" start="2002-11-01" end="2002-11-30" weight="91"/>
+<edge source="ATL" target="JFK" start="2002-11-01" end="2002-11-30" weight="60"/>
+<edge source="BDL" target="JFK" start="2002-11-01" end="2002-11-30" weight="90"/>
+<edge source="BOS" target="JFK" start="2002-11-01" end="2002-11-30" weight="150"/>
+<edge source="BWI" target="JFK" start="2002-11-01" end="2002-11-30" weight="120"/>
+<edge source="CLE" target="JFK" start="2002-11-01" end="2002-11-30" weight="60"/>
+<edge source="CVG" target="JFK" start="2002-11-01" end="2002-11-30" weight="58"/>
+<edge source="DCA" target="JFK" start="2002-11-01" end="2002-11-30" weight="209"/>
+<edge source="DFW" target="JFK" start="2002-11-01" end="2002-11-30" weight="88"/>
+<edge source="DTW" target="JFK" start="2002-11-01" end="2002-11-30" weight="60"/>
+<edge source="FLL" target="JFK" start="2002-11-01" end="2002-11-30" weight="240"/>
+<edge source="IAD" target="JFK" start="2002-11-01" end="2002-11-30" weight="60"/>
+<edge source="IAH" target="JFK" start="2002-11-01" end="2002-11-30" weight="51"/>
+<edge source="LAS" target="JFK" start="2002-11-01" end="2002-11-30" weight="117"/>
+<edge source="LAX" target="JFK" start="2002-11-01" end="2002-11-30" weight="626"/>
+<edge source="LGB" target="JFK" start="2002-11-01" end="2002-11-30" weight="55"/>
+<edge source="MCO" target="JFK" start="2002-11-01" end="2002-11-30" weight="236"/>
+<edge source="MIA" target="JFK" start="2002-11-01" end="2002-11-30" weight="150"/>
+<edge source="MSP" target="JFK" start="2002-11-01" end="2002-11-30" weight="30"/>
+<edge source="OAK" target="JFK" start="2002-11-01" end="2002-11-30" weight="89"/>
+<edge source="ORD" target="JFK" start="2002-11-01" end="2002-11-30" weight="5"/>
+<edge source="PBI" target="JFK" start="2002-11-01" end="2002-11-30" weight="59"/>
+<edge source="PHX" target="JFK" start="2002-11-01" end="2002-11-30" weight="145"/>
+<edge source="PIT" target="JFK" start="2002-11-01" end="2002-11-30" weight="90"/>
+<edge source="PVD" target="JFK" start="2002-11-01" end="2002-11-30" weight="90"/>
+<edge source="RDU" target="JFK" start="2002-11-01" end="2002-11-30" weight="120"/>
+<edge source="SAN" target="JFK" start="2002-11-01" end="2002-11-30" weight="59"/>
+<edge source="SEA" target="JFK" start="2002-11-01" end="2002-11-30" weight="90"/>
+<edge source="SFO" target="JFK" start="2002-11-01" end="2002-11-30" weight="367"/>
+<edge source="SJC" target="JFK" start="2002-11-01" end="2002-11-30" weight="30"/>
+<edge source="SJU" target="JFK" start="2002-11-01" end="2002-11-30" weight="219"/>
+<edge source="SLC" target="JFK" start="2002-11-01" end="2002-11-30" weight="88"/>
+<edge source="STL" target="JFK" start="2002-11-01" end="2002-11-30" weight="53"/>
+<edge source="STT" target="JFK" start="2002-11-01" end="2002-11-30" weight="30"/>
+<edge source="TPA" target="JFK" start="2002-11-01" end="2002-11-30" weight="88"/>
+
+<edge source="ALB" target="JFK" start="2002-12-01" end="2002-12-31" weight="69"/>
+<edge source="ATL" target="JFK" start="2002-12-01" end="2002-12-31" weight="67"/>
+<edge source="BDL" target="JFK" start="2002-12-01" end="2002-12-31" weight="93"/>
+<edge source="BOS" target="JFK" start="2002-12-01" end="2002-12-31" weight="189"/>
+<edge source="BWI" target="JFK" start="2002-12-01" end="2002-12-31" weight="95"/>
+<edge source="CLE" target="JFK" start="2002-12-01" end="2002-12-31" weight="61"/>
+<edge source="CVG" target="JFK" start="2002-12-01" end="2002-12-31" weight="60"/>
+<edge source="DCA" target="JFK" start="2002-12-01" end="2002-12-31" weight="216"/>
+<edge source="DFW" target="JFK" start="2002-12-01" end="2002-12-31" weight="93"/>
+<edge source="DTW" target="JFK" start="2002-12-01" end="2002-12-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2002-12-01" end="2002-12-31" weight="244"/>
+<edge source="IAD" target="JFK" start="2002-12-01" end="2002-12-31" weight="62"/>
+<edge source="IAH" target="JFK" start="2002-12-01" end="2002-12-31" weight="38"/>
+<edge source="LAS" target="JFK" start="2002-12-01" end="2002-12-31" weight="115"/>
+<edge source="LAX" target="JFK" start="2002-12-01" end="2002-12-31" weight="629"/>
+<edge source="LGB" target="JFK" start="2002-12-01" end="2002-12-31" weight="58"/>
+<edge source="MCO" target="JFK" start="2002-12-01" end="2002-12-31" weight="243"/>
+<edge source="MIA" target="JFK" start="2002-12-01" end="2002-12-31" weight="157"/>
+<edge source="MSP" target="JFK" start="2002-12-01" end="2002-12-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2002-12-01" end="2002-12-31" weight="88"/>
+<edge source="ORD" target="JFK" start="2002-12-01" end="2002-12-31" weight="6"/>
+<edge source="PBI" target="JFK" start="2002-12-01" end="2002-12-31" weight="62"/>
+<edge source="PHX" target="JFK" start="2002-12-01" end="2002-12-31" weight="143"/>
+<edge source="PIT" target="JFK" start="2002-12-01" end="2002-12-31" weight="62"/>
+<edge source="PVD" target="JFK" start="2002-12-01" end="2002-12-31" weight="93"/>
+<edge source="RDU" target="JFK" start="2002-12-01" end="2002-12-31" weight="124"/>
+<edge source="SAN" target="JFK" start="2002-12-01" end="2002-12-31" weight="60"/>
+<edge source="SEA" target="JFK" start="2002-12-01" end="2002-12-31" weight="92"/>
+<edge source="SFO" target="JFK" start="2002-12-01" end="2002-12-31" weight="386"/>
+<edge source="SJC" target="JFK" start="2002-12-01" end="2002-12-31" weight="31"/>
+<edge source="SJU" target="JFK" start="2002-12-01" end="2002-12-31" weight="238"/>
+<edge source="SLC" target="JFK" start="2002-12-01" end="2002-12-31" weight="93"/>
+<edge source="STL" target="JFK" start="2002-12-01" end="2002-12-31" weight="57"/>
+<edge source="STT" target="JFK" start="2002-12-01" end="2002-12-31" weight="46"/>
+<edge source="TPA" target="JFK" start="2002-12-01" end="2002-12-31" weight="84"/>
+
+<edge source="ALB" target="JFK" start="2003-01-01" end="2003-01-31" weight="62"/>
+<edge source="ATL" target="JFK" start="2003-01-01" end="2003-01-31" weight="162"/>
+<edge source="BDL" target="JFK" start="2003-01-01" end="2003-01-31" weight="62"/>
+<edge source="BOS" target="JFK" start="2003-01-01" end="2003-01-31" weight="377"/>
+<edge source="BTV" target="JFK" start="2003-01-01" end="2003-01-31" weight="62"/>
+<edge source="BUF" target="JFK" start="2003-01-01" end="2003-01-31" weight="147"/>
+<edge source="BWI" target="JFK" start="2003-01-01" end="2003-01-31" weight="124"/>
+<edge source="CLE" target="JFK" start="2003-01-01" end="2003-01-31" weight="93"/>
+<edge source="CVG" target="JFK" start="2003-01-01" end="2003-01-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2003-01-01" end="2003-01-31" weight="248"/>
+<edge source="DEN" target="JFK" start="2003-01-01" end="2003-01-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2003-01-01" end="2003-01-31" weight="93"/>
+<edge source="DTW" target="JFK" start="2003-01-01" end="2003-01-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2003-01-01" end="2003-01-31" weight="547"/>
+<edge source="IAD" target="JFK" start="2003-01-01" end="2003-01-31" weight="319"/>
+<edge source="IAH" target="JFK" start="2003-01-01" end="2003-01-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2003-01-01" end="2003-01-31" weight="196"/>
+<edge source="LAX" target="JFK" start="2003-01-01" end="2003-01-31" weight="590"/>
+<edge source="LGB" target="JFK" start="2003-01-01" end="2003-01-31" weight="213"/>
+<edge source="MCO" target="JFK" start="2003-01-01" end="2003-01-31" weight="435"/>
+<edge source="MIA" target="JFK" start="2003-01-01" end="2003-01-31" weight="154"/>
+<edge source="MSP" target="JFK" start="2003-01-01" end="2003-01-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2003-01-01" end="2003-01-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2003-01-01" end="2003-01-31" weight="210"/>
+<edge source="ONT" target="JFK" start="2003-01-01" end="2003-01-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2003-01-01" end="2003-01-31" weight="9"/>
+<edge source="PBI" target="JFK" start="2003-01-01" end="2003-01-31" weight="248"/>
+<edge source="PHX" target="JFK" start="2003-01-01" end="2003-01-31" weight="124"/>
+<edge source="PIT" target="JFK" start="2003-01-01" end="2003-01-31" weight="93"/>
+<edge source="PVD" target="JFK" start="2003-01-01" end="2003-01-31" weight="93"/>
+<edge source="RDU" target="JFK" start="2003-01-01" end="2003-01-31" weight="94"/>
+<edge source="ROC" target="JFK" start="2003-01-01" end="2003-01-31" weight="120"/>
+<edge source="RSW" target="JFK" start="2003-01-01" end="2003-01-31" weight="98"/>
+<edge source="SAN" target="JFK" start="2003-01-01" end="2003-01-31" weight="40"/>
+<edge source="SEA" target="JFK" start="2003-01-01" end="2003-01-31" weight="124"/>
+<edge source="SFO" target="JFK" start="2003-01-01" end="2003-01-31" weight="365"/>
+<edge source="SJC" target="JFK" start="2003-01-01" end="2003-01-31" weight="31"/>
+<edge source="SJU" target="JFK" start="2003-01-01" end="2003-01-31" weight="338"/>
+<edge source="SLC" target="JFK" start="2003-01-01" end="2003-01-31" weight="124"/>
+<edge source="STL" target="JFK" start="2003-01-01" end="2003-01-31" weight="58"/>
+<edge source="STT" target="JFK" start="2003-01-01" end="2003-01-31" weight="53"/>
+<edge source="SYR" target="JFK" start="2003-01-01" end="2003-01-31" weight="62"/>
+<edge source="TPA" target="JFK" start="2003-01-01" end="2003-01-31" weight="213"/>
+
+<edge source="ALB" target="JFK" start="2003-02-01" end="2003-02-28" weight="57"/>
+<edge source="ATL" target="JFK" start="2003-02-01" end="2003-02-28" weight="144"/>
+<edge source="BDL" target="JFK" start="2003-02-01" end="2003-02-28" weight="56"/>
+<edge source="BOS" target="JFK" start="2003-02-01" end="2003-02-28" weight="356"/>
+<edge source="BTV" target="JFK" start="2003-02-01" end="2003-02-28" weight="56"/>
+<edge source="BUF" target="JFK" start="2003-02-01" end="2003-02-28" weight="132"/>
+<edge source="BWI" target="JFK" start="2003-02-01" end="2003-02-28" weight="111"/>
+<edge source="CLE" target="JFK" start="2003-02-01" end="2003-02-28" weight="84"/>
+<edge source="CVG" target="JFK" start="2003-02-01" end="2003-02-28" weight="56"/>
+<edge source="DCA" target="JFK" start="2003-02-01" end="2003-02-28" weight="224"/>
+<edge source="DEN" target="JFK" start="2003-02-01" end="2003-02-28" weight="27"/>
+<edge source="DFW" target="JFK" start="2003-02-01" end="2003-02-28" weight="84"/>
+<edge source="DTW" target="JFK" start="2003-02-01" end="2003-02-28" weight="56"/>
+<edge source="FLL" target="JFK" start="2003-02-01" end="2003-02-28" weight="533"/>
+<edge source="IAD" target="JFK" start="2003-02-01" end="2003-02-28" weight="234"/>
+<edge source="IAH" target="JFK" start="2003-02-01" end="2003-02-28" weight="28"/>
+<edge source="LAS" target="JFK" start="2003-02-01" end="2003-02-28" weight="204"/>
+<edge source="LAX" target="JFK" start="2003-02-01" end="2003-02-28" weight="501"/>
+<edge source="LGB" target="JFK" start="2003-02-01" end="2003-02-28" weight="200"/>
+<edge source="MCO" target="JFK" start="2003-02-01" end="2003-02-28" weight="398"/>
+<edge source="MIA" target="JFK" start="2003-02-01" end="2003-02-28" weight="139"/>
+<edge source="MSP" target="JFK" start="2003-02-01" end="2003-02-28" weight="28"/>
+<edge source="MSY" target="JFK" start="2003-02-01" end="2003-02-28" weight="28"/>
+<edge source="OAK" target="JFK" start="2003-02-01" end="2003-02-28" weight="161"/>
+<edge source="ONT" target="JFK" start="2003-02-01" end="2003-02-28" weight="28"/>
+<edge source="ORD" target="JFK" start="2003-02-01" end="2003-02-28" weight="7"/>
+<edge source="PBI" target="JFK" start="2003-02-01" end="2003-02-28" weight="266"/>
+<edge source="PHX" target="JFK" start="2003-02-01" end="2003-02-28" weight="112"/>
+<edge source="PIT" target="JFK" start="2003-02-01" end="2003-02-28" weight="70"/>
+<edge source="PVD" target="JFK" start="2003-02-01" end="2003-02-28" weight="72"/>
+<edge source="RDU" target="JFK" start="2003-02-01" end="2003-02-28" weight="84"/>
+<edge source="ROC" target="JFK" start="2003-02-01" end="2003-02-28" weight="108"/>
+<edge source="RSW" target="JFK" start="2003-02-01" end="2003-02-28" weight="121"/>
+<edge source="SAN" target="JFK" start="2003-02-01" end="2003-02-28" weight="28"/>
+<edge source="SEA" target="JFK" start="2003-02-01" end="2003-02-28" weight="111"/>
+<edge source="SFO" target="JFK" start="2003-02-01" end="2003-02-28" weight="320"/>
+<edge source="SJC" target="JFK" start="2003-02-01" end="2003-02-28" weight="28"/>
+<edge source="SJU" target="JFK" start="2003-02-01" end="2003-02-28" weight="308"/>
+<edge source="SLC" target="JFK" start="2003-02-01" end="2003-02-28" weight="111"/>
+<edge source="STL" target="JFK" start="2003-02-01" end="2003-02-28" weight="52"/>
+<edge source="STT" target="JFK" start="2003-02-01" end="2003-02-28" weight="52"/>
+<edge source="SYR" target="JFK" start="2003-02-01" end="2003-02-28" weight="56"/>
+<edge source="TPA" target="JFK" start="2003-02-01" end="2003-02-28" weight="196"/>
+
+<edge source="ALB" target="JFK" start="2003-03-01" end="2003-03-31" weight="62"/>
+<edge source="ATL" target="JFK" start="2003-03-01" end="2003-03-31" weight="157"/>
+<edge source="BDL" target="JFK" start="2003-03-01" end="2003-03-31" weight="62"/>
+<edge source="BOS" target="JFK" start="2003-03-01" end="2003-03-31" weight="427"/>
+<edge source="BTV" target="JFK" start="2003-03-01" end="2003-03-31" weight="62"/>
+<edge source="BUF" target="JFK" start="2003-03-01" end="2003-03-31" weight="150"/>
+<edge source="BWI" target="JFK" start="2003-03-01" end="2003-03-31" weight="124"/>
+<edge source="CLE" target="JFK" start="2003-03-01" end="2003-03-31" weight="93"/>
+<edge source="CVG" target="JFK" start="2003-03-01" end="2003-03-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2003-03-01" end="2003-03-31" weight="261"/>
+<edge source="DEN" target="JFK" start="2003-03-01" end="2003-03-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2003-03-01" end="2003-03-31" weight="91"/>
+<edge source="DTW" target="JFK" start="2003-03-01" end="2003-03-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2003-03-01" end="2003-03-31" weight="620"/>
+<edge source="IAD" target="JFK" start="2003-03-01" end="2003-03-31" weight="219"/>
+<edge source="IAH" target="JFK" start="2003-03-01" end="2003-03-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2003-03-01" end="2003-03-31" weight="248"/>
+<edge source="LAX" target="JFK" start="2003-03-01" end="2003-03-31" weight="573"/>
+<edge source="LGB" target="JFK" start="2003-03-01" end="2003-03-31" weight="271"/>
+<edge source="MCO" target="JFK" start="2003-03-01" end="2003-03-31" weight="465"/>
+<edge source="MIA" target="JFK" start="2003-03-01" end="2003-03-31" weight="155"/>
+<edge source="MSP" target="JFK" start="2003-03-01" end="2003-03-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2003-03-01" end="2003-03-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2003-03-01" end="2003-03-31" weight="125"/>
+<edge source="ONT" target="JFK" start="2003-03-01" end="2003-03-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2003-03-01" end="2003-03-31" weight="9"/>
+<edge source="PBI" target="JFK" start="2003-03-01" end="2003-03-31" weight="310"/>
+<edge source="PHX" target="JFK" start="2003-03-01" end="2003-03-31" weight="124"/>
+<edge source="PIT" target="JFK" start="2003-03-01" end="2003-03-31" weight="93"/>
+<edge source="PVD" target="JFK" start="2003-03-01" end="2003-03-31" weight="62"/>
+<edge source="RDU" target="JFK" start="2003-03-01" end="2003-03-31" weight="97"/>
+<edge source="ROC" target="JFK" start="2003-03-01" end="2003-03-31" weight="119"/>
+<edge source="RSW" target="JFK" start="2003-03-01" end="2003-03-31" weight="154"/>
+<edge source="SAN" target="JFK" start="2003-03-01" end="2003-03-31" weight="31"/>
+<edge source="SEA" target="JFK" start="2003-03-01" end="2003-03-31" weight="124"/>
+<edge source="SFO" target="JFK" start="2003-03-01" end="2003-03-31" weight="362"/>
+<edge source="SJC" target="JFK" start="2003-03-01" end="2003-03-31" weight="57"/>
+<edge source="SJU" target="JFK" start="2003-03-01" end="2003-03-31" weight="321"/>
+<edge source="SLC" target="JFK" start="2003-03-01" end="2003-03-31" weight="124"/>
+<edge source="STL" target="JFK" start="2003-03-01" end="2003-03-31" weight="57"/>
+<edge source="STT" target="JFK" start="2003-03-01" end="2003-03-31" weight="58"/>
+<edge source="SYR" target="JFK" start="2003-03-01" end="2003-03-31" weight="62"/>
+<edge source="TPA" target="JFK" start="2003-03-01" end="2003-03-31" weight="252"/>
+
+<edge source="ALB" target="JFK" start="2003-04-01" end="2003-04-30" weight="60"/>
+<edge source="ATL" target="JFK" start="2003-04-01" end="2003-04-30" weight="154"/>
+<edge source="BDL" target="JFK" start="2003-04-01" end="2003-04-30" weight="60"/>
+<edge source="BOS" target="JFK" start="2003-04-01" end="2003-04-30" weight="374"/>
+<edge source="BTV" target="JFK" start="2003-04-01" end="2003-04-30" weight="60"/>
+<edge source="BUF" target="JFK" start="2003-04-01" end="2003-04-30" weight="146"/>
+<edge source="BWI" target="JFK" start="2003-04-01" end="2003-04-30" weight="91"/>
+<edge source="CLE" target="JFK" start="2003-04-01" end="2003-04-30" weight="102"/>
+<edge source="CVG" target="JFK" start="2003-04-01" end="2003-04-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2003-04-01" end="2003-04-30" weight="252"/>
+<edge source="DEN" target="JFK" start="2003-04-01" end="2003-04-30" weight="30"/>
+<edge source="DFW" target="JFK" start="2003-04-01" end="2003-04-30" weight="90"/>
+<edge source="DTW" target="JFK" start="2003-04-01" end="2003-04-30" weight="60"/>
+<edge source="FLL" target="JFK" start="2003-04-01" end="2003-04-30" weight="600"/>
+<edge source="IAD" target="JFK" start="2003-04-01" end="2003-04-30" weight="199"/>
+<edge source="IAH" target="JFK" start="2003-04-01" end="2003-04-30" weight="30"/>
+<edge source="LAS" target="JFK" start="2003-04-01" end="2003-04-30" weight="240"/>
+<edge source="LAX" target="JFK" start="2003-04-01" end="2003-04-30" weight="532"/>
+<edge source="LGB" target="JFK" start="2003-04-01" end="2003-04-30" weight="262"/>
+<edge source="MCO" target="JFK" start="2003-04-01" end="2003-04-30" weight="425"/>
+<edge source="MIA" target="JFK" start="2003-04-01" end="2003-04-30" weight="150"/>
+<edge source="MSP" target="JFK" start="2003-04-01" end="2003-04-30" weight="30"/>
+<edge source="MSY" target="JFK" start="2003-04-01" end="2003-04-30" weight="30"/>
+<edge source="OAK" target="JFK" start="2003-04-01" end="2003-04-30" weight="120"/>
+<edge source="ONT" target="JFK" start="2003-04-01" end="2003-04-30" weight="30"/>
+<edge source="ORD" target="JFK" start="2003-04-01" end="2003-04-30" weight="5"/>
+<edge source="PBI" target="JFK" start="2003-04-01" end="2003-04-30" weight="300"/>
+<edge source="PHL" target="JFK" start="2003-04-01" end="2003-04-30" weight="25"/>
+<edge source="PHX" target="JFK" start="2003-04-01" end="2003-04-30" weight="120"/>
+<edge source="PIT" target="JFK" start="2003-04-01" end="2003-04-30" weight="65"/>
+<edge source="PVD" target="JFK" start="2003-04-01" end="2003-04-30" weight="52"/>
+<edge source="RDU" target="JFK" start="2003-04-01" end="2003-04-30" weight="119"/>
+<edge source="ROC" target="JFK" start="2003-04-01" end="2003-04-30" weight="116"/>
+<edge source="RSW" target="JFK" start="2003-04-01" end="2003-04-30" weight="150"/>
+<edge source="SAN" target="JFK" start="2003-04-01" end="2003-04-30" weight="30"/>
+<edge source="SEA" target="JFK" start="2003-04-01" end="2003-04-30" weight="94"/>
+<edge source="SFO" target="JFK" start="2003-04-01" end="2003-04-30" weight="325"/>
+<edge source="SJC" target="JFK" start="2003-04-01" end="2003-04-30" weight="59"/>
+<edge source="SJU" target="JFK" start="2003-04-01" end="2003-04-30" weight="303"/>
+<edge source="SLC" target="JFK" start="2003-04-01" end="2003-04-30" weight="120"/>
+<edge source="SNA" target="JFK" start="2003-04-01" end="2003-04-30" weight="60"/>
+<edge source="STL" target="JFK" start="2003-04-01" end="2003-04-30" weight="56"/>
+<edge source="STT" target="JFK" start="2003-04-01" end="2003-04-30" weight="42"/>
+<edge source="SYR" target="JFK" start="2003-04-01" end="2003-04-30" weight="60"/>
+<edge source="TPA" target="JFK" start="2003-04-01" end="2003-04-30" weight="245"/>
+
+<edge source="ATL" target="JFK" start="2003-05-01" end="2003-05-31" weight="161"/>
+<edge source="BDL" target="JFK" start="2003-05-01" end="2003-05-31" weight="1"/>
+<edge source="BOS" target="JFK" start="2003-05-01" end="2003-05-31" weight="377"/>
+<edge source="BTV" target="JFK" start="2003-05-01" end="2003-05-31" weight="62"/>
+<edge source="BUF" target="JFK" start="2003-05-01" end="2003-05-31" weight="146"/>
+<edge source="CLE" target="JFK" start="2003-05-01" end="2003-05-31" weight="50"/>
+<edge source="CVG" target="JFK" start="2003-05-01" end="2003-05-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2003-05-01" end="2003-05-31" weight="222"/>
+<edge source="DEN" target="JFK" start="2003-05-01" end="2003-05-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2003-05-01" end="2003-05-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2003-05-01" end="2003-05-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2003-05-01" end="2003-05-31" weight="527"/>
+<edge source="IAD" target="JFK" start="2003-05-01" end="2003-05-31" weight="227"/>
+<edge source="IAH" target="JFK" start="2003-05-01" end="2003-05-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2003-05-01" end="2003-05-31" weight="248"/>
+<edge source="LAX" target="JFK" start="2003-05-01" end="2003-05-31" weight="487"/>
+<edge source="LGB" target="JFK" start="2003-05-01" end="2003-05-31" weight="268"/>
+<edge source="MCO" target="JFK" start="2003-05-01" end="2003-05-31" weight="310"/>
+<edge source="MIA" target="JFK" start="2003-05-01" end="2003-05-31" weight="155"/>
+<edge source="MSP" target="JFK" start="2003-05-01" end="2003-05-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2003-05-01" end="2003-05-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2003-05-01" end="2003-05-31" weight="155"/>
+<edge source="ONT" target="JFK" start="2003-05-01" end="2003-05-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2003-05-01" end="2003-05-31" weight="5"/>
+<edge source="PBI" target="JFK" start="2003-05-01" end="2003-05-31" weight="217"/>
+<edge source="PHL" target="JFK" start="2003-05-01" end="2003-05-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2003-05-01" end="2003-05-31" weight="124"/>
+<edge source="PIT" target="JFK" start="2003-05-01" end="2003-05-31" weight="1"/>
+<edge source="RDU" target="JFK" start="2003-05-01" end="2003-05-31" weight="93"/>
+<edge source="ROC" target="JFK" start="2003-05-01" end="2003-05-31" weight="120"/>
+<edge source="RSW" target="JFK" start="2003-05-01" end="2003-05-31" weight="93"/>
+<edge source="SAN" target="JFK" start="2003-05-01" end="2003-05-31" weight="31"/>
+<edge source="SEA" target="JFK" start="2003-05-01" end="2003-05-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2003-05-01" end="2003-05-31" weight="304"/>
+<edge source="SJC" target="JFK" start="2003-05-01" end="2003-05-31" weight="61"/>
+<edge source="SJU" target="JFK" start="2003-05-01" end="2003-05-31" weight="293"/>
+<edge source="SLC" target="JFK" start="2003-05-01" end="2003-05-31" weight="94"/>
+<edge source="SNA" target="JFK" start="2003-05-01" end="2003-05-31" weight="86"/>
+<edge source="STL" target="JFK" start="2003-05-01" end="2003-05-31" weight="57"/>
+<edge source="STT" target="JFK" start="2003-05-01" end="2003-05-31" weight="31"/>
+<edge source="SYR" target="JFK" start="2003-05-01" end="2003-05-31" weight="62"/>
+<edge source="TPA" target="JFK" start="2003-05-01" end="2003-05-31" weight="248"/>
+
+<edge source="ATL" target="JFK" start="2003-06-01" end="2003-06-30" weight="245"/>
+<edge source="BOS" target="JFK" start="2003-06-01" end="2003-06-30" weight="390"/>
+<edge source="BTV" target="JFK" start="2003-06-01" end="2003-06-30" weight="60"/>
+<edge source="BUF" target="JFK" start="2003-06-01" end="2003-06-30" weight="146"/>
+<edge source="CLE" target="JFK" start="2003-06-01" end="2003-06-30" weight="50"/>
+<edge source="CVG" target="JFK" start="2003-06-01" end="2003-06-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2003-06-01" end="2003-06-30" weight="214"/>
+<edge source="DEN" target="JFK" start="2003-06-01" end="2003-06-30" weight="30"/>
+<edge source="DFW" target="JFK" start="2003-06-01" end="2003-06-30" weight="60"/>
+<edge source="DTW" target="JFK" start="2003-06-01" end="2003-06-30" weight="60"/>
+<edge source="FLL" target="JFK" start="2003-06-01" end="2003-06-30" weight="460"/>
+<edge source="IAD" target="JFK" start="2003-06-01" end="2003-06-30" weight="206"/>
+<edge source="IAH" target="JFK" start="2003-06-01" end="2003-06-30" weight="30"/>
+<edge source="LAS" target="JFK" start="2003-06-01" end="2003-06-30" weight="240"/>
+<edge source="LAX" target="JFK" start="2003-06-01" end="2003-06-30" weight="491"/>
+<edge source="LGB" target="JFK" start="2003-06-01" end="2003-06-30" weight="283"/>
+<edge source="MCO" target="JFK" start="2003-06-01" end="2003-06-30" weight="302"/>
+<edge source="MIA" target="JFK" start="2003-06-01" end="2003-06-30" weight="150"/>
+<edge source="MSP" target="JFK" start="2003-06-01" end="2003-06-30" weight="30"/>
+<edge source="MSY" target="JFK" start="2003-06-01" end="2003-06-30" weight="30"/>
+<edge source="OAK" target="JFK" start="2003-06-01" end="2003-06-30" weight="154"/>
+<edge source="ONT" target="JFK" start="2003-06-01" end="2003-06-30" weight="30"/>
+<edge source="ORD" target="JFK" start="2003-06-01" end="2003-06-30" weight="4"/>
+<edge source="PBI" target="JFK" start="2003-06-01" end="2003-06-30" weight="210"/>
+<edge source="PHL" target="JFK" start="2003-06-01" end="2003-06-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2003-06-01" end="2003-06-30" weight="120"/>
+<edge source="RDU" target="JFK" start="2003-06-01" end="2003-06-30" weight="90"/>
+<edge source="ROC" target="JFK" start="2003-06-01" end="2003-06-30" weight="116"/>
+<edge source="RSW" target="JFK" start="2003-06-01" end="2003-06-30" weight="90"/>
+<edge source="SAN" target="JFK" start="2003-06-01" end="2003-06-30" weight="35"/>
+<edge source="SEA" target="JFK" start="2003-06-01" end="2003-06-30" weight="107"/>
+<edge source="SFO" target="JFK" start="2003-06-01" end="2003-06-30" weight="315"/>
+<edge source="SJC" target="JFK" start="2003-06-01" end="2003-06-30" weight="57"/>
+<edge source="SJU" target="JFK" start="2003-06-01" end="2003-06-30" weight="323"/>
+<edge source="SLC" target="JFK" start="2003-06-01" end="2003-06-30" weight="90"/>
+<edge source="SNA" target="JFK" start="2003-06-01" end="2003-06-30" weight="86"/>
+<edge source="STL" target="JFK" start="2003-06-01" end="2003-06-30" weight="56"/>
+<edge source="STT" target="JFK" start="2003-06-01" end="2003-06-30" weight="28"/>
+<edge source="SYR" target="JFK" start="2003-06-01" end="2003-06-30" weight="60"/>
+<edge source="TPA" target="JFK" start="2003-06-01" end="2003-06-30" weight="240"/>
+
+<edge source="ATL" target="JFK" start="2003-07-01" end="2003-07-31" weight="251"/>
+<edge source="BOS" target="JFK" start="2003-07-01" end="2003-07-31" weight="399"/>
+<edge source="BTV" target="JFK" start="2003-07-01" end="2003-07-31" weight="62"/>
+<edge source="BUF" target="JFK" start="2003-07-01" end="2003-07-31" weight="178"/>
+<edge source="CLE" target="JFK" start="2003-07-01" end="2003-07-31" weight="50"/>
+<edge source="CVG" target="JFK" start="2003-07-01" end="2003-07-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2003-07-01" end="2003-07-31" weight="191"/>
+<edge source="DEN" target="JFK" start="2003-07-01" end="2003-07-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2003-07-01" end="2003-07-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2003-07-01" end="2003-07-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2003-07-01" end="2003-07-31" weight="462"/>
+<edge source="IAD" target="JFK" start="2003-07-01" end="2003-07-31" weight="204"/>
+<edge source="IAH" target="JFK" start="2003-07-01" end="2003-07-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2003-07-01" end="2003-07-31" weight="248"/>
+<edge source="LAX" target="JFK" start="2003-07-01" end="2003-07-31" weight="549"/>
+<edge source="LGB" target="JFK" start="2003-07-01" end="2003-07-31" weight="305"/>
+<edge source="MCO" target="JFK" start="2003-07-01" end="2003-07-31" weight="361"/>
+<edge source="MIA" target="JFK" start="2003-07-01" end="2003-07-31" weight="155"/>
+<edge source="MSP" target="JFK" start="2003-07-01" end="2003-07-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2003-07-01" end="2003-07-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2003-07-01" end="2003-07-31" weight="217"/>
+<edge source="ONT" target="JFK" start="2003-07-01" end="2003-07-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2003-07-01" end="2003-07-31" weight="5"/>
+<edge source="PBI" target="JFK" start="2003-07-01" end="2003-07-31" weight="187"/>
+<edge source="PHL" target="JFK" start="2003-07-01" end="2003-07-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2003-07-01" end="2003-07-31" weight="124"/>
+<edge source="RDU" target="JFK" start="2003-07-01" end="2003-07-31" weight="93"/>
+<edge source="ROC" target="JFK" start="2003-07-01" end="2003-07-31" weight="124"/>
+<edge source="RSW" target="JFK" start="2003-07-01" end="2003-07-31" weight="93"/>
+<edge source="SAN" target="JFK" start="2003-07-01" end="2003-07-31" weight="80"/>
+<edge source="SEA" target="JFK" start="2003-07-01" end="2003-07-31" weight="123"/>
+<edge source="SFO" target="JFK" start="2003-07-01" end="2003-07-31" weight="336"/>
+<edge source="SJC" target="JFK" start="2003-07-01" end="2003-07-31" weight="57"/>
+<edge source="SJU" target="JFK" start="2003-07-01" end="2003-07-31" weight="408"/>
+<edge source="SLC" target="JFK" start="2003-07-01" end="2003-07-31" weight="93"/>
+<edge source="SNA" target="JFK" start="2003-07-01" end="2003-07-31" weight="88"/>
+<edge source="STL" target="JFK" start="2003-07-01" end="2003-07-31" weight="57"/>
+<edge source="STT" target="JFK" start="2003-07-01" end="2003-07-31" weight="26"/>
+<edge source="SYR" target="JFK" start="2003-07-01" end="2003-07-31" weight="62"/>
+<edge source="TPA" target="JFK" start="2003-07-01" end="2003-07-31" weight="245"/>
+
+<edge source="ATL" target="JFK" start="2003-08-01" end="2003-08-31" weight="253"/>
+<edge source="BOS" target="JFK" start="2003-08-01" end="2003-08-31" weight="398"/>
+<edge source="BTV" target="JFK" start="2003-08-01" end="2003-08-31" weight="62"/>
+<edge source="BUF" target="JFK" start="2003-08-01" end="2003-08-31" weight="176"/>
+<edge source="CLE" target="JFK" start="2003-08-01" end="2003-08-31" weight="51"/>
+<edge source="CVG" target="JFK" start="2003-08-01" end="2003-08-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2003-08-01" end="2003-08-31" weight="190"/>
+<edge source="DEN" target="JFK" start="2003-08-01" end="2003-08-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2003-08-01" end="2003-08-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2003-08-01" end="2003-08-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2003-08-01" end="2003-08-31" weight="465"/>
+<edge source="IAD" target="JFK" start="2003-08-01" end="2003-08-31" weight="203"/>
+<edge source="IAH" target="JFK" start="2003-08-01" end="2003-08-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2003-08-01" end="2003-08-31" weight="248"/>
+<edge source="LAX" target="JFK" start="2003-08-01" end="2003-08-31" weight="549"/>
+<edge source="LGB" target="JFK" start="2003-08-01" end="2003-08-31" weight="304"/>
+<edge source="MCO" target="JFK" start="2003-08-01" end="2003-08-31" weight="364"/>
+<edge source="MIA" target="JFK" start="2003-08-01" end="2003-08-31" weight="155"/>
+<edge source="MSP" target="JFK" start="2003-08-01" end="2003-08-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2003-08-01" end="2003-08-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2003-08-01" end="2003-08-31" weight="217"/>
+<edge source="ONT" target="JFK" start="2003-08-01" end="2003-08-31" weight="31"/>
+<edge source="ORD" target="JFK" start="2003-08-01" end="2003-08-31" weight="5"/>
+<edge source="PBI" target="JFK" start="2003-08-01" end="2003-08-31" weight="186"/>
+<edge source="PHL" target="JFK" start="2003-08-01" end="2003-08-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2003-08-01" end="2003-08-31" weight="124"/>
+<edge source="PVD" target="JFK" start="2003-08-01" end="2003-08-31" weight="1"/>
+<edge source="RDU" target="JFK" start="2003-08-01" end="2003-08-31" weight="93"/>
+<edge source="ROC" target="JFK" start="2003-08-01" end="2003-08-31" weight="124"/>
+<edge source="RSW" target="JFK" start="2003-08-01" end="2003-08-31" weight="93"/>
+<edge source="SAN" target="JFK" start="2003-08-01" end="2003-08-31" weight="93"/>
+<edge source="SEA" target="JFK" start="2003-08-01" end="2003-08-31" weight="124"/>
+<edge source="SFO" target="JFK" start="2003-08-01" end="2003-08-31" weight="334"/>
+<edge source="SJC" target="JFK" start="2003-08-01" end="2003-08-31" weight="57"/>
+<edge source="SJU" target="JFK" start="2003-08-01" end="2003-08-31" weight="413"/>
+<edge source="SLC" target="JFK" start="2003-08-01" end="2003-08-31" weight="93"/>
+<edge source="SNA" target="JFK" start="2003-08-01" end="2003-08-31" weight="86"/>
+<edge source="STL" target="JFK" start="2003-08-01" end="2003-08-31" weight="56"/>
+<edge source="STT" target="JFK" start="2003-08-01" end="2003-08-31" weight="27"/>
+<edge source="SWF" target="JFK" start="2003-08-01" end="2003-08-31" weight="1"/>
+<edge source="SYR" target="JFK" start="2003-08-01" end="2003-08-31" weight="62"/>
+<edge source="TPA" target="JFK" start="2003-08-01" end="2003-08-31" weight="248"/>
+
+<edge source="ATL" target="JFK" start="2003-09-01" end="2003-09-30" weight="242"/>
+<edge source="BOS" target="JFK" start="2003-09-01" end="2003-09-30" weight="386"/>
+<edge source="BTV" target="JFK" start="2003-09-01" end="2003-09-30" weight="60"/>
+<edge source="BUF" target="JFK" start="2003-09-01" end="2003-09-30" weight="172"/>
+<edge source="CLE" target="JFK" start="2003-09-01" end="2003-09-30" weight="43"/>
+<edge source="CVG" target="JFK" start="2003-09-01" end="2003-09-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2003-09-01" end="2003-09-30" weight="184"/>
+<edge source="DEN" target="JFK" start="2003-09-01" end="2003-09-30" weight="30"/>
+<edge source="DFW" target="JFK" start="2003-09-01" end="2003-09-30" weight="59"/>
+<edge source="DTW" target="JFK" start="2003-09-01" end="2003-09-30" weight="31"/>
+<edge source="FLL" target="JFK" start="2003-09-01" end="2003-09-30" weight="449"/>
+<edge source="IAD" target="JFK" start="2003-09-01" end="2003-09-30" weight="200"/>
+<edge source="IAH" target="JFK" start="2003-09-01" end="2003-09-30" weight="30"/>
+<edge source="LAS" target="JFK" start="2003-09-01" end="2003-09-30" weight="240"/>
+<edge source="LAX" target="JFK" start="2003-09-01" end="2003-09-30" weight="527"/>
+<edge source="LGB" target="JFK" start="2003-09-01" end="2003-09-30" weight="295"/>
+<edge source="MCO" target="JFK" start="2003-09-01" end="2003-09-30" weight="322"/>
+<edge source="MIA" target="JFK" start="2003-09-01" end="2003-09-30" weight="150"/>
+<edge source="MSP" target="JFK" start="2003-09-01" end="2003-09-30" weight="29"/>
+<edge source="MSY" target="JFK" start="2003-09-01" end="2003-09-30" weight="30"/>
+<edge source="OAK" target="JFK" start="2003-09-01" end="2003-09-30" weight="181"/>
+<edge source="ONT" target="JFK" start="2003-09-01" end="2003-09-30" weight="30"/>
+<edge source="PBI" target="JFK" start="2003-09-01" end="2003-09-30" weight="179"/>
+<edge source="PHL" target="JFK" start="2003-09-01" end="2003-09-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2003-09-01" end="2003-09-30" weight="120"/>
+<edge source="RDU" target="JFK" start="2003-09-01" end="2003-09-30" weight="90"/>
+<edge source="ROC" target="JFK" start="2003-09-01" end="2003-09-30" weight="120"/>
+<edge source="RSW" target="JFK" start="2003-09-01" end="2003-09-30" weight="90"/>
+<edge source="SAN" target="JFK" start="2003-09-01" end="2003-09-30" weight="118"/>
+<edge source="SEA" target="JFK" start="2003-09-01" end="2003-09-30" weight="92"/>
+<edge source="SFO" target="JFK" start="2003-09-01" end="2003-09-30" weight="323"/>
+<edge source="SJC" target="JFK" start="2003-09-01" end="2003-09-30" weight="56"/>
+<edge source="SJU" target="JFK" start="2003-09-01" end="2003-09-30" weight="299"/>
+<edge source="SLC" target="JFK" start="2003-09-01" end="2003-09-30" weight="90"/>
+<edge source="SNA" target="JFK" start="2003-09-01" end="2003-09-30" weight="86"/>
+<edge source="STL" target="JFK" start="2003-09-01" end="2003-09-30" weight="55"/>
+<edge source="STT" target="JFK" start="2003-09-01" end="2003-09-30" weight="14"/>
+<edge source="SYR" target="JFK" start="2003-09-01" end="2003-09-30" weight="60"/>
+<edge source="TPA" target="JFK" start="2003-09-01" end="2003-09-30" weight="239"/>
+
+<edge source="ATL" target="JFK" start="2003-10-01" end="2003-10-31" weight="251"/>
+<edge source="BOS" target="JFK" start="2003-10-01" end="2003-10-31" weight="336"/>
+<edge source="BTV" target="JFK" start="2003-10-01" end="2003-10-31" weight="62"/>
+<edge source="BUF" target="JFK" start="2003-10-01" end="2003-10-31" weight="147"/>
+<edge source="CLE" target="JFK" start="2003-10-01" end="2003-10-31" weight="31"/>
+<edge source="CVG" target="JFK" start="2003-10-01" end="2003-10-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2003-10-01" end="2003-10-31" weight="190"/>
+<edge source="DEN" target="JFK" start="2003-10-01" end="2003-10-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2003-10-01" end="2003-10-31" weight="62"/>
+<edge source="DTW" target="JFK" start="2003-10-01" end="2003-10-31" weight="62"/>
+<edge source="FLL" target="JFK" start="2003-10-01" end="2003-10-31" weight="519"/>
+<edge source="IAD" target="JFK" start="2003-10-01" end="2003-10-31" weight="209"/>
+<edge source="IAH" target="JFK" start="2003-10-01" end="2003-10-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2003-10-01" end="2003-10-31" weight="278"/>
+<edge source="LAX" target="JFK" start="2003-10-01" end="2003-10-31" weight="562"/>
+<edge source="LGB" target="JFK" start="2003-10-01" end="2003-10-31" weight="306"/>
+<edge source="MCO" target="JFK" start="2003-10-01" end="2003-10-31" weight="332"/>
+<edge source="MIA" target="JFK" start="2003-10-01" end="2003-10-31" weight="155"/>
+<edge source="MSP" target="JFK" start="2003-10-01" end="2003-10-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2003-10-01" end="2003-10-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2003-10-01" end="2003-10-31" weight="186"/>
+<edge source="ONT" target="JFK" start="2003-10-01" end="2003-10-31" weight="31"/>
+<edge source="PBI" target="JFK" start="2003-10-01" end="2003-10-31" weight="216"/>
+<edge source="PHL" target="JFK" start="2003-10-01" end="2003-10-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2003-10-01" end="2003-10-31" weight="125"/>
+<edge source="RDU" target="JFK" start="2003-10-01" end="2003-10-31" weight="92"/>
+<edge source="ROC" target="JFK" start="2003-10-01" end="2003-10-31" weight="120"/>
+<edge source="RSW" target="JFK" start="2003-10-01" end="2003-10-31" weight="116"/>
+<edge source="SAN" target="JFK" start="2003-10-01" end="2003-10-31" weight="155"/>
+<edge source="SEA" target="JFK" start="2003-10-01" end="2003-10-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2003-10-01" end="2003-10-31" weight="337"/>
+<edge source="SJC" target="JFK" start="2003-10-01" end="2003-10-31" weight="58"/>
+<edge source="SJU" target="JFK" start="2003-10-01" end="2003-10-31" weight="295"/>
+<edge source="SLC" target="JFK" start="2003-10-01" end="2003-10-31" weight="93"/>
+<edge source="SNA" target="JFK" start="2003-10-01" end="2003-10-31" weight="89"/>
+<edge source="STL" target="JFK" start="2003-10-01" end="2003-10-31" weight="57"/>
+<edge source="STT" target="JFK" start="2003-10-01" end="2003-10-31" weight="13"/>
+<edge source="SYR" target="JFK" start="2003-10-01" end="2003-10-31" weight="81"/>
+<edge source="TPA" target="JFK" start="2003-10-01" end="2003-10-31" weight="248"/>
+
+<edge source="ATL" target="JFK" start="2003-11-01" end="2003-11-30" weight="244"/>
+<edge source="BOS" target="JFK" start="2003-11-01" end="2003-11-30" weight="306"/>
+<edge source="BTV" target="JFK" start="2003-11-01" end="2003-11-30" weight="84"/>
+<edge source="BUF" target="JFK" start="2003-11-01" end="2003-11-30" weight="146"/>
+<edge source="CLE" target="JFK" start="2003-11-01" end="2003-11-30" weight="30"/>
+<edge source="CVG" target="JFK" start="2003-11-01" end="2003-11-30" weight="60"/>
+<edge source="DCA" target="JFK" start="2003-11-01" end="2003-11-30" weight="155"/>
+<edge source="DEN" target="JFK" start="2003-11-01" end="2003-11-30" weight="30"/>
+<edge source="DFW" target="JFK" start="2003-11-01" end="2003-11-30" weight="90"/>
+<edge source="DTW" target="JFK" start="2003-11-01" end="2003-11-30" weight="54"/>
+<edge source="FLL" target="JFK" start="2003-11-01" end="2003-11-30" weight="533"/>
+<edge source="IAD" target="JFK" start="2003-11-01" end="2003-11-30" weight="197"/>
+<edge source="IAH" target="JFK" start="2003-11-01" end="2003-11-30" weight="29"/>
+<edge source="LAS" target="JFK" start="2003-11-01" end="2003-11-30" weight="268"/>
+<edge source="LAX" target="JFK" start="2003-11-01" end="2003-11-30" weight="582"/>
+<edge source="LGB" target="JFK" start="2003-11-01" end="2003-11-30" weight="291"/>
+<edge source="MCO" target="JFK" start="2003-11-01" end="2003-11-30" weight="312"/>
+<edge source="MIA" target="JFK" start="2003-11-01" end="2003-11-30" weight="150"/>
+<edge source="MSP" target="JFK" start="2003-11-01" end="2003-11-30" weight="30"/>
+<edge source="MSY" target="JFK" start="2003-11-01" end="2003-11-30" weight="30"/>
+<edge source="OAK" target="JFK" start="2003-11-01" end="2003-11-30" weight="176"/>
+<edge source="ONT" target="JFK" start="2003-11-01" end="2003-11-30" weight="29"/>
+<edge source="PBI" target="JFK" start="2003-11-01" end="2003-11-30" weight="250"/>
+<edge source="PHL" target="JFK" start="2003-11-01" end="2003-11-30" weight="30"/>
+<edge source="PHX" target="JFK" start="2003-11-01" end="2003-11-30" weight="119"/>
+<edge source="RDU" target="JFK" start="2003-11-01" end="2003-11-30" weight="90"/>
+<edge source="ROC" target="JFK" start="2003-11-01" end="2003-11-30" weight="115"/>
+<edge source="RSW" target="JFK" start="2003-11-01" end="2003-11-30" weight="136"/>
+<edge source="SAN" target="JFK" start="2003-11-01" end="2003-11-30" weight="149"/>
+<edge source="SEA" target="JFK" start="2003-11-01" end="2003-11-30" weight="89"/>
+<edge source="SFO" target="JFK" start="2003-11-01" end="2003-11-30" weight="319"/>
+<edge source="SJC" target="JFK" start="2003-11-01" end="2003-11-30" weight="54"/>
+<edge source="SJU" target="JFK" start="2003-11-01" end="2003-11-30" weight="286"/>
+<edge source="SLC" target="JFK" start="2003-11-01" end="2003-11-30" weight="90"/>
+<edge source="SNA" target="JFK" start="2003-11-01" end="2003-11-30" weight="84"/>
+<edge source="STT" target="JFK" start="2003-11-01" end="2003-11-30" weight="35"/>
+<edge source="SYR" target="JFK" start="2003-11-01" end="2003-11-30" weight="85"/>
+<edge source="TPA" target="JFK" start="2003-11-01" end="2003-11-30" weight="249"/>
+
+<edge source="ATL" target="JFK" start="2003-12-01" end="2003-12-31" weight="223"/>
+<edge source="BOS" target="JFK" start="2003-12-01" end="2003-12-31" weight="317"/>
+<edge source="BTV" target="JFK" start="2003-12-01" end="2003-12-31" weight="91"/>
+<edge source="BUF" target="JFK" start="2003-12-01" end="2003-12-31" weight="150"/>
+<edge source="CLE" target="JFK" start="2003-12-01" end="2003-12-31" weight="28"/>
+<edge source="CVG" target="JFK" start="2003-12-01" end="2003-12-31" weight="62"/>
+<edge source="DCA" target="JFK" start="2003-12-01" end="2003-12-31" weight="159"/>
+<edge source="DEN" target="JFK" start="2003-12-01" end="2003-12-31" weight="31"/>
+<edge source="DFW" target="JFK" start="2003-12-01" end="2003-12-31" weight="93"/>
+<edge source="DTW" target="JFK" start="2003-12-01" end="2003-12-31" weight="60"/>
+<edge source="FLL" target="JFK" start="2003-12-01" end="2003-12-31" weight="570"/>
+<edge source="IAD" target="JFK" start="2003-12-01" end="2003-12-31" weight="212"/>
+<edge source="IAH" target="JFK" start="2003-12-01" end="2003-12-31" weight="31"/>
+<edge source="LAS" target="JFK" start="2003-12-01" end="2003-12-31" weight="253"/>
+<edge source="LAX" target="JFK" start="2003-12-01" end="2003-12-31" weight="587"/>
+<edge source="LGB" target="JFK" start="2003-12-01" end="2003-12-31" weight="332"/>
+<edge source="MCO" target="JFK" start="2003-12-01" end="2003-12-31" weight="394"/>
+<edge source="MIA" target="JFK" start="2003-12-01" end="2003-12-31" weight="164"/>
+<edge source="MSP" target="JFK" start="2003-12-01" end="2003-12-31" weight="31"/>
+<edge source="MSY" target="JFK" start="2003-12-01" end="2003-12-31" weight="31"/>
+<edge source="OAK" target="JFK" start="2003-12-01" end="2003-12-31" weight="214"/>
+<edge source="ONT" target="JFK" start="2003-12-01" end="2003-12-31" weight="31"/>
+<edge source="PBI" target="JFK" start="2003-12-01" end="2003-12-31" weight="295"/>
+<edge source="PHL" target="JFK" start="2003-12-01" end="2003-12-31" weight="31"/>
+<edge source="PHX" target="JFK" start="2003-12-01" end="2003-12-31" weight="125"/>
+<edge source="RDU" target="JFK" start="2003-12-01" end="2003-12-31" weight="93"/>
+<edge source="ROC" target="JFK" start="2003-12-01" end="2003-12-31" weight="122"/>
+<edge source="RSW" target="JFK" start="2003-12-01" end="2003-12-31" weight="172"/>
+<edge source="SAN" target="JFK" start="2003-12-01" end="2003-12-31" weight="154"/>
+<edge source="SEA" target="JFK" start="2003-12-01" end="2003-12-31" weight="93"/>
+<edge source="SFO" target="JFK" start="2003-12-01" end="2003-12-31" weight="356"/>
+<edge source="SJC" target="JFK" start="2003-12-01" end="2003-12-31" weight="56"/>
+<edge source="SJU" target="JFK" start="2003-12-01" end="2003-12-31" weight="347"/>
+<edge source="SLC" target="JFK" start="2003-12-01" end="2003-12-31" weight="93"/>
+<edge source="SNA" target="JFK" start="2003-12-01" end="2003-12-31" weight="86"/>
+<edge source="STT" target="JFK" start="2003-12-01" end="2003-12-31" weight="44"/>
+<edge source="SYR" target="JFK" start="2003-12-01" end="2003-12-31" weight="91"/>
+<edge source="TPA" target="JFK" start="2003-12-01" end="2003-12-31" weight="279"/>
+
+
+    
+    
+    </edges>
+  </graph>
+</gexf>
